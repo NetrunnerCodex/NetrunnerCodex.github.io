@@ -37,14 +37,16 @@ In Android: Netrunner, each player starts with five credits, five cards in hand,
 Corporations seek to score agendas by advancing them. Doing so takes time and credits. To buy the time and earn the credits they need, they must secure their servers and data forts with “ice.” These security programs come in different varieties, from simple barriers to code gates and aggressive sentries. They serve as the corporation’s virtual eyes, ears, and machine guns on the sprawling information superhighways of the network.
 
 <center style="margin-top: 0; padding-top: 0;"> 
-<img src="/assets/images/home/4.png" alt="img" width: 250px /></center>
+<img src="/assets/images/home/4.png" alt="img" width: 250px />
+</center>
 
 In turn, runners need to spend their time and credits acquiring a sufficient wealth of resources, purchasing the necessary hardware, and developing suitably powerful ice-breaker programs to hack past corporate security measures. Their jobs are always a little desperate, driven by tight timelines, and shrouded in mystery. When a runner jacks-in and starts a run at a corporate server, he risks having his best programs trashed or being caught by a trace program and left vulnerable to corporate countermeasures. It’s not uncommon for an unprepared runner to fail to bypass a nasty sentry and suffer massive brain damage as a result. Even if a runner gets through a data fort’s defenses, there’s no telling what it holds. Sometimes, the runner finds something of value. Sometimes, the best he can do is work to trash whatever the corporation was developing.
 
 Players in Android: Netrunner find themselves in a game of ever-building tension. The corporation’s every step is an investment in the grand scheme, but can they protect their assets from the runner’s ingenuity? And while a runner presses to prevent the corporation from achieving its goals, he must decide whether he can afford to run blind. Will the next piece of ice be the one that renders him comatose? Will the corporation finally tag him and send a hit man his way? Will he steal the corporation’s most valuable secrets, or will he stumble into an explosive trap?
 
 <center style="margin-top: 0; padding-top: 0;"> 
-<img src="/assets/images/home/5.png" alt="img" width: 700px /></center>
+<img src="/assets/images/home/5.png" alt="img" width: 700px />
+</center>
 
 ## Corporate Giants and Smooth Criminals
 
