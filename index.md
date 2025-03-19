@@ -60,16 +60,21 @@ Android: Netrunner introduces identity cards, which represent different corporat
 
 Amid the future’s breath-taking developments, four giant corporations tower above the rest as paragons of industry.
 
-- Haas-Bioroid leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
-- Jinteki is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
-- NBN owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
-- The Weyland Consortium has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/haas-bioroid.svg" width="24" height="24"> **Haas-Bioroid** leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
+
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Jinteki%20Simple.svg" width="24" height="24"> **Jinteki** is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
+
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg" width="24" height="24"> **NBN** owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
+
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg" width="24" height="24"> **The Weyland Consortium** has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
 
 Conversely, netrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
 
-- Anarchs like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
-- Criminals like Gabriel Santiago are in it for the credits. They get paid for the secrets they uncover. Consummate professionals, these runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
-- Shapers like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Anarch.svg" width="24" height="24"> **Anarchs** like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
+
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Criminal.svg" width="24" height="24">  **Criminals** like Gabriel Santiago are in it for the credits. They get paid for the secrets they uncover. Consummate professionals, these runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
+
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Shaper-smooth.svg" width="24" height="24"> **Shapers** like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
 
 <div style="display: flex; justify-content: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/home/6.png" alt="Image 6" style="width: 300px; margin-right: 10px;" />
