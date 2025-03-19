@@ -2,9 +2,13 @@
 title: Home
 layout: home
 ---
+<center style="margin-top: 0; padding-top: 0;"> 
+<img src="/assets/images/home/1.jpg" alt="img" /></center>
+</center>
 
-# Android: Netrunner The Card Game
+## Android: Netrunner The Card Game
 
+<img src="/assets/images/home/2.png" alt="img" style="float: right; width: 300px; margin: 0 0 10px 10px;" />
 Android: Netrunner is a two-player card game set in a dystopian, cyberpunk future where monolithic megacorps own and control the vast majority of human interests.
 
 While corporation players try to score points by advancing their agendas, they have to guard their intellectual properties from the elite and subversive hackers known as netrunners. Netrunners attempt to win the game by stealing the corp's agendas, by any means possible!
