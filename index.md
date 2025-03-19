@@ -4,8 +4,7 @@ layout: home
 ---
 <center style="margin-top: 0; padding-top: 0;">
 <img src="/assets/images/netrunner-codex200.png" alt="logo" />    
-<p class="fw-700 text-blue-200">>_Welcome to the Netrunner Codex,</p>
-<p class="fw-700 text-blue-200">>_your central resource for decoding the Android Netrunner rules</p>    
+<p class="fw-700 text-blue-200">Welcome to the Netrunner Codex,<br>your central resource for decoding the Android Netrunner card game rules</p>    
 </center>
 <br>
 
