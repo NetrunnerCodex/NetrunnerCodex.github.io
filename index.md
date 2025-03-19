@@ -3,6 +3,7 @@ title: Home
 layout: home
 ---
 <center style="margin-top: 0; padding-top: 0;">
+<img src="/assets/images/netrunner-codex200.png" alt="logo" />    
 <p class="fw-700 text-blue-200">>_Welcome to the Netrunner Codex, your central resource for decoding the Android Netrunner rules</p>
 </center>
 <br>
