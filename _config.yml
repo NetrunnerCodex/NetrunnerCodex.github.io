@@ -6,8 +6,8 @@ url: https://netrunnercodex.github.io
 
 permalink: pretty
 
-# logo: "/assets/images/logo512.png"
-# favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/netrunner-codex200.png"
+favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: foo
 
