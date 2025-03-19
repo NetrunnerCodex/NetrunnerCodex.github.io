@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/home/1.jpg" alt="Image 1" margin: 10px;" />
+    <img src="/assets/images/home/1.jpg" alt="Image 1" style="margin: 10px;" />
 </div>
   
 ## Android: Netrunner The Card Game
@@ -72,3 +72,10 @@ Conversely, netrunners are identified by their motives more than by their achiev
 </div>
 
 Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
+
+{: .note-title }
+> Sources
+> <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">FFG Android: Netrunner</a> Sep 2018
+> <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play</a> Dec 2017
+> <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference</a> Aug 2018
+> <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ</a> Sep 2018 (4.2)
