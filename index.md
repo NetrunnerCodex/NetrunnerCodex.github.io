@@ -2,8 +2,9 @@
 title: Home
 layout: home
 ---
-<center style="margin-top: 0; padding-top: 0;"> 
-<img src="/assets/images/home/1.jpg" alt="img" /></center>
+<div style="text-align: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/home/1.jpg" alt="Image 1" margin: 10px;" />
+</div>
   
 ## Android: Netrunner The Card Game
 
@@ -16,9 +17,9 @@ While corporation players try to score points by advancing their agendas, they h
 
 Technological advances have allowed corporations to push the envelope of human experience to heights previously unimaginable. Mankind has colonized the Moon and Mars. Powerful computer and neurobiological technologies have allowed scientists to create digital maps of the mind, empowering new artificial intelligences and electronic brain interfaces. Gone are the days of the mouse and the keyboard. Most users transfer data via gestural interfaces and virt displays, but the elite “jack-in,” connecting their brains directly to their computers and, beyond them, the omnipresent network.
 
-<center style="margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/home/3.png" alt="img" width="700px" />
-</center>
+<div style="text-align: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/home/3.png" alt="Image 3" style="width: 700px; margin: 10px;" />
+</div>
 
 Everyone relies on the network, the all-seeing, all-hearing grid that surrounds Earth and reaches out into the solar system. More data flows through the network every second than was ever expressed in the first five-thousand years of written language. It is a surveillance network, a financial system, and a library. It is the backbone of modern civilization. It is also the greatest weakness the megacorps have.
 
