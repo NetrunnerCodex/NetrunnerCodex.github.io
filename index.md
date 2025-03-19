@@ -16,8 +16,9 @@ While corporation players try to score points by advancing their agendas, they h
 
 Technological advances have allowed corporations to push the envelope of human experience to heights previously unimaginable. Mankind has colonized the Moon and Mars. Powerful computer and neurobiological technologies have allowed scientists to create digital maps of the mind, empowering new artificial intelligences and electronic brain interfaces. Gone are the days of the mouse and the keyboard. Most users transfer data via gestural interfaces and virt displays, but the elite “jack-in,” connecting their brains directly to their computers and, beyond them, the omnipresent network.
 
-<center style="margin-top: 0; padding-top: 0;"> 
-<img src="/assets/images/home/3.png" alt="img"; width: 700px; /></center>
+<center style="margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/home/3.png" alt="img" width="700px" />
+</center>
 
 Everyone relies on the network, the all-seeing, all-hearing grid that surrounds Earth and reaches out into the solar system. More data flows through the network every second than was ever expressed in the first five-thousand years of written language. It is a surveillance network, a financial system, and a library. It is the backbone of modern civilization. It is also the greatest weakness the megacorps have.
 
@@ -36,11 +37,14 @@ In Android: Netrunner, each player starts with five credits, five cards in hand,
 Corporations seek to score agendas by advancing them. Doing so takes time and credits. To buy the time and earn the credits they need, they must secure their servers and data forts with “ice.” These security programs come in different varieties, from simple barriers to code gates and aggressive sentries. They serve as the corporation’s virtual eyes, ears, and machine guns on the sprawling information superhighways of the network.
 
 <center style="margin-top: 0; padding-top: 0;"> 
-<img src="/assets/images/home/4.png" alt="img"; width: 250px; /></center>
+<img src="/assets/images/home/4.png" alt="img" width: 250px /></center>
 
 In turn, runners need to spend their time and credits acquiring a sufficient wealth of resources, purchasing the necessary hardware, and developing suitably powerful ice-breaker programs to hack past corporate security measures. Their jobs are always a little desperate, driven by tight timelines, and shrouded in mystery. When a runner jacks-in and starts a run at a corporate server, he risks having his best programs trashed or being caught by a trace program and left vulnerable to corporate countermeasures. It’s not uncommon for an unprepared runner to fail to bypass a nasty sentry and suffer massive brain damage as a result. Even if a runner gets through a data fort’s defenses, there’s no telling what it holds. Sometimes, the runner finds something of value. Sometimes, the best he can do is work to trash whatever the corporation was developing.
 
 Players in Android: Netrunner find themselves in a game of ever-building tension. The corporation’s every step is an investment in the grand scheme, but can they protect their assets from the runner’s ingenuity? And while a runner presses to prevent the corporation from achieving its goals, he must decide whether he can afford to run blind. Will the next piece of ice be the one that renders him comatose? Will the corporation finally tag him and send a hit man his way? Will he steal the corporation’s most valuable secrets, or will he stumble into an explosive trap?
+
+<center style="margin-top: 0; padding-top: 0;"> 
+<img src="/assets/images/home/5.png" alt="img" width: 700px /></center>
 
 ## Corporate Giants and Smooth Criminals
 
@@ -58,5 +62,10 @@ Conversely, netrunners are identified by their motives more than by their achiev
 - Anarchs like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
 - Criminals like Gabriel Santiago are in it for the credits. They get paid for the secrets they uncover. Consummate professionals, these runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
 - Shapers like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
+
+<div style="display: flex; justify-content: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/home/6.png" alt="Image 6" style="width: 300px; margin-right: 10px;" />
+    <img src="/assets/images/home/7.png" alt="Image 7" style="width: 300px;" />
+</div>
 
 Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
