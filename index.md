@@ -2,6 +2,11 @@
 title: Home
 layout: home
 ---
+<center style="margin-top: 0; padding-top: 0;">
+<p class="fw-700 text-blue-200">>_Welcome to the Netrunner Codex, your central resource for decoding the Android Netrunner rules</p>
+</center>
+<br>
+
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/home/1.jpg" alt="Image 1" style="margin: 10px;" />
 </div>
