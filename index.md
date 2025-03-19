@@ -3,9 +3,8 @@ title: Home
 layout: home
 ---
 <center style="margin-top: 0; padding-top: 0;"> 
-<img src="/assets/images/home/1.jpg" alt="img" /></center>
-</center>
-
+<img src="/assets/images/home/1.jpg" alt="img" />
+  
 ## Android: Netrunner The Card Game
 
 <img src="/assets/images/home/2.png" alt="img" style="float: right; width: 300px; margin: 0 0 10px 10px;" />
@@ -16,6 +15,9 @@ While corporation players try to score points by advancing their agendas, they h
 ## New World Order
 
 Technological advances have allowed corporations to push the envelope of human experience to heights previously unimaginable. Mankind has colonized the Moon and Mars. Powerful computer and neurobiological technologies have allowed scientists to create digital maps of the mind, empowering new artificial intelligences and electronic brain interfaces. Gone are the days of the mouse and the keyboard. Most users transfer data via gestural interfaces and virt displays, but the elite “jack-in,” connecting their brains directly to their computers and, beyond them, the omnipresent network.
+
+<center style="margin-top: 0; padding-top: 0;"> 
+<img src="/assets/images/home/3.png" alt="img"; width: 700px; />
 
 Everyone relies on the network, the all-seeing, all-hearing grid that surrounds Earth and reaches out into the solar system. More data flows through the network every second than was ever expressed in the first five-thousand years of written language. It is a surveillance network, a financial system, and a library. It is the backbone of modern civilization. It is also the greatest weakness the megacorps have.
 
@@ -32,6 +34,9 @@ Players familiar with the original will recognize its gritty, noir, cyberpunk fe
 In Android: Netrunner, each player starts with five credits, five cards in hand, and a set number of actions per turn. Each player seeks to score seven points from agendas, but from there the corporation and runner move in two wildly different and wholly flavorful directions.
 
 Corporations seek to score agendas by advancing them. Doing so takes time and credits. To buy the time and earn the credits they need, they must secure their servers and data forts with “ice.” These security programs come in different varieties, from simple barriers to code gates and aggressive sentries. They serve as the corporation’s virtual eyes, ears, and machine guns on the sprawling information superhighways of the network.
+
+<center style="margin-top: 0; padding-top: 0;"> 
+<img src="/assets/images/home/4.png" alt="img"; width: 250px; />
 
 In turn, runners need to spend their time and credits acquiring a sufficient wealth of resources, purchasing the necessary hardware, and developing suitably powerful ice-breaker programs to hack past corporate security measures. Their jobs are always a little desperate, driven by tight timelines, and shrouded in mystery. When a runner jacks-in and starts a run at a corporate server, he risks having his best programs trashed or being caught by a trace program and left vulnerable to corporate countermeasures. It’s not uncommon for an unprepared runner to fail to bypass a nasty sentry and suffer massive brain damage as a result. Even if a runner gets through a data fort’s defenses, there’s no telling what it holds. Sometimes, the runner finds something of value. Sometimes, the best he can do is work to trash whatever the corporation was developing.
 
