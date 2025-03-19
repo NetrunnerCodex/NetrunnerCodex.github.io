@@ -3,33 +3,51 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Android: Netrunner The Card Game
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Android: Netrunner is a two-player card game set in a dystopian, cyberpunk future where monolithic megacorps own and control the vast majority of human interests.
 
-More specifically, the created site:
+While corporation players try to score points by advancing their agendas, they have to guard their intellectual properties from the elite and subversive hackers known as netrunners. Netrunners attempt to win the game by stealing the corp's agendas, by any means possible!
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## New World Order
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Technological advances have allowed corporations to push the envelope of human experience to heights previously unimaginable. Mankind has colonized the Moon and Mars. Powerful computer and neurobiological technologies have allowed scientists to create digital maps of the mind, empowering new artificial intelligences and electronic brain interfaces. Gone are the days of the mouse and the keyboard. Most users transfer data via gestural interfaces and virt displays, but the elite “jack-in,” connecting their brains directly to their computers and, beyond them, the omnipresent network.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Everyone relies on the network, the all-seeing, all-hearing grid that surrounds Earth and reaches out into the solar system. More data flows through the network every second than was ever expressed in the first five-thousand years of written language. It is a surveillance network, a financial system, and a library. It is the backbone of modern civilization. It is also the greatest weakness the megacorps have.
 
-To get started with creating a site, simply:
+There are those who hunt constantly for flaws in corporate security measures. They hunt for different purposes. Some hope to expose the root hypocrisy of these business giants built upon the labor of mistreated and impoverished drones and held in place by fraudulently legitimized monopolies. Some want to explode the walls that hide corporate secrets and usher in a new age of free information. And others merely want to make some quick credits, hacking for secrets and turning them around on the black market. These rogue operators with the hardware, software, and raw talent to exploit the corporations greatest weaknesses are the individualists known as netrunners.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## The Future Is Now
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+When Wizards of the Coast originally released Netrunner in 1996, it was widely hailed as one of the greatest customizable card games of that era. In 2012, Fantasy Flight Games (FFG) updated this classic card game by Richard Garfield as a Living Card Game model.
 
-----
+Players familiar with the original will recognize its gritty, noir, cyberpunk feel and the tense, strategic action engendered by balancing their actions, but they’ll also find plenty of exciting enhancements in Android: Netrunner. Several of the more troublesome mechanics have been cleaned up and clarified, and the introduction of identities into the card pool creates a more dynamic play environment.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## Asymmetrical Game Play
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+In Android: Netrunner, each player starts with five credits, five cards in hand, and a set number of actions per turn. Each player seeks to score seven points from agendas, but from there the corporation and runner move in two wildly different and wholly flavorful directions.
+
+Corporations seek to score agendas by advancing them. Doing so takes time and credits. To buy the time and earn the credits they need, they must secure their servers and data forts with “ice.” These security programs come in different varieties, from simple barriers to code gates and aggressive sentries. They serve as the corporation’s virtual eyes, ears, and machine guns on the sprawling information superhighways of the network.
+
+In turn, runners need to spend their time and credits acquiring a sufficient wealth of resources, purchasing the necessary hardware, and developing suitably powerful ice-breaker programs to hack past corporate security measures. Their jobs are always a little desperate, driven by tight timelines, and shrouded in mystery. When a runner jacks-in and starts a run at a corporate server, he risks having his best programs trashed or being caught by a trace program and left vulnerable to corporate countermeasures. It’s not uncommon for an unprepared runner to fail to bypass a nasty sentry and suffer massive brain damage as a result. Even if a runner gets through a data fort’s defenses, there’s no telling what it holds. Sometimes, the runner finds something of value. Sometimes, the best he can do is work to trash whatever the corporation was developing.
+
+Players in Android: Netrunner find themselves in a game of ever-building tension. The corporation’s every step is an investment in the grand scheme, but can they protect their assets from the runner’s ingenuity? And while a runner presses to prevent the corporation from achieving its goals, he must decide whether he can afford to run blind. Will the next piece of ice be the one that renders him comatose? Will the corporation finally tag him and send a hit man his way? Will he steal the corporation’s most valuable secrets, or will he stumble into an explosive trap?
+
+## Corporate Giants and Smooth Criminals
+
+Android: Netrunner introduces identity cards, which represent different corporations and runner classes. Each plays according to its own distinctive style.
+
+Amid the future’s breath-taking developments, four giant corporations tower above the rest as paragons of industry.
+
+- Haas-Bioroid leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
+- Jinteki is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
+- NBN owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
+- The Weyland Consortium has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
+
+Conversely, netrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
+
+- Anarchs like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
+- Criminals like Gabriel Santiago are in it for the credits. They get paid for the secrets they uncover. Consummate professionals, these runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
+- Shapers like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
+
+Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
