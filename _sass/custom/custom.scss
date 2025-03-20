@@ -1,7 +1,11 @@
 // Icons
 
+p {
+  display: flex; /* Makes the paragraph a flexible container */
+  align-items: center; /* Vertically aligns items inside the paragraph */
+}
+
 .nic {
-  vertical-align: middle; /* Aligns the icon with the text */
   filter: grayscale(50%) brightness(0.4); /* Applies styling like dark gray */
   width: 20px; /* Adjust size as needed */
   height: 20px;
