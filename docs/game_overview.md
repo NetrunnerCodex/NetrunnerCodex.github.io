@@ -3,7 +3,7 @@ parent: Welcome
 title: Game Overview
 layout: default
 has_children: false
-nav_order: 20
+nav_order: 15
 ---
 {: .note-title }
 > Read This First
