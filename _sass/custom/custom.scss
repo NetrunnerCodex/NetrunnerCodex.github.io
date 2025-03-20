@@ -1,13 +1,25 @@
 // Icons
 
-p {
-  display: flex; /* Makes the paragraph a flexible container */
-  align-items: center; /* Vertically aligns items inside the paragraph */
+.nic {
+  vertical-align: middle; /* Aligns the icon and text vertically */
+  filter: grayscale(50%) brightness(0.4); /* Applies the dark gray color effect */
+  width: 20px; /* Sets the icon's width */
+  height: 20px; /* Sets the icon's height */
+  margin-right: 4px; /* Adds space between the icon and the text */
 }
 
-.nic {
-  filter: grayscale(50%) brightness(0.4); /* Applies styling like dark gray */
-  width: 20px; /* Adjust size as needed */
-  height: 20px;
-  margin-right: 4px; /* Adds space between the icon and text */
+.haas {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/haas-bioroid.svg'); /* Reference the SVG as a mask */
+  mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/haas-bioroid.svg');
+  -webkit-mask-size: contain; /* Ensure the SVG scales proportionally */
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat; /* Prevent the mask from repeating */
+  mask-repeat: no-repeat;
+  background-color: #6c6c6c; /* Dynamically set the icon's color */
+  width: 20px; /* Set the icon's width */
+  height: 20px; /* Set the icon's height */
+  margin-right: 4px; /* Optional: Add spacing to separate from text */
 }
+
