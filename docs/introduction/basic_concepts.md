@@ -1,5 +1,5 @@
 ---
-parent: introduction
+parent: Introduction
 title: Basic Concepts
 layout: default
 has_children: false
