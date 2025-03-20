@@ -16,7 +16,7 @@ Android: Netrunner is an asymmetrical game for two players. One player is the Ru
 
 During a game of Android: Netrunner, the Runner uses their turns to build a rig of hardware and programs that they can use to steal agendas from the Corp’s servers. The Corp must defend their servers from the Runner’s attacks while trying to advance agendas before the Runner can steal them. The first player to have seven points worth of agendas wins!
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+<div style="margin-top: 20px; display: flex; justify-content: center;">
     <div style="position: relative; padding-bottom: 56.25%; width: 100%; max-width: 560px; height: 0; overflow: hidden;">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1dtvARFeCvw?si=IDwFzW3dTG1ZDWC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
