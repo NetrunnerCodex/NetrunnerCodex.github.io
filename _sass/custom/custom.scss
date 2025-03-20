@@ -1,13 +1,14 @@
 // Icons
 
 .nic {
-  display: inline-flex; /* Keeps the image and text on the same line */
-  align-items: center;  /* Vertically aligns the image and text */
-  gap: 8px;             /* Adds spacing between the image and the text */
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .nic img {
-  filter: grayscale(50%) brightness(0.3);
+  display: inline-block;
+  vertical-align: middle;
+  filter: grayscale(50%) brightness(0.4);
   width: 24px;
   height: 24px;
 }
