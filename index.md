@@ -1,6 +1,8 @@
 ---
 title: Welcome
 layout: home
+has_children: true
+nav_order: 0
 ---
 <center style="margin-top: 0; padding-top: 0;">
 <img src="/assets/images/netrunner-codex200.png" alt="logo" />    
