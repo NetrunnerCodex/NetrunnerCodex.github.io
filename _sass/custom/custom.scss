@@ -1,22 +1,9 @@
 // Icons
 
-.nic-table {
-  display: table;
-  width: 100%; /* Optional: Adjust the width as necessary */
-}
-
-.nic-table-row {
-  display: table-row;
-}
-
-.nic-table-cell {
-  display: table-cell;
-  vertical-align: middle; /* Aligns the content vertically */
-  padding: 4px 8px; /* Adds some spacing between cells */
-}
-
-.nic-table-cell img {
-  filter: grayscale(50%) brightness(0.4); /* Applies dark gray styling */
-  width: 20px; /* Custom width for the image */
-  height: 20px; /* Custom height for the image */
+.nic {
+  vertical-align: middle; /* Aligns the icon with the text */
+  filter: grayscale(50%) brightness(0.4); /* Applies styling like dark gray */
+  width: 20px; /* Adjust size as needed */
+  height: 20px;
+  margin-right: 4px; /* Adds space between the icon and text */
 }
