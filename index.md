@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome
 layout: home
 ---
 <center style="margin-top: 0; padding-top: 0;">
