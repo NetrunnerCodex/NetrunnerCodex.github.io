@@ -61,7 +61,7 @@ Android: Netrunner introduces identity cards, which represent different corporat
 Amid the future’s breath-taking developments, four giant corporations tower above the rest as paragons of industry.
 
 <p>
-  <span class="haas"></span> Haas-Bioroid leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
+  <span class="nic haas"></span> Haas-Bioroid leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
 </p>
 
 <img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Jinteki%20Simple.svg" width="24" height="24"> **Jinteki** is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
