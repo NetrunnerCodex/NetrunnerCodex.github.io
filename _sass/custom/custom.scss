@@ -1,7 +1,7 @@
 // Icons
 
-.nic {
-  fill: darkgray;
+.nic img {
+  filter: grayscale(100%) brightness(0.3);
   width: 24px;
   height: 24px;
 }
