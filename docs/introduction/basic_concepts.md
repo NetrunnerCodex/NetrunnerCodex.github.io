@@ -13,7 +13,7 @@ Identity cards start the game in play and represent the specific Runner or Corp 
 {: .note-title }
 > Note
 >
-> The Corp’s identity card also represents their HQ for the purposes of card installation.)
+> The Corp’s identity card also represents their HQ for the purposes of card installation.
 
 ## Agendas
 An agenda is a type of Corp card that represents valuable pieces of data. Over the course of the game, the Runner must find and steal these agendas, and the Corp must advance and score them.
