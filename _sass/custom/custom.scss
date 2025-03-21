@@ -26,4 +26,13 @@
   mask-repeat: no-repeat;
 }
 
+.jinteki {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Jinteki%20Simple.svg');
+  mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Jinteki%20Simple.svg');
+  -webkit-mask-size: contain; /* Ensures the mask scales proportionally */
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat; /* Prevents repeat */
+  mask-repeat: no-repeat;
+}
+
 
