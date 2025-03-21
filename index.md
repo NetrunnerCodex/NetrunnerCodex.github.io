@@ -99,12 +99,12 @@ Conversely, netrunners are identified by their motives more than by their achiev
   <img
     src="/assets/images/home/6.png"
     alt="Image 6"
-    style="flex: 1 1 0; max-width: 300px; height: auto;"
+    style="width: calc(50% - 5px); height: auto;"
   />
   <img
     src="/assets/images/home/7.png"
     alt="Image 7"
-    style="flex: 1 1 0; max-width: 300px; height: auto;"
+    style="width: calc(50% - 5px); height: auto;"
   />
 </div>
 
