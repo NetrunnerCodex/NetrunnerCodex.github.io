@@ -95,16 +95,16 @@ Conversely, netrunners are identified by their motives more than by their achiev
   <span class="nic-red shaper"></span><span class="red-font">Shapers</span> like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img
     src="/assets/images/home/6.png"
     alt="Image 6"
-    style="width: 100%; max-width: 300px; height: auto;"
+    style="flex: 1 1 0; max-width: 300px; height: auto;"
   />
   <img
     src="/assets/images/home/7.png"
     alt="Image 7"
-    style="width: 100%; max-width: 300px; height: auto;"
+    style="flex: 1 1 0; max-width: 300px; height: auto;"
   />
 </div>
 
