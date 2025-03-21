@@ -21,7 +21,7 @@ This section walks the players through setting up their first game.
 1. **Gain Credits**: Each player gains five credits from the token bank and places them in their play area.
 
 ## Tutorial Corp Deck
-- **Weyland** (108) **Identity**
+- **Weyland** (108) {: .text-blue-200 .fw-500 } Identity
 - 2x Rototurret (69). .................................................. ICE
 - 2x Biotic Labor (72)..................................... Operation
 - 3x Green Level Clearance (73). .................. Operation
@@ -42,23 +42,23 @@ This section walks the players through setting up their first game.
 - 3x Hedge Fund (132)................................... Operation
 
 ## Tutorial Runner Deck
-• Gabriel Santiago (19). .....................................Identity
-• 3x Mimic (13)..................................................Program
-• 1x Ice Carver (15)........................................... Resource
-• 3x Liberated Account (16). ........................... Resource
-• 1x Xanadu (18)............................................... Resource
-• 3x Easy Mark (20). ............................................... Event
-• 2x Forged Activation Orders (22)...................... Event
-• 2x Doppelgänger (25)...................................Hardware
-• 1x HQ Interface (26).....................................Hardware
-• 3x Aurora (27). ................................................Program
-• 3x Peacock (30). ..............................................Program
-• 1x Sneakdoor Beta (32). .................................Program
-• 2x Diesel (38)........................................................ Event
-• 3x Modded (40).................................................... Event
-• 1x The Maker’s Eye (43). ..................................... Event
-• 2x Tinkering (44). ................................................ Event
-• 1x The Personal Touch (47). ........................Hardware
-• 2x Infiltration (55)................................................ Event
-• 3x Sure Gamble (56). ........................................... Event
-• 3x Armitage Codebusting (59)..................... Resource
+- Gabriel Santiago (19). .....................................Identity
+- 3x Mimic (13)..................................................Program
+- 1x Ice Carver (15)........................................... Resource
+- 3x Liberated Account (16). ........................... Resource
+- 1x Xanadu (18)............................................... Resource
+- 3x Easy Mark (20). ............................................... Event
+- 2x Forged Activation Orders (22)...................... Event
+- 2x Doppelgänger (25)...................................Hardware
+- 1x HQ Interface (26).....................................Hardware
+- 3x Aurora (27). ................................................Program
+- 3x Peacock (30). ..............................................Program
+- 1x Sneakdoor Beta (32). .................................Program
+- 2x Diesel (38)........................................................ Event
+- 3x Modded (40).................................................... Event
+- 1x The Maker’s Eye (43). ..................................... Event
+- 2x Tinkering (44). ................................................ Event
+- 1x The Personal Touch (47). ........................Hardware
+- 2x Infiltration (55)................................................ Event
+- 3x Sure Gamble (56). ........................................... Event
+- 3x Armitage Codebusting (59)..................... Resource
