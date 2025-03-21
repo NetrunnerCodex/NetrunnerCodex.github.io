@@ -4,6 +4,11 @@
   color: #264caf;   /* alt text-blue-200 */
 }
 
+.red-font {
+  font-weight: 500; /* alt fw-500 */
+  color: #dd2e2e;   /* alt text-red-300 */
+}
+
 // Icons
 
 /* Size and color */
@@ -11,6 +16,15 @@
   display: inline-block;
   vertical-align: middle;
   background-color: #264caf; /* Icon color */
+  width: 22px; /* Size */
+  height: 22px;
+  margin-right: 4px; /* Spacing between icon and text */
+}
+
+.nic-red {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #dd2e2e; /* Icon color */
   width: 22px; /* Size */
   height: 22px;
   margin-right: 4px; /* Spacing between icon and text */
@@ -47,6 +61,33 @@
 .weyland {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.anarch {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Anarch.svg');
+  mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Anarch.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.criminal {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Criminal.svg');
+  mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Criminal.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.shaper {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Shaper-smooth.svg');
+  mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Shaper-smooth.svg');
   -webkit-mask-size: contain;
   mask-size: contain;
   -webkit-mask-repeat: no-repeat;
