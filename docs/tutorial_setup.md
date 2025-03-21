@@ -43,22 +43,22 @@ This section walks the players through setting up their first game.
 
 ## Tutorial Runner Deck
 - Gabriel Santiago (19) <span class="red-font">Identity</span>
-- 3x Mimic (13)..................................................Program
-- 1x Ice Carver (15)........................................... Resource
-- 3x Liberated Account (16). ........................... Resource
-- 1x Xanadu (18)............................................... Resource
-- 3x Easy Mark (20). ............................................... Event
-- 2x Forged Activation Orders (22)...................... Event
-- 2x Doppelgänger (25)...................................Hardware
-- 1x HQ Interface (26).....................................Hardware
-- 3x Aurora (27). ................................................Program
-- 3x Peacock (30). ..............................................Program
-- 1x Sneakdoor Beta (32). .................................Program
-- 2x Diesel (38)........................................................ Event
-- 3x Modded (40).................................................... Event
-- 1x The Maker’s Eye (43). ..................................... Event
-- 2x Tinkering (44). ................................................ Event
-- 1x The Personal Touch (47). ........................Hardware
-- 2x Infiltration (55)................................................ Event
-- 3x Sure Gamble (56). ........................................... Event
-- 3x Armitage Codebusting (59)..................... Resource
+- 3x Mimic (13) <span class="red-font">Program</span>
+- 1x Ice Carver (15) <span class="red-font">Resource</span>
+- 3x Liberated Account (16) <span class="red-font">Resource</span>
+- 1x Xanadu (18) <span class="red-font">Resource</span>
+- 3x Easy Mark (20) <span class="red-font">Event</span>
+- 2x Forged Activation Orders (22) <span class="red-font">Event</span>
+- 2x Doppelgänger (25) <span class="red-font">Hardware</span>
+- 1x HQ Interface (26) <span class="red-font">Hardware</span>
+- 3x Aurora (27) <span class="red-font">Program</span>
+- 3x Peacock (30) <span class="red-font">Program</span>
+- 1x Sneakdoor Beta (32) <span class="red-font">Program</span>
+- 2x Diesel (38) <span class="red-font">Event</span>
+- 3x Modded (40) <span class="red-font">Event</span>
+- 1x The Maker’s Eye (43) <span class="red-font">Event</span>
+- 2x Tinkering (44) <span class="red-font">Event</span>
+- 1x The Personal Touch (47) <span class="red-font">Hardware</span>
+- 2x Infiltration (55) <span class="red-font">Event</span>
+- 3x Sure Gamble (56) <span class="red-font">Event</span>
+- 3x Armitage Codebusting (59) <span class="red-font">Resource</span>
