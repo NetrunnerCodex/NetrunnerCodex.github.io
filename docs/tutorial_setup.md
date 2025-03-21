@@ -42,7 +42,7 @@ This section walks the players through setting up their first game.
 - 3x Hedge Fund (132) <span class="blue-font">Operation</span>
 
 ## Tutorial Runner Deck
-- Gabriel Santiago (19). .....................................Identity
+- Gabriel Santiago (19) <span class="red-font">Identity</span>
 - 3x Mimic (13)..................................................Program
 - 1x Ice Carver (15)........................................... Resource
 - 3x Liberated Account (16). ........................... Resource
