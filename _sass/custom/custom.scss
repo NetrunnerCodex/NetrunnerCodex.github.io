@@ -6,17 +6,17 @@
 
 // Icons
 
-/* Controls size and color */
+/* Size and color */
 .nic {
   display: inline-block;
   vertical-align: middle;
-  background-color: #264caf; /* Sets the color of the icon */
-  width: 22px; /* Controls the size */
+  background-color: #264caf; /* Icon color */
+  width: 22px; /* Size */
   height: 22px;
   margin-right: 4px; /* Spacing between icon and text */
 }
 
-/* Controls the specific SVG image */
+/* SVG image */
 .haas {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/haas-bioroid.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/haas-bioroid.svg');
@@ -29,26 +29,26 @@
 .jinteki {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Jinteki%20Simple.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Jinteki%20Simple.svg');
-  -webkit-mask-size: contain; /* Ensures the mask scales proportionally */
+  -webkit-mask-size: contain;
   mask-size: contain;
-  -webkit-mask-repeat: no-repeat; /* Prevents repeat */
+  -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 
 .nbn {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg');
-  -webkit-mask-size: contain; /* Ensures the mask scales proportionally */
+  -webkit-mask-size: contain;
   mask-size: contain;
-  -webkit-mask-repeat: no-repeat; /* Prevents repeat */
+  -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 
 .weyland {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg');
-  -webkit-mask-size: contain; /* Ensures the mask scales proportionally */
+  -webkit-mask-size: contain;
   mask-size: contain;
-  -webkit-mask-repeat: no-repeat; /* Prevents repeat */
+  -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
