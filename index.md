@@ -90,17 +90,9 @@ Conversely, netrunners are identified by their motives more than by their achiev
   <span class="nic-red shaper"></span><span class="red-font">Shapers</span> like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img
-    src="/assets/images/home/6.png"
-    alt="Image 6"
-    style="width: calc(50% - 5px); height: auto;"
-  />
-  <img
-    src="/assets/images/home/7.png"
-    alt="Image 7"
-    style="width: calc(50% - 5px); height: auto;"
-  />
+<div style="display: flex; justify-content: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/home/6.png" alt="Image 6" style="width: 300px; margin-right: 10px;" />
+    <img src="/assets/images/home/7.png" alt="Image 7" style="width: 300px;" />
 </div>
 
 Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
