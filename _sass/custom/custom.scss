@@ -35,4 +35,20 @@
   mask-repeat: no-repeat;
 }
 
+.nbn {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg');
+  mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg');
+  -webkit-mask-size: contain; /* Ensures the mask scales proportionally */
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat; /* Prevents repeat */
+  mask-repeat: no-repeat;
+}
 
+.weyland {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg');
+  mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg');
+  -webkit-mask-size: contain; /* Ensures the mask scales proportionally */
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat; /* Prevents repeat */
+  mask-repeat: no-repeat;
+}
