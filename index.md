@@ -15,10 +15,13 @@ nav_order: 0
   
 ## Android: Netrunner The Card Game
 
-<img src="/assets/images/home/2.png" alt="img" style="float: right; width: 300px; margin: 0 0 10px 10px;" />
 Android: Netrunner is a two-player card game set in a dystopian, cyberpunk future where monolithic megacorps own and control the vast majority of human interests.
 
 While corporation players try to score points by advancing their agendas, they have to guard their intellectual properties from the elite and subversive hackers known as netrunners. Netrunners attempt to win the game by stealing the corp's agendas, by any means possible!
+
+<div style="text-align: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/home/2.png" alt="Image 3" style="width: 500px; margin: 10px;" />
+</div>
 
 ## New World Order
 
@@ -63,14 +66,16 @@ Android: Netrunner introduces identity cards, which represent different corporat
 Amid the future’s breath-taking developments, four giant corporations tower above the rest as paragons of industry.
 
 <p>
-  <span class="nic haas"></span><span class="fw-500 text-blue-200">Haas-Bioroid</span> leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
+  <span class="nic haas"></span><span class="blue-font">Haas-Bioroid</span> leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
 </p>
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Jinteki%20Simple.svg" width="24" height="24"><span class="blue-font">Jinteki</span> is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
+<p>
+  <span class="nic jinteki"></span><span class="blue-font">Jinteki</span> is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
+</p>
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg" width="24" height="24"> **NBN** owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg" width="24" height="24"> <span class="blue-font">NBN</span> owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg" width="24" height="24"> **The Weyland Consortium** has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
+<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg" width="24" height="24"><span class="blue-font">The Weyland Consortium</span> has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
 
 Conversely, netrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
 
