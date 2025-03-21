@@ -10,7 +10,10 @@ nav_order: 22
 ## Identity (ID)
 Identity cards start the game in play and represent the specific Runner or Corp that a player is controlling. A player’s identity card defines their faction and provides them with a special ability to use throughout the game.
 
-(Note: The Corp’s identity card also represents their HQ for the purposes of card installation.)
+{: .note-title }
+> Note
+>
+> The Corp’s identity card also represents their HQ for the purposes of card installation.)
 
 ## Agendas
 An agenda is a type of Corp card that represents valuable pieces of data. Over the course of the game, the Runner must find and steal these agendas, and the Corp must advance and score them.
