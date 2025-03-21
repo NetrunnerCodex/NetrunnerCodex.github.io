@@ -1,5 +1,5 @@
 ---
-parent: Welcome
+parent: Overview
 title: Game Overview
 layout: default
 has_children: false
