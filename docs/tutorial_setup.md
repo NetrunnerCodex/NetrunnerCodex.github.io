@@ -21,7 +21,7 @@ This section walks the players through setting up their first game.
 1. **Gain Credits**: Each player gains five credits from the token bank and places them in their play area.
 
 ## Tutorial Corp Deck
-- **Weyland** (108) {: .text-blue-200 } {: .fw-500 } Identity
+- **Weyland** (108) <span class="blue-font">Identity</span>
 - 2x Rototurret (69). .................................................. ICE
 - 2x Biotic Labor (72)..................................... Operation
 - 3x Green Level Clearance (73). .................. Operation
