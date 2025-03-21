@@ -1,5 +1,5 @@
 ---
-parent: Welcome
+parent: Overview
 title: Welcome to the future
 layout: default
 has_children: false
