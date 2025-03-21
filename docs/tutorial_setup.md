@@ -22,24 +22,24 @@ This section walks the players through setting up their first game.
 
 ## Tutorial Corp Deck
 - **Weyland** (108) <span class="blue-font">Identity</span>
-- 2x Rototurret (69). .................................................. ICE
-- 2x Biotic Labor (72)..................................... Operation
-- 3x Green Level Clearance (73). .................. Operation
-- 3x Celebrity Gift (89)................................... Operation
-- 3x Pop-up Window (99)......................................... ICE
-- 2x Tollbooth (100)................................................... ICE
-- 3x Project Atlas (110). ......................................Agenda
-- 1x The Cleaners (111).......................................Agenda
-- 2x Hive (118). .......................................................... ICE
-- 2x Ice Wall (119). .................................................... ICE
-- 3x Beanstalk Royalties (121)....................... Operation
-- 2x Priority Requisition (125)...........................Agenda
-- 2x Private Security Force (126). ......................Agenda
-- 2x Melange Mining Corp (127)...........................Asset
-- 3x PAD Campaign (128)......................................Asset
-- 3x Enigma (129)...................................................... ICE
-- 3x Wall of Static (131). ........................................... ICE
-- 3x Hedge Fund (132)................................... Operation
+- 2x Rototurret (69) <span class="blue-font">ICE</span>
+- 2x Biotic Labor (72) <span class="blue-font">Operation</span>
+- 3x Green Level Clearance (73) <span class="blue-font">Operation</span>
+- 3x Celebrity Gift (89) <span class="blue-font">Operation</span>
+- 3x Pop-up Window (99) <span class="blue-font">ICE</span>
+- 2x Tollbooth (100) <span class="blue-font">ICE</span>
+- 3x Project Atlas (110) <span class="blue-font">Agenda</span>
+- 1x The Cleaners (111) <span class="blue-font">Agenda</span>
+- 2x Hive (118) <span class="blue-font">ICE</span>
+- 2x Ice Wall (119) <span class="blue-font">ICE</span>
+- 3x Beanstalk Royalties (121) <span class="blue-font">Operation</span>
+- 2x Priority Requisition (125) <span class="blue-font">Agenda</span>
+- 2x Private Security Force (126) <span class="blue-font">Agenda</span>
+- 2x Melange Mining Corp (127) <span class="blue-font">Asset</span>
+- 3x PAD Campaign (128) <span class="blue-font">Asset</span>
+- 3x Enigma (129) <span class="blue-font">ICE</span>
+- 3x Wall of Static (131) <span class="blue-font">ICE</span>
+- 3x Hedge Fund (132) <span class="blue-font">Operation</span>
 
 ## Tutorial Runner Deck
 - Gabriel Santiago (19). .....................................Identity
