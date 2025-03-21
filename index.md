@@ -83,11 +83,17 @@ Amid the future’s breath-taking developments, four giant corporations tower ab
 
 Conversely, netrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Anarch.svg" width="24" height="24"> **Anarchs** like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
+<p>
+  <span class="nic anarch"></span><span class="red-font">Anarchs</span> like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
+</p>
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Criminal.svg" width="24" height="24">  **Criminals** like Gabriel Santiago are in it for the credits. They get paid for the secrets they uncover. Consummate professionals, these runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
+<p>
+  <span class="nic criminal"></span><span class="red-font">Criminals</span> like Gabriel Santiago are in it for the credits. They get paid for the secrets they uncover. Consummate professionals, these runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
+</p>
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Shaper-smooth.svg" width="24" height="24"> **Shapers** like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
+<p>
+  <span class="nic shaper"></span><span class="red-font">Shapers</span> like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any runner’s.
+</p>
 
 <div style="display: flex; justify-content: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/home/6.png" alt="Image 6" style="width: 300px; margin-right: 10px;" />
