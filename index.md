@@ -73,9 +73,13 @@ Amid the future’s breath-taking developments, four giant corporations tower ab
   <span class="nic jinteki"></span><span class="blue-font">Jinteki</span> is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
 </p>
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/NBN.svg" width="24" height="24"> <span class="blue-font">NBN</span> owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
+<p>
+  <span class="nic nbn"></span><span class="blue-font">NBN</span> owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
+</p>
 
-<img alt="" src="https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Weyland-Consortium.svg" width="24" height="24"><span class="blue-font">The Weyland Consortium</span> has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
+<p>
+  <span class="nic weyland"></span><span class="blue-font">The Weyland Consortium</span> has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
+</p>
 
 Conversely, netrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
 
