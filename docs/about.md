@@ -27,25 +27,15 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 <div class="nav-buttons">
   <!-- Previous Button -->
   <a href="/previous-page-url" class="nav-button" aria-label="Previous page">
-    <svg xmlns="http://www.w3.org/2000/svg" class="arrow-left" width="50" height="50">
-      <path d="M30 20L20 30L30 40" stroke="#264caf" stroke-width="3" fill="none">
-        <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
-          from="M30 20L20 30L30 40" to="M35 15L20 30L35 45" />
-        <animate attributeName="d" begin="mouseout" dur="0.2s" fill="freeze"
-          from="M35 15L20 30L35 45" to="M30 20L20 30L30 40" />
-      </path>
+    <svg xmlns="http://www.w3.org/2000/svg" class="arrow" width="50" height="50" viewBox="0 0 50 50">
+      <path d="M30 20L20 30L30 40" />
     </svg>
   </a>
 
   <!-- Next Button -->
   <a href="/next-page-url" class="nav-button" aria-label="Next page">
-    <svg xmlns="http://www.w3.org/2000/svg" class="arrow-right" width="50" height="50">
-      <path d="M20 20L30 30L20 40" stroke="#264caf" stroke-width="3" fill="none">
-        <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
-          from="M20 20L30 30L20 40" to="M15 15L30 30L15 45" />
-        <animate attributeName="d" begin="mouseout" dur="0.2s" fill="freeze"
-          from="M15 15L30 30L15 45" to="M20 20L30 30L20 40" />
-      </path>
+    <svg xmlns="http://www.w3.org/2000/svg" class="arrow" width="50" height="50" viewBox="0 0 50 50">
+      <path d="M20 20L30 30L20 40" />
     </svg>
   </a>
 </div>
