@@ -23,3 +23,23 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 > Disclaimer
 >
 >The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex is an unofficial, non-profit and non-commercial fansite. This site is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
+
+<a href="/previous-page" aria-label="Previous page">
+  <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+    <path d="M30 20L20 30L30 40" stroke="black" stroke-width="3" fill="none">
+      <!-- Animation for Previous Button -->
+      <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
+        from="M30 20L20 30L30 40" to="M35 15L20 30L35 45"/>
+    </path>
+  </svg>
+</a>
+
+<a href="/next-page" aria-label="Next page">
+  <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 20L30 30L20 40" stroke="black" stroke-width="3" fill="none">
+      <!-- Animation for Next Button -->
+      <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
+        from="M20 20L30 30L20 40" to="M15 15L30 30L15 45"/>
+    </path>
+  </svg>
+</a>
