@@ -96,7 +96,6 @@
 
 // Arrows
 
-/* Container for the navigation buttons */
 .nav-buttons {
   display: flex; /* Aligns buttons side by side */
   justify-content: center; /* Centers the buttons horizontally */
@@ -106,23 +105,38 @@
 
 /* SVG styles */
 .nav-button svg {
-  width: 50px; /* Sets the width of the SVG */
-  height: 50px; /* Sets the height of the SVG */
-  transition: transform 0.3s ease, stroke 0.3s ease; /* Smooth animation for hover */
+  width: 50px;
+  height: 50px;
+  transition: transform 0.3s ease; /* Smooth scaling on hover */
 }
 
-/* Arrow path styles */
+/* Path styles */
 .nav-button path {
-  stroke: #264caf; /* Arrow color */
-  stroke-width: 3; /* Line thickness of the arrow */
-  fill: none; /* No fill inside the arrow */
+  stroke: #264caf;
+  stroke-width: 3;
+  fill: none;
+  transition: stroke 0.3s ease; /* Smooth color transition */
 }
 
-/* Hover effect: Scale and color change */
+/* Text styles */
+.nav-text {
+  display: none; /* Hides text by default */
+  font-size: 14px;
+  font-weight: bold;
+  color: #264caf;
+  margin-top: 5px; /* Adds space below the SVG */
+}
+
+/* Hover effects */
 .nav-button:hover svg {
-  transform: scale(1.2); /* Enlarges the SVG slightly on hover */
+  transform: scale(1.2); /* Enlarges the SVG slightly */
 }
 
 .nav-button:hover path {
-  stroke: #183d92; /* Changes the arrow color to a darker blue on hover */
+  stroke: #183d92; /* Changes arrow color on hover */
 }
+
+.nav-button:hover .nav-text {
+  display: block; /* Reveals the text on hover */
+}
+
