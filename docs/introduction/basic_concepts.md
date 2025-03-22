@@ -35,3 +35,10 @@ When a player spends credits, they return them to the token bank.
 > Paid Abilities
 >
 > Some card abilities have costs that a player must pay before the effect of that ability can be resolved. These abilities are called **PAID ABILITIES**. An ability’s cost is always listed in **bold** before its effect, using the format “**cost**: effect."
+
+## Tracking Clicks
+Both the Corporation and Runner track the clicks they spend during their turns by using a click tracker card. The Corporation’s click
+tracker contains three numbered spaces, and the Runner’s click tracker contains four numbered spaces. As the Corporation or Runner spends clicks during a turn, they flip one of their click tokens facedown (blue and gold side up).
+
+## Servers
+For the Runner to win the game, they need to steal agenda cards from the Corp player. These cards can be stolen from the Corp player’s hand (HQ), deck (R&D), or discard pile (Archives). Each of these locations are referred to as central servers. The Corp player may also play agenda cards on the table in remote servers (described in detail ?).
