@@ -103,3 +103,25 @@ Humanity hurtles into space and lives on the network. Android: Netrunner provide
 >The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex is an unofficial, non-profit and non-commercial fansite. This site is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
 > 
 > Netrunner is a trademark of R. Talsorian Games, Inc., licensed by Wizards of the Coast LLC. Android is a trademark and © Fantasy Flight Games. All rights reserved. © Wizards.
+
+<div class="nav-buttons">
+  <!-- Previous Button -->
+  <div class="nav-button no-link" aria-label="No previous page">
+    <div class="nav-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M30 20L20 30L30 40" />
+      </svg>
+      <!-- No link here -->
+    </div>
+  </div>
+
+  <!-- Next Button -->
+  <a href="/docs/about" class="nav-button" aria-label="Next page">
+    <div class="nav-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M20 20L30 30L20 40" />
+      </svg>
+    </div>
+  </a>
+</div>
+
