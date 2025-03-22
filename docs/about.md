@@ -27,18 +27,21 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 <div class="nav-buttons">
   <!-- Previous Button -->
   <a href="/previous-page-url" class="nav-button" aria-label="Previous page">
-    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-      <path d="M30 20L20 30L30 40" />
-    </svg>
-    <span class="nav-text">Previous</span>
+    <div class="nav-item">
+      <span class="nav-text">Previous</span>
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M30 20L20 30L30 40" />
+      </svg>
+    </div>
   </a>
 
   <!-- Next Button -->
   <a href="/next-page-url" class="nav-button" aria-label="Next page">
-    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-      <path d="M20 20L30 30L20 40" />
-    </svg>
-    <span class="nav-text">Next</span>
+    <div class="nav-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M20 20L30 30L20 40" />
+      </svg>
+      <span class="nav-text">Next</span>
+    </div>
   </a>
 </div>
-
