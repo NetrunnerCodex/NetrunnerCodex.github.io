@@ -94,15 +94,6 @@
   mask-repeat: no-repeat;
 }
 
-// Navigation buttons
-
-.nav-buttons {
-  display: flex; /* Aligns buttons side by side */
-  justify-content: center; /* Centers the navigation buttons horizontally */
-  align-items: center; /* Vertically aligns the buttons */
-  gap: 40px; /* Adds spacing between the two navigation items */
-}
-
 .click {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Click.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Click.svg');
@@ -112,13 +103,22 @@
   mask-repeat: no-repeat;
 }
 
-.click {
+.credit {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Credit.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/Credit.svg');
   -webkit-mask-size: contain;
   mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
+}
+
+// Navigation buttons
+
+.nav-buttons {
+  display: flex; /* Aligns buttons side by side */
+  justify-content: center; /* Centers the navigation buttons horizontally */
+  align-items: center; /* Vertically aligns the buttons */
+  gap: 40px; /* Adds spacing between the two navigation items */
 }
 
 /* Each navigation button */
