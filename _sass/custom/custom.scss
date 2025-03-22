@@ -119,9 +119,9 @@
 /* Adding "Previous" text dynamically below the left arrow */
 .nav-button:first-of-type .nav-item::after {
   content: "Previous"; /* Inserts "Previous" text for the left button */
-  font-size: 16px; /* Sets text size */
+  font-size: 12px; /* Sets text size */
   font-weight: bold; /* Makes text bold */
-  color: #d3d3d3; /* Light gray color */
+  color: #716e76; /* Light gray color */
   text-align: center; /* Centers the text horizontally */
   opacity: 0; /* Keeps text hidden by default */
   transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
@@ -130,9 +130,9 @@
 /* Adding "Next" text dynamically below the right arrow */
 .nav-button:last-of-type .nav-item::after {
   content: "Next"; /* Inserts "Next" text for the right button */
-  font-size: 16px;
+  font-size: 12px;
   font-weight: bold;
-  color: #d3d3d3; /* Light gray color */
+  color: #716e76; /* Light gray color */
   text-align: center;
   opacity: 0; /* Keeps text hidden by default */
   transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
