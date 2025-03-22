@@ -25,14 +25,16 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 >The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex is an unofficial, non-profit and non-commercial fansite. This site is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
 
 <div class="nav-buttons">
+  <!-- Previous Button (Points Left) -->
   <a href="/previous-page" class="nav-button" aria-label="Previous page">
     <svg xmlns="http://www.w3.org/2000/svg">
-      <path class="arrow"></path>
+      <path class="arrow arrow-left"></path>
     </svg>
   </a>
+  <!-- Next Button (Points Right) -->
   <a href="/next-page" class="nav-button" aria-label="Next page">
     <svg xmlns="http://www.w3.org/2000/svg">
-      <path class="arrow"></path>
+      <path class="arrow arrow-right"></path>
     </svg>
   </a>
 </div>
