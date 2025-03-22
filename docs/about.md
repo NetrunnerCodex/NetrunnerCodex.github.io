@@ -38,7 +38,7 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
   </a>
 
   <!-- Next Button -->
-  <a href="../welcome.html" class="nav-button" aria-label="Next page">
+  <a href="welcome.html" class="nav-button" aria-label="Next page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
