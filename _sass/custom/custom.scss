@@ -176,5 +176,6 @@
 
 .nav-button.no-link .nav-item::after {
   content: ""; /* Ensures no text is added */
+  display: none;
 }
 
