@@ -96,3 +96,8 @@ Conversely, netrunners are identified by their motives more than by their achiev
 </div>
 
 Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
+
+{: .note-title }
+> Disclaimer
+>
+>The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex is an unofficial, non-profit and non-commercial fansite. This site is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
