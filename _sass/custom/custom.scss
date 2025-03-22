@@ -94,46 +94,56 @@
   mask-repeat: no-repeat;
 }
 
-// Arrows
+// Navigation button
 
 .nav-buttons {
   display: flex; /* Aligns buttons side by side */
-  justify-content: center; /* Centers the buttons horizontally */
-  align-items: center; /* Aligns the buttons vertically */
-  gap: 20px; /* Adds spacing between the buttons */
+  justify-content: center; /* Centers the navigation buttons horizontally */
+  align-items: center; /* Vertically aligns the buttons */
+  gap: 40px; /* Adds spacing between the two navigation items */
 }
 
-/* SVG styles */
-.nav-button svg {
-  width: 50px;
-  height: 50px;
-  transition: transform 0.3s ease; /* Smooth scaling on hover */
+/* Each navigation button */
+.nav-button {
+  text-decoration: none;
 }
 
-/* Path styles */
-.nav-button path {
+/* Container for each nav-item (arrow + text) */
+.nav-item {
+  display: flex; /* Aligns text and arrow in a row */
+  align-items: center; /* Ensures vertical alignment between text and SVG */
+  gap: 10px; /* Spacing between arrow and text */
+}
+
+/* Position text relative to the arrow */
+.nav-item .nav-text {
+  font-size: 16px;
+  font-weight: bold;
+  color: #264caf;
+  white-space: nowrap; /* Prevents text from wrapping */
+  opacity: 0; /* Hides text by default */
+  transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
+}
+
+/* Path styles (arrows) */
+.nav-item svg path {
   stroke: #264caf;
   stroke-width: 3;
   fill: none;
-  transition: stroke 0.3s ease; /* Smooth color transition */
-}
-
-/* Text styles */
-.nav-text {
-  display: none; /* Hides text by default */
-  font-size: 14px;
-  font-weight: bold;
-  color: #264caf;
-  margin-top: 5px; /* Adds space below the SVG */
+  transition: transform 0.3s ease, stroke 0.3s ease; /* Smooth animation */
 }
 
 /* Hover effects */
+.nav-button:hover .nav-text {
+  opacity: 1; /* Shows text on hover */
+}
+
 .nav-button:hover svg {
   transform: scale(1.2); /* Enlarges the SVG slightly */
 }
 
 .nav-button:hover path {
-  stroke: #183d92; /* Changes arrow color on hover */
+  stroke: #183d92; /* Changes the arrow color on hover */
 }
 
 .nav-button:hover .nav-text {
