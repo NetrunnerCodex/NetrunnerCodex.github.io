@@ -19,7 +19,8 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference PDF</a> Aug 2018
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ PDF</a> Sep 2018 (4.2)
 
-## Original FFG ANR Credits, aka. Legendary Game Design Superheroes
+## Original FFG Android Netrunner Credits
+### aka. Legendary Game Design Superheroes
 
 **Original Game Design**: Richard Garfield
 **Android Netrunner Game Development**: Lukas Litzsinger
@@ -62,7 +63,7 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
   </a>
 
   <!-- Next Button -->
-  <a href="/docs/welcome.html" class="nav-button" aria-label="Next page">
+  <a href="/docs/welcome" class="nav-button" aria-label="Next page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
