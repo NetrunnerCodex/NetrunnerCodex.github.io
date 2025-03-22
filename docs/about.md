@@ -11,7 +11,13 @@ nav_order: 5
 
 # About Netrunner Codex
 
-Following the discontinuation of Fantasy Flight Games' Android: Netrunner operations in 2018, the Netrunner Codex is programmed to preserve critical data and safeguard the history of this iconic card game. This site is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
+Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the Netrunner Codex is programmed to preserve critical data and safeguard the history of this iconic card game. This site is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
+
+## Sources
+- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">FFG Android: Netrunner official website</a> Sep 2018
+- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play PDF</a> Dec 2017
+- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference PDF</a> Aug 2018
+- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ PDF</a> Sep 2018 (4.2)
 
 {: .note-title }
 > Disclaimer
