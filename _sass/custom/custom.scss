@@ -93,3 +93,45 @@
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
+
+// Arrows
+
+/* Container for buttons */
+.nav-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Space between buttons */
+}
+
+/* Common styles for each button */
+.nav-button {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* SVG dimensions */
+.nav-button svg {
+  width: 50px;
+  height: 50px;
+}
+
+/* Path for arrows */
+.arrow {
+  d: path("M30 20L20 30L30 40"); /* Define path directly in CSS */
+  stroke: #264caf; /* Arrow color */
+  stroke-width: 3;
+  fill: none;
+  transition: stroke 0.3s ease;
+}
+
+/* Hover effect */
+.nav-button:hover .arrow {
+  stroke: #183d92; /* Darker blue on hover */
+}
+
+.nav-button:hover .arrow {
+  d: path("M35 15L20 30L35 45"); /* Hover animation for "Previous" */
+}
