@@ -17,6 +17,7 @@ Computers have continued to advance along with discoveries in the field of neuro
   
 Rogue operators—computer specialists with the hardware, software, and raw talent to challenge the system—use the sprawl of the net to their advantage. They are runners. This is their story.
 
+
 <div class="nav-buttons">
   <!-- Previous Button -->
   <a href="/docs/about" class="nav-button" aria-label="Previous page">
@@ -24,7 +25,6 @@ Rogue operators—computer specialists with the hardware, software, and raw tale
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M30 20L20 30L30 40" />
       </svg>
-      <span class="nav-text">Previous</span>
     </div>
   </a>
 
@@ -34,7 +34,6 @@ Rogue operators—computer specialists with the hardware, software, and raw tale
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
       </svg>
-      <span class="nav-text">Next</span>
     </div>
   </a>
 </div>
