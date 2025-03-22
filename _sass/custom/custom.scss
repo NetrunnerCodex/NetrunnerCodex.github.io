@@ -116,24 +116,22 @@
   gap: 5px; /* Adds spacing between the arrow and the text */
 }
 
-/* For the "Previous" button */
-.nav-item .nav-text::before {
-  content: "Previous"; /* Adds the "Previous" text */
-  font-size: 16px;
-  font-weight: bold;
-  color: #716e76; /* Light gray color */
-  display: block;
-  text-align: center; /* Center aligns the text */
+/* Adding "Previous" text dynamically */
+.nav-item::before {
+  content: "Previous"; /* Inserts "Previous" text */
+  font-size: 16px; /* Sets text size */
+  font-weight: bold; /* Makes text bold */
+  color: #d3d3d3; /* Light gray color */
+  text-align: center; /* Centers the text horizontally */
 }
 
-/* For the "Next" button */
-.nav-item .nav-text::before {
-  content: "Next"; /* Adds the "Next" text */
+/* Adding "Next" text dynamically for the last button */
+.nav-item:last-child::before {
+  content: "Next"; /* Inserts "Next" text for the last nav-item */
   font-size: 16px;
   font-weight: bold;
-  color: #716e76; /* Light gray color */
-  display: block;
-  text-align: center; /* Center aligns the text */
+  color: #d3d3d3;
+  text-align: center;
 }
 
 /* SVG arrow paths */
@@ -144,11 +142,6 @@
   transition: transform 0.3s ease, stroke 0.3s ease; /* Smooth animation on hover */
 }
 
-/* Hover effects for text */
-.nav-button:hover .nav-text {
-  opacity: 1; /* Shows text on hover */
-}
-
 /* Hover effects for SVG (arrow) */
 .nav-button:hover svg {
   transform: scale(1.2); /* Enlarges the SVG slightly */
@@ -156,5 +149,12 @@
 
 .nav-button:hover path {
   stroke: #183d92; /* Changes the arrow color on hover */
+}
+
+/* Hover effects for dynamically inserted text */
+.nav-button:hover .nav-item::before {
+  color: #183d92; /* Changes the text color on hover to match the arrow */
+  opacity: 1; /* Ensures text is fully visible on hover */
+  transition: color 0.3s ease; /* Smooth color transition */
 }
 
