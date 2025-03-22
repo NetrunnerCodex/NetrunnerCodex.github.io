@@ -96,6 +96,7 @@
 
 // Navigation buttons
 
+/* Navigation container */
 .nav-buttons {
   display: flex; /* Aligns buttons side by side */
   justify-content: center; /* Centers the navigation buttons horizontally */
@@ -117,7 +118,7 @@
 }
 
 /* Adding "Previous" text dynamically below the arrow */
-.nav-item::after {
+.nav-item:first-child::after {
   content: "Previous"; /* Inserts "Previous" text */
   font-size: 16px; /* Sets text size */
   font-weight: bold; /* Makes text bold */
@@ -129,7 +130,7 @@
 
 /* Adding "Next" text dynamically below the arrow for the last button */
 .nav-item:last-child::after {
-  content: "Next"; /* Inserts "Next" text for the last nav-item */
+  content: "Next"; /* Inserts "Next" text */
   font-size: 16px;
   font-weight: bold;
   color: #d3d3d3; /* Light gray color */
@@ -156,7 +157,13 @@
 }
 
 /* Hover effects for dynamically inserted text */
-.nav-button:hover .nav-item::after {
-  color: #183d92; /* Changes the text color on hover to match the arrow */
+.nav-button:hover .nav-item:first-child::after {
+  color: #183d92; /* Changes "Previous" text color on hover */
   opacity: 1; /* Makes text fully visible on hover */
 }
+
+.nav-button:hover .nav-item:last-child::after {
+  color: #183d92; /* Changes "Next" text color on hover */
+  opacity: 1; /* Makes text fully visible on hover */
+}
+
