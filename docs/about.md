@@ -13,11 +13,35 @@ nav_order: 5
 
 Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the Netrunner Codex is programmed to preserve critical data and safeguard the history of this iconic card game. This site is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
 
-## Sources
+## Site Data Sources
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">FFG Android: Netrunner official website</a> Sep 2018
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play PDF</a> Dec 2017
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference PDF</a> Aug 2018
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ PDF</a> Sep 2018 (4.2)
+
+## Original Fantasy Flight Games ANR Credits, aka. Legendary Game Design Superheroes
+
+**Original Game Design**: Richard Garfield
+**Android Netrunner Game Development**: Lukas Litzsinger
+**Revised Edition Development**: Damon Stone with Erik Dahlman and Michael Boggs
+**Rules Text**: Adam Baker, Michael Boggs, and Erik Dahlman
+**Editing**: Jacob Morris and Damon Stone
+**Android Netrunner Graphic Design**: Michael Silsby with Chris Beck, Shaun Boyke, Dallas Mehlhoff, Andrew Navaro, and Evan Simonet
+**Revised Edition Graphic Design**: Monica Helland with Mercedes Opheim
+**Graphic Design Manager**: Brian Schomburg
+**Cover Art**: Adam Schumpert
+**Art Direction**: Andy Christensen and Zoë Robinson
+**Managing Art Director**: Melissa Shetler
+**Producer**: Erik Dahlman
+**Android Universe created by**: Kevin Wilson with Daniel Lovat Clark
+**Android Story Team**: Daniel Lovat Clark, Michael Hurley, Lukas Litzsinger, Katrina Ostrander
+**Production Management**: Megan Duehn
+**Licensing Manager**: Simone Elliott
+**LCG Manager**: Chris Gerber
+**Creative Director**: Andrew Navaro
+**Executive Game Designer**: Corey Konieczka
+**Executive Producer**: Michael Hurley
+**Publisher**: Christian T. Petersen
 
 {: .note-title }
 > Disclaimer
@@ -38,7 +62,7 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
   </a>
 
   <!-- Next Button -->
-  <a href="welcome.html" class="nav-button" aria-label="Next page">
+  <a href="docs/welcome.html" class="nav-button" aria-label="Next page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
