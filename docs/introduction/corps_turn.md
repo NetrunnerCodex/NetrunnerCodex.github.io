@@ -29,6 +29,7 @@ sideways. However, if the card was in play faceup when discarded, it is placed f
 
 {: .note-title }
 > Corporation Action Overview
+>
 > <span class="nic click"></span> Draw One Card
 > <span class="nic click"></span> Gain One Credit
 > <span class="nic click"></span> Play One Operation
