@@ -116,14 +116,24 @@
   gap: 5px; /* Adds spacing between the arrow and the text */
 }
 
-/* Text for navigation buttons */
-.nav-item .nav-text {
+/* For the "Previous" button */
+.nav-item .nav-text::before {
+  content: "Previous"; /* Adds the "Previous" text */
   font-size: 16px;
-/* font-weight: bold; */
-  color: #716e76; /* Text color */
-  white-space: nowrap; /* Prevents text wrapping */
-  opacity: 0; /* Hides text by default */
-  transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
+  font-weight: bold;
+  color: #716e76; /* Light gray color */
+  display: block;
+  text-align: center; /* Center aligns the text */
+}
+
+/* For the "Next" button */
+.nav-item .nav-text::before {
+  content: "Next"; /* Adds the "Next" text */
+  font-size: 16px;
+  font-weight: bold;
+  color: #716e76; /* Light gray color */
+  display: block;
+  text-align: center; /* Center aligns the text */
 }
 
 /* SVG arrow paths */
