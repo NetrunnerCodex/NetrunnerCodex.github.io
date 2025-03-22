@@ -96,7 +96,6 @@
 
 // Navigation buttons
 
-/* Navigation container */
 .nav-buttons {
   display: flex; /* Aligns buttons side by side */
   justify-content: center; /* Centers the navigation buttons horizontally */
@@ -118,7 +117,7 @@
 }
 
 /* Adding "Previous" text dynamically below the left arrow */
-.nav-item:first-of-type::after {
+.nav-button:first-of-type .nav-item::after {
   content: "Previous"; /* Inserts "Previous" text for the left button */
   font-size: 16px; /* Sets text size */
   font-weight: bold; /* Makes text bold */
@@ -129,7 +128,7 @@
 }
 
 /* Adding "Next" text dynamically below the right arrow */
-.nav-item:last-of-type::after {
+.nav-button:last-of-type .nav-item::after {
   content: "Next"; /* Inserts "Next" text for the right button */
   font-size: 16px;
   font-weight: bold;
@@ -157,9 +156,10 @@
 }
 
 /* Hover effects for dynamically inserted text */
-.nav-button:hover .nav-item:first-of-type::after {
-  opacity: 1; /* Makes "Previous" text fully visible on hover */
+.nav-button:hover .nav-item::after {
+  opacity: 1; /* Makes text fully visible on hover */
 }
+
 
 .nav-button:hover .nav-item:last-of-type::after {
   opacity: 1; /* Makes "Next" text fully visible on hover */
