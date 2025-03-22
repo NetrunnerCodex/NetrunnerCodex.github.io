@@ -21,7 +21,7 @@ This section walks the players through setting up their first game.
 1. **Gain Credits**: Each player gains five credits from the token bank and places them in their play area.
 
 ## Tutorial Corp Deck
-- **Weyland** (108) <span class="blue-font">Identity</span>
+- <span class="nic weyland"></span><span class="blue-font">Weyland</span> (108) <span class="blue-font">Identity</span>
 - 2x Rototurret (69) <span class="blue-font">ICE</span>
 - 2x Biotic Labor (72) <span class="blue-font">Operation</span>
 - 3x Green Level Clearance (73) <span class="blue-font">Operation</span>
@@ -42,7 +42,7 @@ This section walks the players through setting up their first game.
 - 3x Hedge Fund (132) <span class="blue-font">Operation</span>
 
 ## Tutorial Runner Deck
-- Gabriel Santiago (19) <span class="red-font">Identity</span>
+- <span class="nic-red criminal"></span><span class="red-font">Gabriel Santiago</span> (19) <span class="red-font">Identity</span>
 - 3x Mimic (13) <span class="red-font">Program</span>
 - 1x Ice Carver (15) <span class="red-font">Resource</span>
 - 3x Liberated Account (16) <span class="red-font">Resource</span>
