@@ -160,8 +160,26 @@
   opacity: 1; /* Makes text fully visible on hover */
 }
 
-
 .nav-button:hover .nav-item:last-of-type::after {
   opacity: 1; /* Makes "Next" text fully visible on hover */
+}
+
+/* Styling for a non-clickable Previous arrow, eg. homepage */
+.nav-button.no-link {
+  pointer-events: none; /* Disables clicking */
+  cursor: default; /* Shows default cursor */
+}
+
+.nav-button.no-link .nav-item svg path {
+  stroke: #d3d3d3; /* Gray color for the arrow */
+}
+
+.nav-button.no-link .nav-item::after {
+  content: "Previous"; /* Adds "Previous" text */
+  font-size: 16px;
+  font-weight: bold;
+  color: #d3d3d3; /* Light gray color for text */
+  text-align: center;
+  opacity: 1; /* Always visible */
 }
 
