@@ -33,13 +33,21 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
     </path>
   </svg>
 </a>
-
-<a href="/next-page" aria-label="Next page">
-  <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
-    <path d="M20 20L30 30L20 40" stroke="black" stroke-width="3" fill="none">
-      <!-- Animation for Next Button -->
-      <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
-        from="M20 20L30 30L20 40" to="M15 15L30 30L15 45"/>
-    </path>
-  </svg>
-</a>
+<div class="nav-buttons">
+  <a href="/previous-page" aria-label="Previous page">
+    <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+      <path d="M30 20L20 30L30 40" stroke="#264caf" stroke-width="3" fill="none">
+        <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
+          from="M30 20L20 30L30 40" to="M35 15L20 30L35 45"/>
+      </path>
+    </svg>
+  </a>
+  <a href="/next-page" aria-label="Next page">
+    <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+      <path d="M20 20L30 30L20 40" stroke="#264caf" stroke-width="3" fill="none">
+        <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
+          from="M20 20L30 30L20 40" to="M15 15L30 30L15 45"/>
+      </path>
+    </svg>
+  </a>
+</div>
