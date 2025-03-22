@@ -175,11 +175,6 @@
 }
 
 .nav-button.no-link .nav-item::after {
-  content: "Previous"; /* Adds "Previous" text */
-  font-size: 16px;
-  font-weight: bold;
-  color: #d3d3d3; /* Light gray color for text */
-  text-align: center;
-  opacity: 1; /* Always visible */
+  content: ""; /* Ensures no text is added */
 }
 
