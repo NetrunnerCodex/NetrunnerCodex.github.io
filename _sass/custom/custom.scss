@@ -117,9 +117,9 @@
   gap: 5px; /* Adds spacing between the arrow and the text */
 }
 
-/* Adding "Previous" text dynamically below the arrow */
+/* Adding "Previous" text dynamically below the left arrow */
 .nav-item:first-of-type::after {
-  content: "Previous"; /* Inserts "Previous" text */
+  content: "Previous"; /* Inserts "Previous" text for the left button */
   font-size: 16px; /* Sets text size */
   font-weight: bold; /* Makes text bold */
   color: #d3d3d3; /* Light gray color */
@@ -128,9 +128,9 @@
   transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
 }
 
-/* Adding "Next" text dynamically below the arrow for the last button */
+/* Adding "Next" text dynamically below the right arrow */
 .nav-item:last-of-type::after {
-  content: "Next"; /* Inserts "Next" text */
+  content: "Next"; /* Inserts "Next" text for the right button */
   font-size: 16px;
   font-weight: bold;
   color: #d3d3d3; /* Light gray color */
@@ -157,8 +157,11 @@
 }
 
 /* Hover effects for dynamically inserted text */
-.nav-button:hover .nav-item:first-of-type::after,
+.nav-button:hover .nav-item:first-of-type::after {
+  opacity: 1; /* Makes "Previous" text fully visible on hover */
+}
+
 .nav-button:hover .nav-item:last-of-type::after {
-  opacity: 1; /* Makes text fully visible on hover */
+  opacity: 1; /* Makes "Next" text fully visible on hover */
 }
 
