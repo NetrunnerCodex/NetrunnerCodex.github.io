@@ -41,4 +41,25 @@ Both the Corporation and Runner track the clicks they spend during their turns b
 tracker contains three numbered spaces, and the Runner’s click tracker contains four numbered spaces. As the Corporation or Runner spends clicks during a turn, they flip one of their click tokens facedown (blue and gold side up).
 
 ## Servers
-For the Runner to win the game, they need to steal agenda cards from the Corp player. These cards can be stolen from the Corp player’s hand (HQ), deck (R&D), or discard pile (Archives). Each of these locations are referred to as central servers. The Corp player may also play agenda cards on the table in remote servers (described in detail ?).
+For the Runner to win the game, they need to steal agenda cards from the Corp player. These cards can be stolen from the Corp player’s hand (HQ), deck (R&D), or discard pile (Archives). Each of these locations are referred to as central servers. The Corp player may also play agenda cards on the table in remote servers (described in detail The Corp's Actions).
+
+
+<div class="nav-buttons">
+  <!-- Previous Button -->
+  <a href="/docs/example" class="nav-button" aria-label="Previous page">
+    <div class="nav-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M30 20L20 30L30 40" />
+      </svg>
+    </div>
+  </a>
+
+  <!-- Next Button -->
+  <a href="/docs/introduction/playing" class="nav-button" aria-label="Next page">
+    <div class="nav-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M20 20L30 30L20 40" />
+      </svg>
+    </div>
+  </a>
+</div>
