@@ -118,25 +118,25 @@
 }
 
 /* Adding "Previous" text dynamically below the arrow */
-.nav-item:first-child::after {
+.nav-item:first-of-type::after {
   content: "Previous"; /* Inserts "Previous" text */
   font-size: 16px; /* Sets text size */
   font-weight: bold; /* Makes text bold */
   color: #d3d3d3; /* Light gray color */
   text-align: center; /* Centers the text horizontally */
   opacity: 0; /* Keeps text hidden by default */
-  transition: opacity 0.3s ease, color 0.3s ease; /* Smooth fade-in effect on hover */
+  transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
 }
 
 /* Adding "Next" text dynamically below the arrow for the last button */
-.nav-item:last-child::after {
+.nav-item:last-of-type::after {
   content: "Next"; /* Inserts "Next" text */
   font-size: 16px;
   font-weight: bold;
   color: #d3d3d3; /* Light gray color */
   text-align: center;
   opacity: 0; /* Keeps text hidden by default */
-  transition: opacity 0.3s ease, color 0.3s ease; /* Smooth fade-in effect on hover */
+  transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
 }
 
 /* SVG arrow paths */
@@ -153,18 +153,12 @@
 }
 
 .nav-button:hover path {
-  stroke: #183d92; /* Changes the arrow color on hover */
+  stroke: #264caf; /* Keeps the arrow color consistent */
 }
 
 /* Hover effects for dynamically inserted text */
-.nav-button:hover .nav-item:first-child::after {
-  color: #183d92; /* Changes "Previous" text color on hover */
+.nav-button:hover .nav-item:first-of-type::after,
+.nav-button:hover .nav-item:last-of-type::after {
   opacity: 1; /* Makes text fully visible on hover */
 }
-
-.nav-button:hover .nav-item:last-child::after {
-  color: #183d92; /* Changes "Next" text color on hover */
-  opacity: 1; /* Makes text fully visible on hover */
-}
-
 
