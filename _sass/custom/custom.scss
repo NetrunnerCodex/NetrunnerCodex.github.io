@@ -108,24 +108,13 @@
   height: 50px;
 }
 
-/* Left Arrow Path */
-.arrow-left {
-  d: path("M30 20L20 30L30 40");
+.arrow {
   stroke: #264caf;
   stroke-width: 3;
   fill: none;
+  transition: stroke 0.3s ease; /* Hover effect for color */
 }
 
-/* Right Arrow Path */
-.arrow-right {
-  d: path("M20 20L30 30L20 40");
-  stroke: #264caf;
-  stroke-width: 3;
-  fill: none;
-}
-
-/* Hover Effects */
 .nav-button:hover .arrow {
-  stroke: #183d92; /* Darker color on hover */
+  stroke: #183d92;
 }
-
