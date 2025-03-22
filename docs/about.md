@@ -25,16 +25,27 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 >The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex is an unofficial, non-profit and non-commercial fansite. This site is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
 
 <div class="nav-buttons">
-  <!-- Previous Button (Points Left) -->
-  <a href="/previous-page" class="nav-button" aria-label="Previous page">
-    <svg xmlns="http://www.w3.org/2000/svg">
-      <path class="arrow arrow-left"></path>
+  <!-- Previous Button -->
+  <a href="/previous-page-url" class="nav-button" aria-label="Previous page">
+    <svg xmlns="http://www.w3.org/2000/svg" class="arrow-left" width="50" height="50">
+      <path d="M30 20L20 30L30 40" stroke="#264caf" stroke-width="3" fill="none">
+        <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
+          from="M30 20L20 30L30 40" to="M35 15L20 30L35 45" />
+        <animate attributeName="d" begin="mouseout" dur="0.2s" fill="freeze"
+          from="M35 15L20 30L35 45" to="M30 20L20 30L30 40" />
+      </path>
     </svg>
   </a>
-  <!-- Next Button (Points Right) -->
-  <a href="/next-page" class="nav-button" aria-label="Next page">
-    <svg xmlns="http://www.w3.org/2000/svg">
-      <path class="arrow arrow-right"></path>
+
+  <!-- Next Button -->
+  <a href="/next-page-url" class="nav-button" aria-label="Next page">
+    <svg xmlns="http://www.w3.org/2000/svg" class="arrow-right" width="50" height="50">
+      <path d="M20 20L30 30L20 40" stroke="#264caf" stroke-width="3" fill="none">
+        <animate attributeName="d" begin="mouseover" dur="0.2s" fill="freeze"
+          from="M20 20L30 30L20 40" to="M15 15L30 30L15 45" />
+        <animate attributeName="d" begin="mouseout" dur="0.2s" fill="freeze"
+          from="M15 15L30 30L15 45" to="M20 20L30 30L20 40" />
+      </path>
     </svg>
   </a>
 </div>
