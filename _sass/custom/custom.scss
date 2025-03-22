@@ -175,7 +175,11 @@
 }
 
 .nav-button.no-link .nav-item::after {
-  content: ""; /* Ensures no text is added */
-  display: none;
+  content: "Previous"; /* Ensures no text is added */
+  font-size: 12px;
+  font-weight: bold;
+  color: #d3d3d3; /* Light gray color */
+  text-align: center; /* Centers the text horizontally */
+  opacity: 0; /* 0 Hidden 'Previous' text */
 }
 
