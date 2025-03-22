@@ -51,6 +51,7 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 >
 > Netrunner is a trademark of R. Talsorian Games, Inc., licensed by Wizards of the Coast LLC. Android is a trademark and © Fantasy Flight Games. All rights reserved. © Wizards. 
 
+
 <div class="nav-buttons">
   <!-- Previous Button -->
   <a href="../../index.html" class="nav-button" aria-label="Previous page">
@@ -58,7 +59,6 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M30 20L20 30L30 40" />
       </svg>
-      <span class="nav-text">Previous</span>
     </div>
   </a>
 
@@ -68,7 +68,6 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
       </svg>
-      <span class="nav-text">Next</span>
     </div>
   </a>
 </div>
