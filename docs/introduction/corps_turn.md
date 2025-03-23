@@ -10,25 +10,8 @@ nav_order: 26
 1. TOC
 {:toc}
 
-{: .note-title } {: .no_toc .text-delta }
-> Nodes
->
-> 1. TOC
-> {:toc}
-
-{: .note-title } 
-{: .no_toc .text-delta }
-> Nodes
->
-> 1. TOC
-> {:toc}
-
-{: .note-title } 
-> {: .no_toc .text-delta }
-> Nodes
->
-> 1. TOC
-> {:toc}
+1. TOC
+{:toc}
 
 # The Corp’s Turn
 
