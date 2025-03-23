@@ -9,59 +9,56 @@ nav_order: 16
 
 The components in the game are presented here for identification purposes. A complete anatomy of each card can be found in the Rules Reference.
 
-<div style="float: right; margin: 10px;">
-    <img src="/assets/images/overview/components/cards-runner.png" alt="Image" style="margin: 10px;" />
+<!-- Runner Cards -->
+<div style="overflow: hidden; margin-bottom: 20px;">
+    <div style="float: right; margin: 10px;">
+        <img src="/assets/images/overview/components/cards-runner.png" alt="Runner Cards" style="max-width: 100%; height: auto;">
+    </div>
+    <p>
+        ## 114 Runner Cards<br>
+        - 33 Anarch Cards<br>
+        - 33 Criminal Cards<br>
+        - 33 Shaper Cards<br>
+        - 15 Neutral Cards
+    </p>
 </div>
 
-## 114 Runner Cards
-- 33 Anarch Cards
-- 33 Criminal Cards
-- 33 Shaper Cards
-- 15 Neutral Cards
-
-<div style="float: left; margin: 10px;">
-    <img src="/assets/images/overview/components/cards-corp.png" alt="Image" style="margin: 10px;" />
+<!-- Corp Cards -->
+<div style="overflow: hidden; margin-bottom: 20px;">
+    <div style="float: left; margin: 10px;">
+        <img src="/assets/images/overview/components/cards-corp.png" alt="Corp Cards" style="max-width: 100%; height: auto;">
+    </div>
+    <p>
+        ## 133 Corp Cards<br>
+        - 28 Haas-Bioroid Cards<br>
+        - 28 Jinteki Cards<br>
+        - 28 NBN Cards<br>
+        - 28 Weyland Cards<br>
+        - 21 Neutral Cards
+    </p>
 </div>
 
-## 133 Corp Cards
-- 28 Haas-Bioroid Cards
-- 28 Jinteki Cards
-- 28 NBN Cards
-- 28 Weyland Cards
-- 21 Neutral Cards
-
-<div style="float: right; margin: 10px;">
-    <img src="/assets/images/overview/components/credits.png" alt="Image" style="margin: 10px;" />
+<!-- Credits -->
+<div style="overflow: hidden; margin-bottom: 20px;">
+    <div style="float: right; margin: 10px;">
+        <img src="/assets/images/overview/components/credits.png" alt="Credits Tokens" style="max-width: 100%; height: auto;">
+    </div>
+    <p>
+        - 41 One-Credit/Advancement Tokens<br>
+        - 8 Five-Credit Tokens
+    </p>
 </div>
 
-- 41 One-Credit/Advancement Tokens
-- 8 Five-Credit Tokens
-
-<div style="float: left; margin: 10px;">
-    <img src="/assets/images/overview/components/bad_pub-brain.png" alt="Image" style="margin: 10px;" />
+<!-- Bad Publicity/Brain Damage -->
+<div style="overflow: hidden; margin-bottom: 20px;">
+    <div style="float: left; margin: 10px;">
+        <img src="/assets/images/overview/components/bad_pub-brain.png" alt="Bad Publicity/Brain Damage Tokens" style="max-width: 100%; height: auto;">
+    </div>
+    <p>
+        - 10 Bad Publicity/Tag Tokens<br>
+        - 6 Brain Damage Tokens
+    </p>
 </div>
-
-- 10 Bad Publicity/Tag Tokens
-- 6 Brain Damage Tokens
-
-<div style="float: right; margin: 10px;">
-    <img src="/assets/images/overview/components/generic.png" alt="Image" style="margin: 10px;" />
-</div>
-
-- 20 Generic Tokens
-
-<div style="float: left; margin: 10px;">
-    <img src="/assets/images/overview/components/ref-cards.png" alt="Image" style="margin: 10px;" />
-</div>
-
-- 2 Reference Cards
-
-<div style="float: right; margin: 10px;">
-    <img src="/assets/images/overview/components/click.png" alt="Image" style="margin: 10px;" />
-</div>
-
-- 2 Click Tracker Cards
-- 7 Click Tracker Tokens
 
 <div class="nav-buttons">
   <!-- Previous Button -->
