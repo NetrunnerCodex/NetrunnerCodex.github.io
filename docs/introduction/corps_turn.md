@@ -5,6 +5,9 @@ layout: default
 has_children: false
 nav_order: 26
 ---
+## Contents
+{: .no_toc .text-delta }
+
 # The Corp’s Turn
 
 During the Corp’s turn, the Corp resolves the following three phases in order: Draw Phase, Action Phase, and Discard Phase.
