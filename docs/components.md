@@ -9,20 +9,18 @@ nav_order: 16
 
 The components in the game are presented here for identification purposes. A complete anatomy of each card can be found in the Rules Reference.
 
-<div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/overview/components/cards-runner.png" alt="Image 1" style="margin: 10px;" />
+<div style="float: right; margin: 10px;">
+    <img src="/assets/images/overview/components/cards-runner.png" alt="Image" style="margin: 10px;" />
 </div>
-
 ## 114 Runner Cards
 - 33 Anarch Cards
 - 33 Criminal Cards
 - 33 Shaper Cards
 - 15 Neutral Cards
 
-<div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/overview/components/cards-corp.png" alt="Image 1" style="margin: 10px;" />
+<div style="float: left; margin: 10px;">
+    <img src="/assets/images/overview/components/cards-corp.png" alt="Image" style="margin: 10px;" />
 </div>
-
 ## 133 Corp Cards
 - 28 Haas-Bioroid Cards
 - 28 Jinteki Cards
@@ -30,39 +28,33 @@ The components in the game are presented here for identification purposes. A com
 - 28 Weyland Cards
 - 21 Neutral Cards
 
-<div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/overview/components/credits.png" alt="Image 1" style="margin: 10px;" />
+<div style="float: right; margin: 10px;">
+    <img src="/assets/images/overview/components/credits.png" alt="Image" style="margin: 10px;" />
 </div>
-
 - 41 One-Credit/Advancement Tokens
 - 8 Five-Credit Tokens
 
-<div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/overview/components/bad_pub-brain.png" alt="Image 1" style="margin: 10px;" />
+<div style="float: left; margin: 10px;">
+    <img src="/assets/images/overview/components/bad_pub-brain.png" alt="Image" style="margin: 10px;" />
 </div>
-
 - 10 Bad Publicity/Tag Tokens
 - 6 Brain Damage Tokens
 
-<div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/overview/components/generic.png" alt="Image 1" style="margin: 10px;" />
+<div style="float: right; margin: 10px;">
+    <img src="/assets/images/overview/components/generic.png" alt="Image" style="margin: 10px;" />
 </div>
-
 - 20 Generic Tokens
 
-<div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/overview/components/ref-cards.png" alt="Image 1" style="margin: 10px;" />
+<div style="float: left; margin: 10px;">
+    <img src="/assets/images/overview/components/ref-cards.png" alt="Image" style="margin: 10px;" />
 </div>
-
 - 2 Reference Cards
 
-<div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/overview/components/click.png" alt="Image 1" style="margin: 10px;" />
+<div style="float: right; margin: 10px;">
+    <img src="/assets/images/overview/components/click.png" alt="Image" style="margin: 10px;" />
 </div>
-
 - 2 Click Tracker Cards
 - 7 Click Tracker Tokens
-
 
 <div class="nav-buttons">
   <!-- Previous Button -->
