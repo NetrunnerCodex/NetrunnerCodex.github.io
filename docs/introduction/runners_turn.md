@@ -136,11 +136,6 @@ The Runner has several opportunities to **JACK OUT**, which ends the run. They m
 
 If at any time the Runner jacks out, even after having passed all ice, the run is considered unsuccessful.
 
-{: .note2-title }
-> Start The Tutorial Game
->
-> Now, players know all the rules necessary to play their first game of Android: Netrunner. If questions arise during the game, players can find detailed information about the game’s mechanics in the glossary section of the online Rules Reference. After playing their first game, players should read “Advanced Concepts” and incorporate the rules described there in all future games.
-
 <div class="nav-buttons">
   <!-- Previous Button -->
   <a href="/docs/introduction/corps_turn" class="nav-button" aria-label="Previous page">
