@@ -10,6 +10,26 @@ nav_order: 26
 1. TOC
 {:toc}
 
+{: .note-title } {: .no_toc .text-delta }
+> Nodes
+>
+> 1. TOC
+> {:toc}
+
+{: .note-title } 
+{: .no_toc .text-delta }
+> Nodes
+>
+> 1. TOC
+> {:toc}
+
+{: .note-title } 
+> {: .no_toc .text-delta }
+> Nodes
+>
+> 1. TOC
+> {:toc}
+
 # The Corp’s Turn
 
 During the Corp’s turn, the Corp resolves the following three phases in order: Draw Phase, Action Phase, and Discard Phase.
