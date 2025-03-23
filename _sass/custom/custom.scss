@@ -1,42 +1,40 @@
 
 .blue-font {
-  font-weight: 500; /* alt fw-500 */
-  color: #264caf;   /* alt text-blue-200 */
+  font-weight: 500;
+  color: #264caf;
 }
 
 .red-font {
-  font-weight: 500; /* alt fw-500 */
-  color: #dd2e2e;   /* alt text-red-300 */
+  font-weight: 500;
+  color: #dd2e2e;
 }
 
 // Icons
 
-/* Size and color */
 .nic {
   display: inline-block;
   vertical-align: middle;
-  background-color: #264caf; /* Icon color */
-  width: 22px; /* Size */
+  background-color: #264caf;
+  width: 22px;
   height: 22px;
-  margin-right: 4px; /* Spacing between icon and text */
+  margin-right: 4px;
 }
 
 .nic-red {
   display: inline-block;
   vertical-align: middle;
-  background-color: #dd2e2e; /* Icon color */
-  width: 22px; /* Size */
+  background-color: #dd2e2e;
+  width: 22px;
   height: 22px;
-  margin-right: 4px; /* Spacing between icon and text */
+  margin-right: 4px;
 }
 
-/* SVG image */
 .haas {
   -webkit-mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/haas-bioroid.svg');
   mask-image: url('https://raw.githubusercontent.com/MWDelaney/Netrunner-Icon-Font/master/Netrunner/svg/haas-bioroid.svg');
-  -webkit-mask-size: contain; /* Ensures the mask scales proportionally */
+  -webkit-mask-size: contain;
   mask-size: contain;
-  -webkit-mask-repeat: no-repeat; /* Prevents repeat */
+  -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 
@@ -115,90 +113,81 @@
 // Navigation buttons
 
 .nav-buttons {
-  display: flex; /* Aligns buttons side by side */
-  justify-content: center; /* Centers the navigation buttons horizontally */
-  align-items: center; /* Vertically aligns the buttons */
-  gap: 40px; /* Adds spacing between the two navigation items */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
 }
-
-/* Each navigation button */
 
 .nav-button {
-  text-decoration: none; /* Removes underline from links */
+  text-decoration: none;
 }
 
-/* Container for each nav-item (arrow + text) */
 .nav-item {
-  display: flex; /* Ensures both text and arrow are treated as one unit */
-  flex-direction: column; /* Stacks items vertically */
-  align-items: center; /* Centers text and arrow */
-  gap: 5px; /* Adds spacing between the arrow and the text */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px; 
 }
 
-/* Adding "Previous" text dynamically below the left arrow */
 .nav-button:first-of-type .nav-item::after {
-  content: "Previous"; /* Inserts "Previous" text for the left button */
-  font-size: 12px; /* Sets text size */
-  font-weight: bold; /* Makes text bold */
-  color: #716e76; /* Light gray color */
-  text-align: center; /* Centers the text horizontally */
-  opacity: 0; /* Keeps text hidden by default */
-  transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
-}
-
-/* Adding "Next" text dynamically below the right arrow */
-.nav-button:last-of-type .nav-item::after {
-  content: "Next"; /* Inserts "Next" text for the right button */
+  content: "Previous";
   font-size: 12px;
   font-weight: bold;
-  color: #716e76; /* Light gray color */
+  color: #716e76;
   text-align: center;
-  opacity: 0; /* Keeps text hidden by default */
-  transition: opacity 0.3s ease; /* Smooth fade-in effect on hover */
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
-/* SVG arrow paths */
+.nav-button:last-of-type .nav-item::after {
+  content: "Next";
+  font-size: 12px;
+  font-weight: bold;
+  color: #716e76;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
 .nav-item svg path {
-  stroke: #264caf; /* Arrow color */
-  stroke-width: 3; /* Thickness of arrow lines */
-  fill: none; /* No fill color */
-  transition: transform 0.3s ease, stroke 0.3s ease; /* Smooth animation on hover */
+  stroke: #264caf;
+  stroke-width: 3;
+  fill: none;
+  transition: transform 0.3s ease, stroke 0.3s ease;
 }
 
-/* Hover effects for SVG (arrow) */
 .nav-button:hover svg {
-  transform: scale(1.2); /* Enlarges the SVG slightly */
+  transform: scale(1.2);
 }
 
 .nav-button:hover path {
-  stroke: #264caf; /* Keeps the arrow color consistent */
+  stroke: #264caf;
 }
 
-/* Hover effects for dynamically inserted text */
 .nav-button:hover .nav-item::after {
-  opacity: 1; /* Makes text fully visible on hover */
+  opacity: 1;
 }
 
 .nav-button:hover .nav-item:last-of-type::after {
-  opacity: 1; /* Makes "Next" text fully visible on hover */
+  opacity: 1;
 }
 
-/* Styling for a non-clickable Previous arrow, eg. homepage */
 .nav-button.no-link {
-  pointer-events: none; /* Disables clicking */
-  cursor: default; /* Shows default cursor */
+  pointer-events: none;
+  cursor: default;
 }
 
 .nav-button.no-link .nav-item svg path {
-  stroke: #d3d3d3; /* Gray color for the arrow */
+  stroke: #d3d3d3;
 }
 
 .nav-button.no-link .nav-item::after {
-  content: "Previous"; /* Ensures no text is added */
+  content: "Previous";
   font-size: 12px;
   font-weight: bold;
-  color: #d3d3d3; /* Light gray color */
-  text-align: center; /* Centers the text horizontally */
-  opacity: 0; /* 0 Hidden 'Previous' text */
+  color: #d3d3d3;
+  text-align: center;
+  opacity: 0;
 }
 
