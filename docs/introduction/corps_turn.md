@@ -7,6 +7,8 @@ nav_order: 26
 ---
 ## Contents
 {: .no_toc .text-delta }
+1. TOC
+{:toc}
 
 # The Corp’s Turn
 
@@ -60,3 +62,9 @@ To play an operation, the Corp must pay the card’s credit cost in addition to 
 - Agenda
 - Asset
 - Ice
+
+## Corp’s HQ and Remote Servers with Ice
+
+<div style="text-align: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/introduction/corps_turn/servers.jpg" alt="Image" style="margin: 10px;" />
+</div>
