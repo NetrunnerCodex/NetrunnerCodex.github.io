@@ -21,7 +21,7 @@ During the Action Phase, the Runner has 4 clicks <span class="nic-red click"></s
 
 When the Runner has no remaining clicks to spend, they proceed to the Discard Phase of their turn.
 
-{: .note-title }
+{: .note2-title }
 > Runner Terms
 >
 > The Runner’s deck is called the stack, the Runner’s hand is called the grip, and the Runner’s discard pile is called the heap.
