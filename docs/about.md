@@ -47,7 +47,7 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 {: .note-title }
 > Disclaimer
 >
->The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex is an unofficial, non-profit and non-commercial fansite. This site is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
+>The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex project is an unofficial, non-profit and non-commercial fansite. This project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
 >
 > Netrunner is a trademark of R. Talsorian Games, Inc., licensed by Wizards of the Coast LLC. Android is a trademark and © Fantasy Flight Games. All rights reserved. © Wizards. 
 
