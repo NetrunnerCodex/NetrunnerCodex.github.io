@@ -10,8 +10,7 @@ nav_order: 26
 1. TOC
 {:toc}
 
-1. TOC
-{:toc}
+<hr>
 
 # The Corp’s Turn
 
