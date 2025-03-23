@@ -53,11 +53,11 @@ To play an event card, the Runner must pay the card’s credit cost in addition 
 {: .note2-title }
 > Runner Action Overview
 >
-> <span class="nic-red click"></span>Draw One Card
-> <span class="nic-red click"></span>Gain One Credit
-> <span class="nic-red click"></span>Play One Event
-> <span class="nic-red click"></span>Install One Card
-> <span class="nic-red click"></span><span class="red-font"> **2** </span><span class="nic-red credit"></span>Remove One Tag
+> <span class="nic-red click"></span>Draw One Card<br>
+> <span class="nic-red click"></span>Gain One Credit<br>
+> <span class="nic-red click"></span>Play One Event<br>
+> <span class="nic-red click"></span>Install One Card<br>
+> <span class="nic-red click"></span><span class="red-font"> **2** </span><span class="nic-red credit"></span>Remove One Tag<br>
 > <span class="nic-red click"></span>Make One Run
 
 ## Install One Card
@@ -96,7 +96,7 @@ The Runner can use icebreaker program cards to break subroutines on ice they are
 To break a subroutine, an icebreaker must be able to **INTERACT** with that subroutine’s ice. Ice and icebreakers each have a strength value. If the icebreaker’s strength is equal to or greater than the ice’s strength, that icebreaker can interact with that ice. Most icebreakers have an ability that allows the Runner to increase that icebreaker’s strength by spending credits. The Runner can use these abilities as many times as they can pay for them.
 
 If an icebreaker is able to interact with a piece of ice, the Runner can use the icebreaker to break subroutines as described on that icebreaker. There are three primary subtypes of ice: barrier, sentry, and code gate. Many icebreakers can only break specific
-subtypes of ice. For example, an icebreaker that has the ability <span class="red-font"> "**0** </span><span class="nic-red credit"></span>Break sentry subroutine” can only be used to break a subroutine on ice with a sentry subtype.
+subtypes of ice. For example, an icebreaker that has the ability "<span class="red-font">**0** </span><span class="nic-red credit"></span>Break sentry subroutine” can only be used to break a subroutine on ice with a sentry subtype.
 
 The Runner can choose and break any number of subroutines on a piece of ice, and the Runner can use any number of icebreakers to do so, though in most cases, they will likely only want to use a single icebreaker.
 
