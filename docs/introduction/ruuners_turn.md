@@ -6,14 +6,10 @@ has_children: false
 nav_order: 28
 ---
 ## Nodes
+
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
-
-## TEST
-{: .no_toc .text-delta }
-1. TOC
-{:toc max_level="2"}
 
 <hr>
 
