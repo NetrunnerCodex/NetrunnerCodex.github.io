@@ -12,7 +12,7 @@ Spending his last click, Bart the Runner initiates a run against one of Olivia�
 <div style="float: right; margin: 10px;">
     <img src="/assets/images/introduction/runners_turn/run-example.jpg" alt="Image" />
 </div>
-Since the first piece of ice protecting the server is rezzed, Bart must encounter it. Gordian Blade already has a strength of 2, and Bart spends<span class="red-font"> **1**</span><span class="nic-red credit"></span> to break **Enigma**’s second subroutine, “End the run,” and declares he is finished breaking subroutines <span class="blue-font">**(1)**</span>. The first subroutine, “The Runner loses <span class="nic-red click"></span>, if able” resolves, but Bart has no clicks to lose.
+Since the first piece of ice protecting the server is rezzed, Bart must encounter it. Gordian Blade already has a strength of 2, and Bart spends<span class="red-font"> **1**</span><span class="nic-red credit"></span>to break **Enigma**’s second subroutine, “End the run,” and declares he is finished breaking subroutines <span class="blue-font">**(1)**</span>. The first subroutine, “The Runner loses <span class="nic-red click"></span>, if able” resolves, but Bart has no clicks to lose.
 
 Since the ice was passed, Bart approaches the next piece of ice protecting the server and can either continue the run or jack out. He now has<span class="red-font"> **6**</span><span class="nic-red credit"></span>in his credit pool, and decides to continue. Olivia has
 the opportunity to rez cards, but declines to do so. Bart then passes that second piece of ice without encountering it and approaches the innermost piece of ice protecting the server.
