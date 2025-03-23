@@ -45,6 +45,8 @@ sideways. However, if the card was in play faceup when discarded, it is placed f
 > <span class="nic click"></span><span class="blue-font"> **2** </span><span class="nic credit"></span>Trash One Resource if the Runner is Tagged<br>
 > <span class="nic click"></span><span class="nic click"></span><span class="nic click"></span> Purge All Virus Counters
 
+<hr>
+
 # The Corp’s Actions
 
 During the Action Phase, the Corp spends clicks to perform the actions described in this section.
