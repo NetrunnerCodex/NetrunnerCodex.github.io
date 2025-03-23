@@ -12,6 +12,7 @@ The components in the game are presented here for identification purposes. A com
 <div style="float: right; margin: 10px;">
     <img src="/assets/images/overview/components/cards-runner.png" alt="Image" style="margin: 10px;" />
 </div>
+
 ## 114 Runner Cards
 - 33 Anarch Cards
 - 33 Criminal Cards
@@ -21,6 +22,7 @@ The components in the game are presented here for identification purposes. A com
 <div style="float: left; margin: 10px;">
     <img src="/assets/images/overview/components/cards-corp.png" alt="Image" style="margin: 10px;" />
 </div>
+
 ## 133 Corp Cards
 - 28 Haas-Bioroid Cards
 - 28 Jinteki Cards
@@ -31,28 +33,33 @@ The components in the game are presented here for identification purposes. A com
 <div style="float: right; margin: 10px;">
     <img src="/assets/images/overview/components/credits.png" alt="Image" style="margin: 10px;" />
 </div>
+
 - 41 One-Credit/Advancement Tokens
 - 8 Five-Credit Tokens
 
 <div style="float: left; margin: 10px;">
     <img src="/assets/images/overview/components/bad_pub-brain.png" alt="Image" style="margin: 10px;" />
 </div>
+
 - 10 Bad Publicity/Tag Tokens
 - 6 Brain Damage Tokens
 
 <div style="float: right; margin: 10px;">
     <img src="/assets/images/overview/components/generic.png" alt="Image" style="margin: 10px;" />
 </div>
+
 - 20 Generic Tokens
 
 <div style="float: left; margin: 10px;">
     <img src="/assets/images/overview/components/ref-cards.png" alt="Image" style="margin: 10px;" />
 </div>
+
 - 2 Reference Cards
 
 <div style="float: right; margin: 10px;">
     <img src="/assets/images/overview/components/click.png" alt="Image" style="margin: 10px;" />
 </div>
+
 - 2 Click Tracker Cards
 - 7 Click Tracker Tokens
 
