@@ -72,3 +72,43 @@ To play an operation, the Corp must pay the card’s credit cost in addition to 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/introduction/corps_turn/servers.jpg" alt="Image" style="margin: 10px;" />
 </div>
+
+## Install One Card
+The Corp can spend one click to install an agenda, asset, or ice card. Unlike operations which are resolved immediately and placed in Archives, installed cards remain in play and typically provide the Corp with a variety of persistent effects. To install a card, the Corp places it facedown. Where it is placed depends on the card’s type, as follows:
+
+### Installing Assets and Agendas (Remote Servers)
+A remote server is a location where the Corp can install assets, agendas, and/or ice. When the Corp installs an agenda or asset, they place it facedown in their play area, creating a new remote server (or in a remote server that already exists). Each remote server can contain either one agenda or one asset. The Corp may have any number of remote servers.
+
+The Corp must trash any installed assets or agendas in the server where they are installing a new asset or agenda. To trash a card, the Corp places the card in Archives—either faceup or facedown—as it existed in the play area.
+
+### Installing Ice
+Ice defends the Corp’s servers against intrusions by the Runner.
+
+When the Corp installs ice, they must place it above a central or remote server of their choice. The ice protects the chosen server and is placed horizontally to distinguish it from other cards. A server can be protected by multiple ice cards. When installing ice
+above a server that already has ice above it, the Corp must pay one credit for each ice that was already protecting that server. Then, they must place the ice they are installing in the outermost position above that server.
+
+The Corp can install ice above a server that does not have any cards in it, creating a new remote server where they can install an asset or agenda during a subsequent action.
+
+The Corp may trash any installed pieces of ice abovethe server where they are installing a new piece of ice. If the Corp trashes a piece of ice, it is placed in Archives in the same state—either faceup or facedown—as it existed in the play area.
+
+The Corp’s identity card functions as the play-area representation of HQ. As such, if the Corp wishes to install ice that protects HQ, they place that ice above their identity card.
+
+## Advance One Card
+The Corp can spend one click and one credit to advance one of their installed cards. Agendas can always be advanced. Any other card can only be advanced if it is specifically stated on the card. To advance a card, the Corp places an advancement token on the card they wish to advance.
+
+If there are ever a number of advancement tokens on an agenda equal to its advancement requirement, the Corp may score that agenda during their turn by revealing it and placing it faceup in their score area.
+
+## Trash One Resource
+This action is not used during the tutorial. It is described in the “Advanced Rules” section.
+
+## Purge All Virus Counters
+This action is not used during the tutorial. It is described in the “Advanced Rules” section.
+
+<HR>
+
+# Rezzing Cards
+
+The Corp’s installed cards have two play states: **REZZED**, which means that the card is faceup and active, and **UNREZZED**, which means that the card is facedown and inactive. Each asset, ice, and upgrade (see “Upgrades”) card has a rez cost. To **REZ** a card, the Corp must pay its rez cost and turn that card faceup. Agendas do not have a rez cost and cannot be rezzed.
+
+After a card is rezzed, it remains rezzed for the duration of the game unless an effect states otherwise. The Corp can rez asset and upgrade cards at any time without spending a click. The Corp can only rez ice during a run, which is described later (see “Making
+Runs”).
