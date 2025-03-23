@@ -10,23 +10,10 @@ nav_order: 28
 1. TOC
 {:toc}
 
-<details closed markdown="block">
-  <summary>
-    Nodes
-  </summary>
-  {: .text-delta }
+## TEST
+{: .no_toc .text-delta }
 1. TOC
-{:toc}
-</details>
-
-<details close markdown="block">
-  <summary>
-    Nodes
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+{:toc max_level="2"}
 
 <hr>
 
