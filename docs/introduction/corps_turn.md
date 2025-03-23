@@ -37,3 +37,23 @@ sideways. However, if the card was in play faceup when discarded, it is placed f
 > <span class="nic click"></span><span class="blue-font"> **1** </span><span class="nic credit"></span>Advance One Card<br>
 > <span class="nic click"></span><span class="blue-font"> **2** </span><span class="nic credit"></span>Trash One Resource if the Runner is Tagged<br>
 > <span class="nic click"></span><span class="nic click"></span><span class="nic click"></span> Purge All Virus Counters
+
+# The Corp’s Actions
+
+During the Action Phase, the Corp spends clicks to perform the actions described in this section.
+
+## Draw One Card
+The Corp can spend one click to draw one card from R&D. They take the top card from R&D and place it in HQ.
+
+## Gain One Credit
+The Corp can spend one click to gain one credit <span class="blue-font"> **1** </span><span class="nic credit"></span>. They take one credit from the token bank and place it in their credit pool.
+
+## Play One Operation
+The Corp can spend one click to play one operation card from HQ. Operations represent various transactions, interactions, and corporate initiatives that provide the Corp with a variety of one-time effects.
+
+To play an operation, the Corp must pay the card’s credit cost in addition to spending a click. Then, they read and resolve the effect described on the card. After resolving an operation’s effect,the Corp places the operation faceup in Archives.
+
+## Corp Card Types
+- Agenda
+- Asset
+- Ice
