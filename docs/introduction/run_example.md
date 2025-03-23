@@ -26,3 +26,8 @@ The first subroutine on **Wall of Thorns** then triggers and resolves, doing 2 n
 Now, Bart has passed every piece of ice protecting the server, he has one last opportunity to jack out. He decides to continue the run. Olivia can now rez cards one final time. Since the unrezzed card in the server is an agenda, she does not rez that card.
 
 The run is considered successful. Bart accesses the unrezzed card. He flips over the agenda, steals it, and adds it to his score area <span class="blue-font">**(6)**</span>. He then takes 1 net damage from the Jinteki’s identity card ability. The run then ends.
+
+{: .note2-title }
+> Start The Tutorial Game
+>
+> Now, players know all the rules necessary to play their first game of Android: Netrunner. If questions arise during the game, players can find detailed information about the game’s mechanics in the glossary section of the online Rules Reference. After playing their first game, players should read “Advanced Concepts” and incorporate the rules described there in all future games.
