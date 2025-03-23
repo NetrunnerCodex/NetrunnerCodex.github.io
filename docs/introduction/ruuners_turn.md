@@ -10,7 +10,16 @@ nav_order: 28
 1. TOC
 {:toc}
 
-<details open markdown="block">
+<details closed markdown="block">
+  <summary>
+    Nodes
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+<details close markdown="block">
   <summary>
     Nodes
   </summary>
