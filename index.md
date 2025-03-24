@@ -97,6 +97,8 @@ Conversely, netrunners are identified by their motives more than by their achiev
 
 Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
 
+<center>[About NR:CX](/docs/about){: .btn .btn-blue }</center>
+
 {: .note-title }
 > Disclaimer
 >
