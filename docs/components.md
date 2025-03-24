@@ -10,26 +10,26 @@ nav_order: 16
 The components in the game are presented here for identification purposes. A complete anatomy of each card can be found in the Rules Reference.
 
 <!-- Runner Cards -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-        <p style="text-align: left;">
-            **114 Runner Cards**<br>
+<div>
+    <div>
+        <p>
+            <strong>114 Runner Cards</strong><br>
             - 33 Anarch Cards<br>
             - 33 Criminal Cards<br>
             - 33 Shaper Cards<br>
             - 15 Neutral Cards
         </p>
     </div>
-    <div style="display: table-cell; vertical-align: middle; text-align: right; padding-left: 10px;">
-        <img src="/assets/images/overview/components/cards-runner.png" alt="Runner Cards" style="max-width: 100%; margin: 10px;">
+    <div>
+        <img src="/assets/images/overview/components/cards-runner.png" alt="Runner Cards">
     </div>
 </div>
 
 <!-- Corp Cards -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-        <p style="text-align: left;">
-            **133 Corp Cards**<br>
+<div>
+    <div>
+        <p>
+            <strong>133 Corp Cards</strong><br>
             - 28 Haas-Bioroid Cards<br>
             - 28 Jinteki Cards<br>
             - 28 NBN Cards<br>
@@ -37,71 +37,71 @@ The components in the game are presented here for identification purposes. A com
             - 21 Neutral Cards
         </p>
     </div>
-    <div style="display: table-cell; vertical-align: middle; text-align: right; padding-left: 10px;">
-        <img src="/assets/images/overview/components/cards-corp.png" alt="Corp Cards" style="max-width: 100%; margin: 10px;">
+    <div>
+        <img src="/assets/images/overview/components/cards-corp.png" alt="Corp Cards">
     </div>
 </div>
 
 <!-- Credits -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-        <p style="text-align: left;">
+<div>
+    <div>
+        <p>
             - 41 One-Credit/Advancement Tokens<br>
             - 8 Five-Credit Tokens
         </p>
     </div>
-    <div style="display: table-cell; vertical-align: middle; text-align: right; padding-left: 10px;">
-        <img src="/assets/images/overview/components/credits.png" alt="Credits Tokens" style="max-width: 100%; margin: 10px;">
+    <div>
+        <img src="/assets/images/overview/components/credits.png" alt="Credits Tokens">
     </div>
 </div>
 
 <!-- Bad Publicity/Brain Damage -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-        <p style="text-align: left;">
+<div>
+    <div>
+        <p>
             - 10 Bad Publicity/Tag Tokens<br>
             - 6 Brain Damage Tokens
         </p>
     </div>
-    <div style="display: table-cell; vertical-align: middle; text-align: right; padding-left: 10px;">
-        <img src="/assets/images/overview/components/bad_pub-brain.png" alt="Bad Publicity/Brain Damage Tokens" style="max-width: 100%; margin: 10px;">
+    <div>
+        <img src="/assets/images/overview/components/bad_pub-brain.png" alt="Bad Publicity/Brain Damage Tokens">
     </div>
 </div>
 
 <!-- Generic Tokens -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-        <p style="text-align: left;">
+<div>
+    <div>
+        <p>
             - 20 Generic Tokens
         </p>
     </div>
-    <div style="display: table-cell; vertical-align: middle; text-align: right; padding-left: 10px;">
-        <img src="/assets/images/overview/components/generic.png" alt="Generic Tokens" style="max-width: 100%; margin: 10px;">
+    <div>
+        <img src="/assets/images/overview/components/generic.png" alt="Generic Tokens">
     </div>
 </div>
 
 <!-- Reference Cards -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-        <p style="text-align: left;">
+<div>
+    <div>
+        <p>
             - 2 Reference Cards
         </p>
     </div>
-    <div style="display: table-cell; vertical-align: middle; text-align: right; padding-left: 10px;">
-        <img src="/assets/images/overview/components/ref-cards.png" alt="Reference Cards" style="max-width: 100%; margin: 10px;">
+    <div>
+        <img src="/assets/images/overview/components/ref-cards.png" alt="Reference Cards">
     </div>
 </div>
 
 <!-- Click Tracker -->
-<div style="display: table; width: 100%; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-        <p style="text-align: left;">
+<div>
+    <div>
+        <p>
             - 2 Click Tracker Cards<br>
             - 7 Click Tracker Tokens
         </p>
     </div>
-    <div style="display: table-cell; vertical-align: middle; text-align: right; padding-left: 10px;">
-        <img src="/assets/images/overview/components/click.png" alt="Click Tracker Tokens" style="max-width: 100%; margin: 10px;">
+    <div>
+        <img src="/assets/images/overview/components/click.png" alt="Click Tracker Tokens">
     </div>
 </div>
 
