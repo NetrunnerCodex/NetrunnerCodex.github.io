@@ -99,7 +99,7 @@ Humanity hurtles into space and lives on the network. Android: Netrunner provide
 
 <br>
 <div style="text-align: center;">
-  <a class="btn btn-blue-200" href="/docs/about">About NR:CX</a>
+  <a class="btn bg-blue-200" href="/docs/about">About NR:CX</a>
 </div>
 
 {: .note-title }
