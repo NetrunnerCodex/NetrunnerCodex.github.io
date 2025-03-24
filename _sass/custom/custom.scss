@@ -5,31 +5,30 @@
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 20px;
-    align-items: center;
+    align-items: center; /* Vertically aligns content */
 }
 
-/* Text Inside Custom Flexbox */
 .custom-flexbox > div:first-child {
     flex: 1;
     padding-right: 10px;
-    text-align: left;
+    text-align: left; /* Aligns text to the left for larger screens */
 }
 
-/* Images Inside Custom Flexbox */
 .custom-flexbox > div:last-child img {
     max-width: 100%;
     height: auto;
-    margin: 10px auto;
+    margin: 10px auto; /* Centers the image horizontally */
 }
 
-/* Media Query for Smaller Screens */
 @media (max-width: 768px) {
     .custom-flexbox {
-        flex-direction: column;
+        flex-direction: column; /* Stacks text and image vertically */
+        align-items: center;   /* Centers everything horizontally */
     }
 
-    .custom-flexbox > div:last-child {
-        text-align: center;
+    .custom-flexbox > div {
+        text-align: center;  /* Centers text on smaller screens */
+        padding-right: 0;    /* Removes right padding for cleaner layout */
     }
 }
 
