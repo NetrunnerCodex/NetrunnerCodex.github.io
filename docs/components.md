@@ -14,10 +14,10 @@ The components in the game are presented here for identification purposes. A com
     <div>
         <p>
             <strong>114 Runner Cards</strong><br>
-            - 33 Anarch Cards<br>
-            - 33 Criminal Cards<br>
-            - 33 Shaper Cards<br>
-            - 15 Neutral Cards
+            <span class="blue-font">**33**</span> Anarch Cards<br>
+            <span class="blue-font">**33**</span> Criminal Cards<br>
+            <span class="blue-font">**33**</span> Shaper Cards<br>
+            <span class="blue-font">**15**</span> Neutral Cards
         </p>
     </div>
     <div>
@@ -30,11 +30,11 @@ The components in the game are presented here for identification purposes. A com
     <div>
         <p>
             <strong>133 Corp Cards</strong><br>
-            - 28 Haas-Bioroid Cards<br>
-            - 28 Jinteki Cards<br>
-            - 28 NBN Cards<br>
-            - 28 Weyland Cards<br>
-            - 21 Neutral Cards
+            <span class="blue-font">**28**</span> Haas-Bioroid Cards<br>
+            <span class="blue-font">**28**</span> Jinteki Cards<br>
+            <span class="blue-font">**28**</span> NBN Cards<br>
+            <span class="blue-font">**28**</span> Weyland Cards<br>
+            <span class="blue-font">**21**</span> Neutral Cards
         </p>
     </div>
     <div>
@@ -46,8 +46,8 @@ The components in the game are presented here for identification purposes. A com
 <div class="custom-flexbox">
     <div>
         <p>
-            - 41 One-Credit/Advancement Tokens<br>
-            - 8 Five-Credit Tokens
+            <span class="blue-font">**41**</span> One-Credit/Advancement Tokens<br>
+            <span class="blue-font">**8**</span> Five-Credit Tokens
         </p>
     </div>
     <div>
@@ -59,8 +59,8 @@ The components in the game are presented here for identification purposes. A com
 <div class="custom-flexbox">
     <div>
         <p>
-            - 10 Bad Publicity/Tag Tokens<br>
-            - 6 Brain Damage Tokens
+            <span class="blue-font">**10**</span> Bad Publicity/Tag Tokens<br>
+            <span class="blue-font">**6**</span> Brain Damage Tokens
         </p>
     </div>
     <div>
@@ -72,7 +72,7 @@ The components in the game are presented here for identification purposes. A com
 <div class="custom-flexbox">
     <div>
         <p>
-            - 20 Generic Tokens
+            <span class="blue-font">**20**</span> Generic Tokens
         </p>
     </div>
     <div>
@@ -84,7 +84,7 @@ The components in the game are presented here for identification purposes. A com
 <div class="custom-flexbox">
     <div>
         <p>
-            - 2 Reference Cards
+            <span class="blue-font">**2**</span> Reference Cards
         </p>
     </div>
     <div>
@@ -96,8 +96,8 @@ The components in the game are presented here for identification purposes. A com
 <div class="custom-flexbox">
     <div>
         <p>
-            - 2 Click Tracker Cards<br>
-            - 7 Click Tracker Tokens
+            <span class="blue-font">**2**</span> Click Tracker Cards<br>
+            <span class="blue-font">**7**</span> Click Tracker Tokens
         </p>
     </div>
     <div>
