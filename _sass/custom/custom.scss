@@ -1,17 +1,36 @@
 
 // Flexbox
 
-div {
+.custom-flexbox {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 20px;
     align-items: center;
 }
 
-img {
+/* Text Inside Custom Flexbox */
+.custom-flexbox > div:first-child {
+    flex: 1;
+    padding-right: 10px;
+    text-align: left;
+}
+
+/* Images Inside Custom Flexbox */
+.custom-flexbox > div:last-child img {
     max-width: 100%;
     height: auto;
     margin: 10px auto;
+}
+
+/* Media Query for Smaller Screens */
+@media (max-width: 768px) {
+    .custom-flexbox {
+        flex-direction: column;
+    }
+
+    .custom-flexbox > div:last-child {
+        text-align: center;
+    }
 }
 
 // Font
