@@ -2,52 +2,86 @@
 
 .slug {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    align-items: center; /* Vertically centers content */
+    justify-content: space-between; /* Distributes items evenly */
     background-color: #183385; /* Fallback background color */
     padding: 0; /* Removes inner padding for flush alignment */
-    height: 160px; /* Matches the image height */
-    border: none; /* No border for clean edges */
+    height: 160px; /* Fixed height for larger screens */
+    border: none; /* Clean edges */
 }
 
 .title-container {
-    flex: 1;
-    padding: 15px; /* Adds padding around text */
+    flex: 1; /* Ensures the text container takes up available space */
+    padding: 15px; /* Adds spacing around the text */
     color: #ffffff; /* White text for contrast */
-    background-image: url('/assets/images/slugs/pixel-bg.jpg'); /* Path to your background image */
-    background-size: cover; /* Ensures the image covers the entire container */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-image: url('path-to-your-image.jpg'); /* Path to your background image */
+    background-size: cover; /* Ensures the background image covers the container */
+    background-repeat: no-repeat; /* Prevents tiling */
     background-position: center; /* Centers the image */
     height: 100%; /* Matches the height of the parent container */
-    width: 100%; /* Ensures the container's width is fully utilized */
+    width: 100%; /* Spans the full width of its flex space */
 }
 
 .page-title {
-    font-size: 1.8rem;
+    font-size: 1.8rem; /* Bold and large for emphasis */
     font-weight: bold;
     margin: 0;
     color: #ffffff; /* White for the title */
 }
 
 .page-subtitle {
-    font-size: 1rem;
+    font-size: 1rem; /* Smaller subtitle text */
     margin-top: 5px;
     color: #ffffff; /* White for the subtitle */
 }
 
 .image-container {
-    flex-shrink: 0;
-    width: 290px; /* Adjust width to match proportions */
-    height: 160px; /* Fixed height for the image */
-    overflow: hidden;
+    flex-shrink: 0; /* Prevents the image container from shrinking */
+    width: 290px; /* Fixed width for consistency */
+    height: 160px; /* Fixed height to match the `.slug` */
+    overflow: hidden; /* Clips any overflowing content */
     margin: 0; /* Ensures no gaps */
 }
 
 .image-container img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Ensures image fits neatly */
+    width: 100%; /* Ensures the image fills its container */
+    height: 100%; /* Maintains proportions */
+    object-fit: cover; /* Ensures the image fits neatly */
     border: none; /* Removes rounded corners */
+}
+
+@media (max-width: 768px) {
+    .slug {
+        flex-direction: column; /* Stacks items vertically on smaller screens */
+        justify-content: center; /* Centers content */
+        height: auto; /* Dynamic height for smaller screens */
+    }
+
+    .title-container {
+        padding: 10px; /* Reduces padding for smaller screens */
+        text-align: center; /* Centers the text */
+    }
+
+    .page-title {
+        font-size: 1.5rem; /* Slightly smaller title for readability */
+        margin-bottom: 10px; /* Adds spacing between title and subtitle */
+    }
+
+    .page-subtitle {
+        font-size: 1rem; /* Maintains readability */
+    }
+
+    .image-container {
+        width: 100%; /* Ensures full width for smaller screens */
+        height: auto; /* Adjusts height dynamically */
+        margin-top: 15px; /* Adds spacing between text and image */
+    }
+
+    .image-container img {
+        width: 100%; /* Adjusts image width to fit container */
+        height: auto; /* Maintains proportions */
+        object-fit: contain; /* Ensures the image fits neatly */
+    }
 }
 
 // Blue Button
