@@ -2,92 +2,92 @@
 
 .slug {
     display: flex;
-    align-items: center; /* Vertically centers content */
-    justify-content: space-between; /* Distributes items evenly */
-    background-color: #183385; /* Fallback background color */
-    padding: 0; /* Removes inner padding for flush alignment */
-    height: 160px; /* Fixed height for larger screens */
-    border: none; /* Clean edges */
+    align-items: center;
+    justify-content: space-between; 
+    background-color: #183385; 
+    padding: 0; 
+    height: 160px;
+    border: none; 
 }
 
 /* Title Container */
 .title-container {
-    flex: 1; /* Ensures the text container takes up available space */
-    padding: 15px; /* Adds spacing around the text */
-    color: #ffffff; /* White text for contrast */
-    background-image: url('path-to-your-image.jpg'); /* Path to your background image */
-    background-size: cover; /* Ensures the background image covers the container */
-    background-repeat: no-repeat; /* Prevents tiling */
-    background-position: center; /* Centers the image */
-    height: 100%; /* Matches the height of the parent container */
-    width: 100%; /* Spans the full width of its flex space */
+    flex: 1;
+    padding: 15px;
+    color: #ffffff;
+    background-image: url('adn-magnum-opus-preview3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
 }
 
 /* Page Title */
 .page-title {
-    font-size: 1.8rem; /* Bold and large for emphasis */
+    font-size: 1.8rem;
     font-weight: bold;
     margin: 0;
-    color: #ffffff; /* White for the title */
+    color: #ffffff;
 }
 
 /* Page Subtitle */
 .page-subtitle {
-    font-size: 1rem; /* Smaller subtitle text */
+    font-size: 1rem;
     margin-top: 5px;
-    color: #ffffff; /* White for the subtitle */
+    color: #ffffff;
 }
 
 /* Image Container */
 .image-container {
-    flex-shrink: 0; /* Prevents the image container from shrinking */
-    width: 290px; /* Fixed width for consistency */
-    height: 160px; /* Fixed height to match the `.slug` */
-    overflow: hidden; /* Clips any overflowing content */
-    margin: 0; /* Ensures no gaps */
+    flex-shrink: 0;
+    width: 290px;
+    height: 160px;
+    overflow: hidden;
+    margin: 0;
 }
 
 /* Image Styling */
 .image-container img {
-    display: block; /* Eliminates inline-block spacing quirks */
-    width: 100%; /* Ensures the image fills the container width */
-    height: 100%; /* Matches the parent container height */
-    object-fit: cover; /* Ensures the image fills the container neatly */
-    margin: 0; /* Removes default margins */
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
     .slug {
-        flex-direction: column; /* Stacks items vertically on smaller screens */
-        justify-content: center; /* Centers content */
-        height: auto; /* Dynamic height for smaller screens */
+        flex-direction: column;
+        justify-content: center;
+        height: auto;
     }
 
     .title-container {
-        padding: 10px; /* Reduces padding for smaller screens */
-        text-align: center; /* Centers the text */
+        padding: 10px;
+        text-align: center;
     }
 
     .page-title {
-        font-size: 1.5rem; /* Slightly smaller title for readability */
-        margin-bottom: 10px; /* Adds spacing between title and subtitle */
+        font-size: 1.5rem;
+        margin-bottom: 10px;
     }
 
     .page-subtitle {
-        font-size: 1rem; /* Maintains readability */
+        font-size: 1rem;
     }
 
     .image-container {
-        width: 100%; /* Ensures full width for smaller screens */
-        height: auto; /* Adjusts height dynamically */
-        margin-top: 15px; /* Adds spacing between text and image */
+        width: 100%;
+        height: auto;
+        margin-top: 15px;
     }
 
     .image-container img {
-        width: 100%; /* Adjusts image width to fit container */
-        height: auto; /* Maintains proportions */
-        object-fit: contain; /* Ensures the image fits neatly */
+        width: 100%;
+        height: auto;
+        object-fit: contain;
     }
 }
 
