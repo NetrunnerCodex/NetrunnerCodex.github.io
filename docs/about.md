@@ -13,9 +13,8 @@ nav_order: 5
         <p class="page-subtitle">{{ page.subtitle }}</p>
     </div>
     <div class="image-container">
-        <div class="image-wrapper">
-            <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" />
-        </div>
+        <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" />
+        <div class="glitch-effect"></div>
     </div>
 </div>
 
