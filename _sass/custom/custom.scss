@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #183385;
+    background-color: #183385; /* Fallback background color */
     padding: 0; /* Removes inner padding for flush alignment */
     height: 160px; /* Matches the image height */
     border: none; /* No border for clean edges */
@@ -14,6 +14,10 @@
     flex: 1;
     padding: 15px; /* Adds padding around text */
     color: #ffffff; /* White text for contrast */
+    background-image: url('/assets/images/slugs/pixel-bg.jpg'); /* Path to your background image */
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
 }
 
 .page-title {
