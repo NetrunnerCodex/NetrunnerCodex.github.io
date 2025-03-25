@@ -7,12 +7,12 @@ layout: default
 has_children: false
 nav_order: 5
 ---
-<div class="header-container">
-    <div class="title-box">
+<div class="blog-header">
+    <div class="title-container">
         <h1 class="page-title">{{ page.title }}</h1>
         <p class="page-subtitle">{{ page.subtitle }}</p>
     </div>
-    <div class="image-box">
+    <div class="image-container">
         <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" />
     </div>
 </div>
