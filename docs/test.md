@@ -1,5 +1,5 @@
 ---
-parent:
+parent: test
 title: Test
 subtitle: "A Journey Through Modern Design"
 header_image: "/assets/images/slugs/adn-magnum-opus-preview3.jpg"
