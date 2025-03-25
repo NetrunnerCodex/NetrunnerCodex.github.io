@@ -36,20 +36,18 @@
 }
 
 .image-container {
-    width: 100%; /* Ensures the container spans the full width */
-    height: auto; /* Adjusts the height dynamically */
-    margin: 0; /* Removes any gap caused by margins */
+    width: 100%; /* Full width for smaller screens */
+    height: auto; /* Adjust height dynamically */
+    margin: 0; /* Removes unwanted gaps */
     padding: 0; /* Ensures no extra space inside the container */
-    display: flex; /* Ensures proper alignment */
-    align-items: center; /* Vertically aligns the image */
-    justify-content: center; /* Centers the image horizontally */
+    overflow: hidden; /* Ensures no visual overflow */
 }
 
 .image-container img {
-    width: 100%; /* Ensures the image fully fills the container's width */
-    height: auto; /* Maintains the aspect ratio */
-    display: block; /* Prevents inline-image spacing */
-    margin: 0; /* Removes any default margin */
+    display: block; /* Fixes inline spacing issues */
+    width: 100%; /* Scales the image to fit the container width */
+    height: auto; /* Maintains the aspect ratio of the image */
+    margin: 0; /* Removes default margins */
 }
 
 @media (max-width: 768px) {
