@@ -15,9 +15,11 @@
     padding: 15px; /* Adds padding around text */
     color: #ffffff; /* White text for contrast */
     background-image: url('/assets/images/slugs/pixel-bg.jpg'); /* Path to your background image */
-    background-size: 100% 100%; /* Stretches the image to cover the container completely */
+    background-size: cover; /* Ensures the image covers the entire container */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-position: center; /* Centers the image */
+    height: 100%; /* Matches the height of the parent container */
+    width: 100%; /* Ensures the container's width is fully utilized */
 }
 
 .page-title {
