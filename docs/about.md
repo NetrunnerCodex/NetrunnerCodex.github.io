@@ -1,10 +1,15 @@
 ---
 parent: Overview
 title: NR:CX
+header_image: "/assets/images/headers/adn01_art_cyberfeeder.png"
 layout: default
 has_children: false
 nav_order: 5
 ---
+<div class="page-header" style="background-image: url('{{ page.header_image | relative_url }}');">
+    <h1 class="page-title">{{ page.title }}</h1>
+</div>
+
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/netrunner-codex200.png" alt="Image" style="margin: 10px;" />
 </div>
