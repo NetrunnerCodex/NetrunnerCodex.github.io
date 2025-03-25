@@ -1,13 +1,20 @@
 ---
 parent: Overview
 title: NR:CX
+subtitle: "A Journey Through Modern Design"
 header_image: "/assets/images/headers/adn01_art_cyberfeeder.png"
 layout: default
 has_children: false
 nav_order: 5
 ---
-<div class="page-header" style="background-image: url('{{ page.header_image | relative_url }}');">
-    <h1 class="page-title">{{ page.title }}</h1>
+<div class="header-container">
+    <div class="title-box">
+        <h1 class="page-title">{{ page.title }}</h1>
+        <p class="page-subtitle">{{ page.subtitle }}</p>
+    </div>
+    <div class="image-box">
+        <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
 </div>
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
