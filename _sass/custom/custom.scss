@@ -12,17 +12,15 @@
 
 /* Title Container */
 .title-container {
-    flex: 1; /* Ensures the text container takes up available space */
-    padding: 15px; /* Adds spacing around the text */
-    color: #ffffff; /* White text for contrast */
-    background-image: 
-        linear-gradient(to right, rgba(24, 51, 133, 1) 0%, rgba(24, 51, 133, 0) 50%), /* Fading effect */
-        url('/assets/images/slugs/pixel-bg.jpg'); /* Background image */
-    background-size: cover; /* Ensures the background image covers the container */
-    background-repeat: no-repeat; /* Prevents tiling */
-    background-position: center; /* Centers the image */
-    height: 100%; /* Matches the height of the parent container */
-    width: 100%; /* Spans the full width of its flex space */
+    flex: 1;
+    padding: 15px;
+    color: #ffffff;
+    background-image: url('/assets/images/slugs/pixel-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
 }
 
 /* Page Title */
@@ -86,11 +84,17 @@
         margin-top: 15px;
     }
 
-    .image-container img {
-        width: 100%;
-        height: auto;
-        object-fit: contain;
-    }
+.image-container img {
+    display: block; /* Prevents default inline spacing quirks */
+    width: 100%; /* Ensures the image fits the container width */
+    height: 100%; /* Ensures the image matches container height */
+    object-fit: cover; /* Ensures the image maintains its aspect ratio */
+    margin: 0; /* Removes any unwanted margins */
+
+    /* Left-to-right fade effect */
+    mask-image: linear-gradient(to right, transparent, black);
+    -webkit-mask-image: linear-gradient(to right, transparent, black);
+}
 }
 
 // Blue Button
