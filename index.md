@@ -1,7 +1,7 @@
 ---
 title: Overview
 slug_title: Netrunner Codex
-slug_subtitle: An open-source mainframe archiving the rules of the Android Netrunner card game
+slug_subtitle: Open-source mainframe for Android Netrunner rules
 slug_image: "/assets/images/slugs/adn01_preview.jpg"
 layout: home
 has_children: true
@@ -17,12 +17,10 @@ nav_order: 0
     </div>
 </div>
 
-{: .note-title }
-> Rules Sources
->
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play </a> Dec 2017
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference </a> Aug 2018
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ</a> Sep 2018 (4.2)
+### Rules Sources
+- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play </a> Dec 2017
+- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference </a> Aug 2018
+- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ</a> Sep 2018 (4.2)
   
 ## Android: Netrunner The Card Game
 
