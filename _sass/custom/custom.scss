@@ -78,23 +78,32 @@
         font-size: 1rem;
     }
 
-    .image-container {
-        width: 100%;
-        height: auto;
-        margin-top: 15px;
-    }
+.image-container {
+    position: relative; /* Makes it possible to position the pseudo-element */
+    width: 290px; /* Fixed width for consistency */
+    height: 160px; /* Fixed height for the image container */
+    overflow: hidden; /* Ensures no overflow */
+    margin: 0; /* Removes gaps */
+}
 
 .image-container img {
-    display: block; /* Prevents default inline spacing quirks */
-    width: 100%; /* Ensures the image fits the container width */
-    height: 100%; /* Ensures the image matches container height */
-    object-fit: cover; /* Ensures the image maintains its aspect ratio */
-    margin: 0; /* Removes any unwanted margins */
-
-    /* Left-to-right fade effect */
-    mask-image: linear-gradient(to right, transparent, black);
-    -webkit-mask-image: linear-gradient(to right, transparent, black);
+    display: block; /* Prevents inline-image spacing issues */
+    width: 100%; /* Scales the image to fit the container width */
+    height: 100%; /* Ensures the image height matches the container */
+    object-fit: cover; /* Fills the container neatly */
 }
+
+.image-container::after {
+    content: ""; /* Creates the overlay element */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Covers the full width of the container */
+    height: 100%; /* Covers the full height of the container */
+    background: linear-gradient(to left, transparent, #183385); /* Fade-in gradient */
+    pointer-events: none; /* Ensures the overlay doesn't interfere with interactions */
+}
+
 }
 
 // Blue Button
