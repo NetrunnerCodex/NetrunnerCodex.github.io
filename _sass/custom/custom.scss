@@ -86,22 +86,22 @@
     margin: 0; /* Removes gaps */
 }
 
-.image-container img {
-    display: block; /* Prevents inline-image spacing issues */
-    width: 100%; /* Scales the image to fit the container width */
-    height: 100%; /* Ensures the image height matches the container */
-    object-fit: cover; /* Fills the container neatly */
+.image-container {
+    position: relative; /* Allows positioning of pseudo-elements if needed */
+    width: 290px; /* Fixed width for the right image */
+    height: 160px; /* Fixed height for the container */
+    overflow: hidden; /* Ensures no overflow */
+    margin: 0; /* Removes gaps */
 }
 
-.image-container::after {
-    content: ""; /* Creates the overlay element */
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%; /* Covers the full width of the container */
-    height: 100%; /* Covers the full height of the container */
-    background: linear-gradient(to left, transparent, #183385); /* Fade-in gradient */
-    pointer-events: none; /* Ensures the overlay doesn't interfere with interactions */
+.image-container img {
+    display: block; /* Prevents inline-image spacing issues */
+    width: 100%; /* Ensures the image fits the container width */
+    height: 100%; /* Ensures the image height matches the container */
+    object-fit: cover; /* Ensures the image maintains proportions */
+    margin: 0;
+    mask-image: linear-gradient(to right, transparent, black); /* Applies a left-to-right fade */
+    -webkit-mask-image: linear-gradient(to right, transparent, black); /* Webkit compatibility */
 }
 
 }
