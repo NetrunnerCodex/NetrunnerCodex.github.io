@@ -24,14 +24,14 @@
     width: 100%;
 }
 
-.page-title {
+.page-slug_title {
     font-size: 1.8rem;
     font-weight: bold;
     margin: 0;
     color: #ffffff;
 }
 
-.page-title::before {
+.page-slug_title::before {
     content: "NR:CX";
     display: block;
     font-size: 0.9rem;
@@ -41,7 +41,7 @@
     text-transform: uppercase;
 }
 
-.page-subtitle {
+.page-slug_subtitle {
     font-size: 1rem;
     margin-top: 5px;
     color: #ffffff;
