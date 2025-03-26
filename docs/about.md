@@ -3,7 +3,7 @@ parent: Overview
 title: NR:CX
 slug_title: About Netrunner Codex
 slug_subtitle: Open-source mainframe for Android Netrunner rules
-slug_image: "/assets/images/netrunner-codex200.png"
+slug_image: "/assets/images/slugs/blackguard-art.png"
 layout: default
 has_children: false
 nav_order: 5
@@ -18,11 +18,11 @@ nav_order: 5
     </div>
 </div>
 
+Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This site is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
+
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/netrunner-codex200.png" alt="Image" style="margin: 10px;" />
 </div>
-
-Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the Netrunner Codex has been programmed to preserve the rules and safeguard the history of this iconic card game. This site is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
 
 ## Original FFG Android Netrunner Credits
 <span class="blue-font">Legendary Game Design Superheroes</span>
