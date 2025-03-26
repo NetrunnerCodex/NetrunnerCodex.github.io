@@ -87,21 +87,30 @@
 }
 
 .image-container {
-    position: relative; /* Allows positioning of pseudo-elements if needed */
+    position: relative; /* Required to position the overlay properly */
     width: 290px; /* Fixed width for the right image */
     height: 160px; /* Fixed height for the container */
-    overflow: hidden; /* Ensures no overflow */
-    margin: 0; /* Removes gaps */
+    overflow: hidden; /* Ensures no content spills outside the container */
+    margin: 0;
 }
 
 .image-container img {
-    display: block; /* Prevents inline-image spacing issues */
-    width: 100%; /* Ensures the image fits the container width */
-    height: 100%; /* Ensures the image height matches the container */
-    object-fit: cover; /* Ensures the image maintains proportions */
+    display: block; /* Removes default inline spacing */
+    width: 100%; /* Ensures the image fills the container width */
+    height: 100%; /* Maintains proportions */
+    object-fit: cover; /* Ensures the image fits neatly */
     margin: 0;
-    mask-image: linear-gradient(to right, transparent, black); /* Applies a left-to-right fade */
-    -webkit-mask-image: linear-gradient(to right, transparent, black); /* Webkit compatibility */
+}
+
+.fade-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Covers the entire container */
+    height: 100%; /* Matches container height */
+    background: linear-gradient(to right, rgba(24, 51, 133, 1), rgba(24, 51, 133, 0)); /* Left-to-right fade */
+    pointer-events: none; /* Ensures the overlay doesn’t block interactions */
+    z-index: 2; /* Places the overlay above the image */
 }
 
 }
