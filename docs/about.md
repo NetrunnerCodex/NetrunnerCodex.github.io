@@ -3,7 +3,7 @@ parent: Overview
 title: NR:CX
 slug_title: About Netrunner Codex
 slug_subtitle: Open-source mainframe for Android Netrunner rules
-slug_image: "/assets/images/slugs/blackguard-art.png"
+slug_image: "/assets/images/netrunner-codex200.png"
 layout: default
 has_children: false
 nav_order: 5
