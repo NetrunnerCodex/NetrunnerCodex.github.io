@@ -10,7 +10,7 @@ nav_order:
 ---
 <div class="slug">
     <div class="title-container">
-        <h1 class="page-title">{{ slug.title }}</h1>
+        <h1 class="page-title">{{ page.slug_title }}</h1>
         <p class="page-subtitle">{{ page.subtitle }}</p>
     </div>
     <div class="image-container">
