@@ -2,12 +2,12 @@
 
 .slug {
     display: flex;
-    align-items: center;
-    justify-content: space-between; 
-    background-color: #183385; 
-    padding: 0; 
+    align-items: center; /* Centers content vertically */
+    justify-content: space-between; /* Distributes content evenly */
+    background-color: #183385; /* Fallback background color */
+    padding: 0;
     height: 160px;
-    border: none; 
+    border: none;
 }
 
 /* Title Container */
@@ -40,6 +40,7 @@
 
 /* Image Container */
 .image-container {
+    position: relative; /* Allows layering */
     flex-shrink: 0;
     width: 290px;
     height: 160px;
@@ -47,72 +48,24 @@
     margin: 0;
 }
 
-/* Image Styling */
+/* Right Image Fade Effect */
+.image-container::after {
+    content: ""; /* Creates the overlay */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Covers the entire container */
+    height: 100%;
+    background: linear-gradient(to right, rgba(24, 51, 133, 0), rgba(24, 51, 133, 1)); /* Fade effect */
+    pointer-events: none; /* Ensures it doesn't interfere with interactions */
+    z-index: 2; /* Places it above the image */
+}
+
 .image-container img {
     display: block;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    margin: 0;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .slug {
-        flex-direction: column;
-        justify-content: center;
-        height: auto;
-    }
-
-    .title-container {
-        padding: 10px;
-        text-align: center;
-    }
-
-    .page-title {
-        font-size: 1.5rem;
-        margin-bottom: 10px;
-    }
-
-    .page-subtitle {
-        font-size: 1rem;
-    }
-
-.image-container {
-    position: relative; /* Makes it possible to position the pseudo-element */
-    width: 290px; /* Fixed width for consistency */
-    height: 160px; /* Fixed height for the image container */
-    overflow: hidden; /* Ensures no overflow */
-    margin: 0; /* Removes gaps */
-}
-
-.image-container {
-    position: relative; /* Required to position the overlay properly */
-    width: 290px; /* Fixed width for the right image */
-    height: 160px; /* Fixed height for the container */
-    overflow: hidden; /* Ensures no content spills outside the container */
-    margin: 0;
-}
-
-.image-container img {
-    display: block; /* Removes default inline spacing */
-    width: 100%; /* Ensures the image fills the container width */
-    height: 100%; /* Maintains proportions */
-    object-fit: cover; /* Ensures the image fits neatly */
-    margin: 0;
-}
-
-.fade-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%; /* Covers the entire container */
-    height: 100%; /* Matches container height */
-    background: linear-gradient(to right, rgba(24, 51, 133, 1), rgba(24, 51, 133, 0)); /* Left-to-right fade */
-    pointer-events: none; /* Ensures the overlay doesn’t block interactions */
-    z-index: 2; /* Places the overlay above the image */
-}
-
 }
 
 // Blue Button
