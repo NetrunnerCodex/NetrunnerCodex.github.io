@@ -1,5 +1,18 @@
 // Slug
 
+@mixin faded($offset, $blur-radius, $spread-radius) {
+  &.faded-left:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) $offset, rgba(0, 0, 0, 1) 100%);
+    pointer-events: none;
+  }
+}
+
 .slug {
     display: flex;
     align-items: center;
@@ -48,20 +61,26 @@
 }
 
 .image-container {
-    flex-shrink: 0;
-    width: 290px;
-    height: 160px; 
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
+  flex-shrink: 0;
+  width: 290px;
+  height: 160px;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
 
 .image-container img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover; 
-    margin: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+  transition: opacity 0.5s ease;
+}
+
+.image-container.faded-left img {
+  opacity: 0.6; /* Controls the fade effect; adjust as necessary */
 }
 
 /* Responsive Design */
