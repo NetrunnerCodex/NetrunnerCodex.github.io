@@ -12,15 +12,17 @@
 
 /* Title Container */
 .title-container {
-    flex: 1;
-    padding: 15px;
-    color: #ffffff;
-    background-image: url('/assets/images/slugs/pixel-bg.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 100%;
-    width: 100%;
+    flex: 1; /* Ensures the text container takes up available space */
+    padding: 15px; /* Adds spacing around the text */
+    color: #ffffff; /* White text for contrast */
+    background-image: 
+        linear-gradient(to right, rgba(24, 51, 133, 1) 0%, rgba(24, 51, 133, 0) 50%), /* Fading effect */
+        url('/assets/images/slugs/pixel-bg.jpg'); /* Background image */
+    background-size: cover; /* Ensures the background image covers the container */
+    background-repeat: no-repeat; /* Prevents tiling */
+    background-position: center; /* Centers the image */
+    height: 100%; /* Matches the height of the parent container */
+    width: 100%; /* Spans the full width of its flex space */
 }
 
 /* Page Title */
