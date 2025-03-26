@@ -8,11 +8,19 @@ layout: default
 has_children: false
 nav_order: 5
 ---
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
+
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/netrunner-codex200.png" alt="Image" style="margin: 10px;" />
 </div>
-
-# About Netrunner Codex
 
 Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the Netrunner Codex has been programmed to preserve the rules and safeguard the history of this iconic card game. This site is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
 
