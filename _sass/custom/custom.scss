@@ -38,34 +38,33 @@
     color: #ffffff;
 }
 
-/* Image Container */
 .image-container {
-    position: relative; /* Allows layering */
+    position: relative; /* Required for pseudo-element layering */
     flex-shrink: 0;
     width: 290px;
     height: 160px;
-    overflow: hidden;
+    overflow: hidden; /* Ensures no content spills outside */
     margin: 0;
 }
 
-/* Right Image Fade Effect */
+.image-container img {
+    display: block; /* Prevents inline spacing issues */
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image fills its container proportionally */
+}
+
+/* Left-to-right fade effect */
 .image-container::after {
-    content: ""; /* Creates the overlay */
+    content: ""; /* Creates the fade overlay */
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%; /* Covers the entire container */
-    height: 100%;
-    background: linear-gradient(to right, rgba(24, 51, 133, 0), rgba(24, 51, 133, 1)); /* Fade effect */
-    pointer-events: none; /* Ensures it doesn't interfere with interactions */
-    z-index: 2; /* Places it above the image */
-}
-
-.image-container img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    width: 100%; /* Covers the entire width of the container */
+    height: 100%; /* Matches the container height */
+    background: linear-gradient(to right, rgba(24, 51, 133, 1), rgba(24, 51, 133, 0)); /* Left-to-right fade */
+    pointer-events: none; /* Ensures the overlay doesn’t block interactions */
+    z-index: 2; /* Places the fade effect above the image */
 }
 
 // Blue Button
