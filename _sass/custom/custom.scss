@@ -4,19 +4,17 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: #183385;
     padding: 0;
     height: 160px;
     border: none;
-    background: none !important; /* Force removal of any background */
-    background-color: transparent !important; /* Double-check fallback removal */
 }
 
-/* Title Container */
 .title-container {
     flex: 1;
     padding: 15px;
     color: #ffffff;
-    background-image: url('/assets/images/slugs/pixel-bg.jpg');
+    background-image: url('/assets/images/slugs/pixel-bg.jpg'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -24,8 +22,6 @@
     width: 100%;
 }
 
-
-/* Page Title */
 .page-title {
     font-size: 1.8rem;
     font-weight: bold;
@@ -33,7 +29,16 @@
     color: #ffffff;
 }
 
-/* Page Subtitle */
+.page-title::before {
+    content: "NR:CX";
+    display: block;
+    font-size: 0.9rem;
+    font-weight: normal;
+    margin: 0 0 5px 0;
+    color: #ffcc00;
+    text-transform: uppercase;
+}
+
 .page-subtitle {
     font-size: 1rem;
     margin-top: 5px;
@@ -41,36 +46,54 @@
 }
 
 .image-container {
-    position: relative; /* Enables layering */
-    flex-shrink: 0; /* Prevents shrinking */
-    width: 290px; /* Fixed width */
-    height: 160px; /* Fixed height */
-    overflow: hidden; /* Prevents content overflow */
+    flex-shrink: 0;
+    width: 290px;
+    height: 160px; 
+    overflow: hidden;
     margin: 0;
 }
 
 .image-container img {
-    display: block; /* Removes inline spacing issues */
-    width: 100%; /* Ensures the image fills the container width */
-    height: 100%; /* Ensures the image height matches the container */
-    object-fit: cover; /* Ensures the image fits neatly */
-    mask-image: linear-gradient(to left, transparent, black); /* Fixes the fade direction */
-    -webkit-mask-image: linear-gradient(to left, transparent, black); /* WebKit compatibility */
-    mask-size: cover; /* Ensures the mask spans the entire image */
-    -webkit-mask-size: cover; /* Ensures WebKit compatibility */
-}
-
-/* Left-to-right fade effect */
-.image-container::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
+    display: block;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)); /* Fades left to right */
-    z-index: 2; /* Ensures it’s above the image */
-    pointer-events: none;
+    object-fit: cover; 
+    margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .slug {
+        flex-direction: column; 
+        justify-content: center;
+        height: auto;
+    }
+
+    .title-container {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .page-title {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    .page-subtitle {
+        font-size: 1rem;
+    }
+
+    .image-container {
+        width: 100%;
+        height: auto;
+        margin-top: 15px; 
+    }
+
+    .image-container img {
+        width: 100%;
+        height: auto;
+        object-fit: contain; 
+    }
 }
 
 // Blue Button
@@ -80,7 +103,7 @@
   color: #ffffff; 
 }
 .btn-blue2:hover {
-  background-color: #112266; /* Darker shade of blue */
+  background-color: #112266;
   color: #ffffff;
 }
 
