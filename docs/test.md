@@ -13,7 +13,7 @@ nav_order:
         <h1 class="page-title">{{ page.slug_title }}</h1>
         <p class="page-subtitle">{{ page.subtitle }}</p>
     </div>
-    <div class="image-container">
+    <div class="image-container faded-left">
         <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" />
     </div>
 </div>
