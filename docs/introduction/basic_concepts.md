@@ -1,11 +1,22 @@
 ---
 parent: Introduction
 title: Basic Concepts
+slug_title: Basic Concepts
+slug_subtitle:
+slug_image: "/assets/images/slugs/adn33_preview.png"
 layout: default
 has_children: false
 nav_order: 22
 ---
-# Basic Concepts
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
 
 ## Identity (ID)
 Identity cards start the game in play and represent the specific Runner or Corp that a player is controlling. A player’s identity card defines their faction and provides them with a special ability to use throughout the game.
