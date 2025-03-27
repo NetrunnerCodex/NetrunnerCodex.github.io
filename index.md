@@ -21,6 +21,8 @@ nav_order: 0
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play </a> Dec 2017 (v.2)
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference </a> Aug 2018 (v.1.1)
 - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ</a> Sep 2018 (v.4.2)
+
+<hr>
   
 ## Android: Netrunner The Card Game
 
