@@ -1,11 +1,23 @@
 ---
 parent: Overview
 title: Components
+slug_title: Components (Core set)
+slug_subtitle:
+slug_image: "/assets/images/slugs/adn29_preview5.jpg"
 layout: default
 has_children: false
 nav_order: 16
 ---
-# Components (Core set)
+
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
 
 The components in the game are presented here for identification purposes. A complete anatomy of each card can be found in the Rules Reference.
 
