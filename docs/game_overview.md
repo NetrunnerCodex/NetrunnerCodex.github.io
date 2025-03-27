@@ -18,6 +18,10 @@ nav_order: 15
     </div>
 </div>
 
+Android: Netrunner is an asymmetrical game for two players. One player is the Runner, a rogue hacker armed with bleeding-edge gear and software that they use to attack the servers of megacorps. The other player is the head of a powerful Corporation, or Corp, who will relentlessly pursue their goals while attempting to thwart the Runner’s attacks.
+
+During a game of Android: Netrunner, the Runner uses their turns to build a rig of hardware and programs that they can use to steal agendas from the Corp’s servers. The Corp must defend their servers from the Runner’s attacks while trying to advance agendas before the Runner can steal them. The first player to have seven points worth of agendas wins!
+
 <p style="margin-top: 20px;"></p>
 <div style="display: flex; justify-content: center;">
   <div style="width: 100%; max-width: 560px; aspect-ratio: 16 / 9; position: relative;">
@@ -32,10 +36,6 @@ nav_order: 15
     </iframe>
   </div>
 </div>
-
-Android: Netrunner is an asymmetrical game for two players. One player is the Runner, a rogue hacker armed with bleeding-edge gear and software that they use to attack the servers of megacorps. The other player is the head of a powerful Corporation, or Corp, who will relentlessly pursue their goals while attempting to thwart the Runner’s attacks.
-
-During a game of Android: Netrunner, the Runner uses their turns to build a rig of hardware and programs that they can use to steal agendas from the Corp’s servers. The Corp must defend their servers from the Runner’s attacks while trying to advance agendas before the Runner can steal them. The first player to have seven points worth of agendas wins!
 
 {: .note-title }
 > Read This First
