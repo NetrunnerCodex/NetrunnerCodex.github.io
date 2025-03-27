@@ -1,18 +1,29 @@
 ---
 parent: Introduction
 title: The Corp’s Turn
+slug_title: The Corp’s Turn
+slug_subtitle:
+slug_image: "/assets/images/slugs/adn49_preview13.jpg"
 layout: default
 has_children: false
 nav_order: 26
 ---
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
+
 ## Nodes
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
 
 <hr>
-
-# The Corp’s Turn
 
 During the Corp’s turn, the Corp resolves the following three phases in order: Draw Phase, Action Phase, and Discard Phase.
 
