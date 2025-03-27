@@ -1,16 +1,27 @@
 ---
 parent: Overview
 title: Tutorial Setup
+slug_title: Tutorial Setup
+slug_subtitle: Setting up the first game
+slug_image: "/assets/images/slugs/adn15_preview2.jpg"
 layout: default
 has_children: false
 nav_order: 17
 ---
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
+
 {: .note-title }
 > Corporations and Runners
 >
 > During each game of Android: Netrunner, one player assumes the role of a Corporation, or Corp, and another player assumes the role of a Runner. When these rules refers to either the “Corp” or the “Runner,” it is referring to the player assuming that role.
-
-# Tutorial Setup
 
 This section walks the players through setting up their first game.
 
