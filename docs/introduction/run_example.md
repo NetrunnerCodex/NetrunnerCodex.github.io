@@ -1,11 +1,22 @@
 ---
 parent: Introduction
 title: Run Example
+slug_title: Run Example
+slug_subtitle:
+slug_image: "/assets/images/slugs/g18nr_preview2.jpg"
 layout: default
 has_children: false
 nav_order: 29
 ---
-# Run Example
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
 
 Spending his last click, Bart the Runner initiates a run against one of Olivia’s remote servers. Bart has a **Gordian Blade**, **Crypsis**, and a **Sacrificial Construct** installed. He has<span class="red-font"> **7**</span><span class="nic-red credit"></span>and three cards in his grip. The remote server has an unrezzed card in it and three pieces of ice protecting it, one of them rezzed. The card in the server has one advancement token on it. Olivia has<span class="red-font"> **10**</span><span class="nic-red credit"></span>.
 
