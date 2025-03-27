@@ -37,6 +37,8 @@ During a game of Android: Netrunner, the Runner uses their turns to build a rig 
   </div>
 </div>
 
+<br>
+
 {: .note-title }
 > Read This First
 >
