@@ -1,8 +1,8 @@
 ---
 parent: Overview
 title: Welcome to the future
-slug_title: Visions of life in the future 
-slug_subtitle:  
+slug_title: Welcome to the future
+slug_subtitle: Visions of life in the future
 slug_image: "/assets/images/slugs/adn43_preview3.jpg"
 layout: default
 has_children: false
