@@ -1,18 +1,29 @@
 ---
 parent: Introduction
 title: The Runner’s Turn
+slug_title: The Runner’s Turn
+slug_subtitle:
+slug_image: "/assets/images/slugs/adn34_preview2.jpg"
 layout: default
 has_children: false
 nav_order: 28
 ---
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
+
 ## Nodes
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
 
 <hr>
-
-# The Runner’s Turn
 
 During the Runner’s turn, they resolve the following two phases in order: Action Phase, and Discard Phase. Unlike the Corp, the Runner does not perform a Draw Phase.
 
