@@ -1,11 +1,22 @@
 ---
 parent: Overview
 title: Welcome to the future
+slug_title: Visions of life in the future 
+slug_subtitle:  
+slug_image: "/assets/images/slugs/adn43_preview3.jpg"
 layout: default
 has_children: false
 nav_order: 10
 ---
-# Welcome to the future
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
 
 Humanity has spread itself across the solar system. The Moon and Mars are colonized. A plan to terraform the Red Planet is well underway, hindered only by a bloody civil war. On Earth, a massive space elevator has been built near the equator in the sprawling megapolis of New Angeles, stretching up into low orbit. This elevator is the hub of trade in the solar system, and most people refer to it as the “Beanstalk.”
   
