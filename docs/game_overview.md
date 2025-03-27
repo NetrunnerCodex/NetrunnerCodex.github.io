@@ -2,7 +2,7 @@
 parent: Overview
 title: Game Overview
 slug_title: Game Overview
-slug_subtitle: Cyber struggles in a dystopian future
+slug_subtitle: A card game of cyber struggles in a dystopian future
 slug_image: "/assets/images/slugs/ADN15_7955_IKnowAGuy.jpg"
 layout: default
 has_children: false
