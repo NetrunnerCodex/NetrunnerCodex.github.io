@@ -2,7 +2,7 @@
 parent: Overview
 title: Welcome to the future
 slug_title: Welcome to the future
-slug_subtitle: Visions of life in the future
+slug_subtitle: The World Changed. People Did Not.
 slug_image: "/assets/images/slugs/adn43_preview3.jpg"
 layout: default
 has_children: false
