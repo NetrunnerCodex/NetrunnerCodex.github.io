@@ -1,11 +1,22 @@
 ---
 parent: Introduction
 title: Playing the Game
+slug_title: Playing the Game
+slug_subtitle:
+slug_image: "/assets/images/slugs/chp03-04_preview2.png"
 layout: default
 has_children: false
 nav_order: 24
 ---
-# Playing the Game
+<div class="slug">
+    <div class="title-container">
+        <h1 class="page-slug_title">{{ page.slug_title }}</h1>
+        <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
+    </div>
+    <div class="image-container faded-left">
+        <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+</div>
 
 Android: Netrunner is played over a series of turns. The Corp always takes the first turn of the game.
 
