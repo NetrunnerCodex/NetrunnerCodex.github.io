@@ -18,7 +18,7 @@ nav_order: 5
     </div>
 </div>
 
-Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This site is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
+Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This project is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/netrunner-codex200.png" alt="Image" style="margin: 10px;" />
