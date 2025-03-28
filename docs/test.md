@@ -1,8 +1,8 @@
 ---
 parent: test
 title: Test
-slug_title: Testing
-subtitle: A Journey Through Modern Design
+slug_title: 
+subtitle: 
 header_image: "/assets/images/slugs/adn01_preview.jpg"
 layout: default
 has_children: false
@@ -22,3 +22,5 @@ Font size 10
 {: .fs-10 } {: .green-200 }
 
 Font size 10 {: .fs-10 } {: .green-200 }
+
+<span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
