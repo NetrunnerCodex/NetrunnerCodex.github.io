@@ -17,3 +17,8 @@ nav_order:
         <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" />
     </div>
 </div>
+
+Font size 10
+{: .fs-10 } {: .green-200 }
+
+Font size 10 {: .fs-10 } {: .green-200 }
