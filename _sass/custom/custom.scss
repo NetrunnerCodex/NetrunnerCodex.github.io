@@ -180,22 +180,22 @@
 
 .red-box {
   display: flex;
-  justify-content: space-between; /* Distribute space evenly */
+  justify-content: space-evenly; /* keeps equal spacing between images */
   align-items: center;
   border: 2px solid #dd2e2e;
-  border-radius: 12px; /* Adjust this value for how rounded you want the corners */
-  padding: 16px; /* Optional: adds some inner space */
-  margin: 16px 0; /* Optional: vertical spacing around the container */
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px 0;
 }
 
+/* Adjusted image styles to preserve natural resolution while maintaining layout */
 .red-box img {
-  flex: 1; /* Allow images to grow equally */
-  max-width: calc(33.33% - 16px); /* Three images per row, accounting for margin */
-  margin: 0 8px; /* Horizontal margin between images */
-  height: auto; /* Keep images responsive */
-  object-fit: cover; /* Optional: ensures images fill their space nicely */
-  /* Optional: you can also add a secondary rounded border to the images themselves */
-  border-radius: 8px;
+  width: 30%;        /* maintains the width you like */
+  max-width: 300px;  /* optional: limits upscaling if your images are about this size */
+  height: auto;      /* keeps the image's aspect ratio */
+  margin: 0 8px;
+  /* Removed object-fit to prevent any unwanted downscaling or cropping */
+  image-rendering: auto; /* you can change this to 'crisp-edges' if needed for sharper edges */
 }
 
 // Icons
