@@ -178,9 +178,9 @@
 
 // Boxes
 
-.red-box {
+.red-card-box {
   display: flex;
-  justify-content: space-evenly; /* keeps equal spacing between images */
+  justify-content: space-evenly;
   align-items: center;
   border: 2px solid #dd2e2e;
   border-radius: 12px;
@@ -188,14 +188,12 @@
   margin: 16px 0;
 }
 
-/* Adjusted image styles to preserve natural resolution while maintaining layout */
-.red-box img {
-  width: 30%;        /* maintains the width you like */
-  max-width: 300px;  /* optional: limits upscaling if your images are about this size */
-  height: auto;      /* keeps the image's aspect ratio */
+.red-card-box img {
+  width: 220px;
+  height: auto;
   margin: 0 8px;
-  /* Removed object-fit to prevent any unwanted downscaling or cropping */
-  image-rendering: auto; /* you can change this to 'crisp-edges' if needed for sharper edges */
+  image-rendering: crisp-edges;
+  -ms-interpolation-mode: nearest-neighbor;
 }
 
 // Icons
