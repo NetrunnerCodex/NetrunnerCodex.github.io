@@ -178,12 +178,30 @@
 
 // Boxes
 
+.blue-card-box {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 2px solid #dd2e2e;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.blue-card-box img {
+  width: 220px;
+  height: auto;
+  margin: 0 8px;
+  image-rendering: crisp-edges;
+  -ms-interpolation-mode: nearest-neighbor;
+}
+
 .red-card-box {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   border: 2px solid #dd2e2e;
-  border-radius: 12px;
+  border-radius: 10px;
   padding: 16px;
   margin: 16px 0;
 }
