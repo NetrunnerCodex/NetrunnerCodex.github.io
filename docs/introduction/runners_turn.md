@@ -32,7 +32,7 @@ During the Action Phase, the Runner has 4 clicks <span class="nic-red click"></s
 
 When the Runner has no remaining clicks to spend, they proceed to the Discard Phase of their turn.
 
-{: .note2-title }
+{: .notered-title }
 > Runner Terms
 >
 > The Runner’s deck is called the stack, the Runner’s hand is called the grip, and the Runner’s discard pile is called the heap.
@@ -61,7 +61,7 @@ The Runner can spend one click to play an event card from their grip. Events rep
 
 To play an event card, the Runner must pay the card’s credit cost in addition to spending a click. Then, they read and resolve the effect described on the card. After resolving an event’s effect, the Runner places it in the heap.
 
-{: .note2-title }
+{: .notered-title }
 > Runner Action Overview
 >
 > <span class="nic-red click"></span>Draw One Card<br>
