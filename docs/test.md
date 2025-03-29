@@ -24,3 +24,10 @@ Font size 10
 Font size 10 {: .fs-10 } {: .green-200 }
 
 <span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
+
+{: .note2-title }
+> Runner
+>
+> ![img1](/assets/images/introduction/run_example/01043_gordian_blade.jpg)
+> ![img1](/assets/images/introduction/run_example/01051_crypsis.jpg)
+> ![img1](/assets/images/introduction/run_example/01048_sacrificial_construct.jpg)
