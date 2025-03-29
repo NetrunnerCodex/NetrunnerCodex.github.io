@@ -32,7 +32,6 @@ Spending his last click, <span class="red-font-b">Bart</span> (the Runner) initi
 >
 > ![img1](/assets/images/introduction/run_example/01111_enigma.jpg)
 > ![img1](/assets/images/introduction/run_example/01078-wall-of-thorns.jpg)
-> ![img1](/assets/images/introduction/run_example/01048_sacrificial_construct.jpg)
 
 <div style="float: right; margin: 10px;">
     <img src="/assets/images/introduction/runners_turn/run-example.jpg" alt="Image" />
