@@ -24,7 +24,12 @@ nav_order: 29
   <img src="/assets/images/introduction/run_example/01048_sacrificial_construct.jpg" alt="Image 3">
 </div>
 
-Spending his last click, <span class="red-font-b">Bart</span> the Runner initiates a <span class="grey2-font-b">Run</span> against one of <span class="blue-font-b">Olivia’s</span> <span class="grey2-font-b">Remote</span> servers. <span class="red-font-b">Bart</span> has a <span class="red-font-b">Gordian Blade</span>, <span class="red-font-b">Crypsis</span>, and a <span class="red-font-b">Sacrificial Construct</span> installed. He has<span class="red-font-b"> 7</span><span class="nic-red credit"></span>and three cards in his <span class="grey2-font-b">Grip</span>. The <span class="grey2-font-b">Remote</span> server has an <span class="grey2-font-b">Unrezzed</span> card in it and three pieces of <span class="grey2-font-b">Ice</span> protecting it, one of them <span class="grey2-font-b">Rezzed</span>. The card in the server has one <span class="grey2-font-b">Advancement</span> token on it. <span class="blue-font-b">Olivia</span> has<span class="blue-font-b"> 10</span><span class="nic credit"></span>.
+Spending his last click, <span class="red-font-b">Bart</span> (the Runner) initiates a <span class="grey2-font-b">Run</span> against one of <span class="blue-font-b">Olivia’s</span> (the Corp) <span class="grey2-font-b">Remote</span> servers. <span class="red-font-b">Bart</span> has a <span class="red-font-b">Gordian Blade</span>, <span class="red-font-b">Crypsis</span>, and a <span class="red-font-b">Sacrificial Construct</span> installed. He has<span class="red-font-b"> 7</span><span class="nic-red credit"></span>and three cards in his <span class="grey2-font-b">Grip</span>. The <span class="grey2-font-b">Remote</span> server has an <span class="grey2-font-b">Unrezzed</span> card in it and three pieces of <span class="grey2-font-b">Ice</span> protecting it, one of them <span class="grey2-font-b">Rezzed</span>. The card in the server has one <span class="grey2-font-b">Advancement</span> token on it. <span class="blue-font-b">Olivia</span> has<span class="blue-font-b"> 10</span><span class="nic credit"></span>.
+
+<div class="blue-card-box">
+  <img src="/assets/images/introduction/run_example/01078-wall-of-thorns.jpg" alt="Image 1">
+  <img src="/assets/images/introduction/run_example/01111_enigma.jpg" alt="Image 2">
+</div>
 
 <div style="float: right; margin: 10px;">
     <img src="/assets/images/introduction/runners_turn/run-example.jpg" alt="Image" />
