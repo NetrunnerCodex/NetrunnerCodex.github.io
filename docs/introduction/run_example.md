@@ -2,7 +2,7 @@
 parent: Introduction
 title: Run Example
 slug_title: Run Example
-slug_subtitle:
+slug_subtitle: Players - Bart vs Olivia
 slug_image: "/assets/images/slugs/g18nr_preview2.jpg"
 layout: default
 has_children: false
