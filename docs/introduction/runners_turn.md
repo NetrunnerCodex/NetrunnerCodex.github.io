@@ -23,7 +23,12 @@ nav_order: 28
 1. TOC
 {:toc}
 
-<hr>
+{: .notered-title }
+> Runner Terms
+>
+> The Runner’s deck is called the stack, the Runner’s hand is called the grip, and the Runner’s discard pile is called the heap.
+Many cards in Android: Netrunner will specifically use these terms when referring to the Runner’s deck, hand, and discard pile, as
+appropriate.
 
 During the Runner’s turn, they resolve the following two phases in order: Action Phase, and Discard Phase. Unlike the Corp, the Runner does not perform a Draw Phase.
 
@@ -31,13 +36,6 @@ During the Runner’s turn, they resolve the following two phases in order: Acti
 During the Action Phase, the Runner has 4 clicks <span class="nic-red click"></span>to spend on performing actions and resolving abilities on cards. The actions that the Runner can perform during the Action Phase are described in detail in the next column.
 
 When the Runner has no remaining clicks to spend, they proceed to the Discard Phase of their turn.
-
-{: .notered-title }
-> Runner Terms
->
-> The Runner’s deck is called the stack, the Runner’s hand is called the grip, and the Runner’s discard pile is called the heap.
-Many cards in Android: Netrunner will specifically use these terms when referring to the Runner’s deck, hand, and discard pile, as
-appropriate.
 
 ## Discard Phase
 During the Discard Phase, the Runner must choose and discard cards from their grip down to their maximum hand size. The Runner’s maximum hand size is five unless modified by other effects.
