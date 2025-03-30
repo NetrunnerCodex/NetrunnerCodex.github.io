@@ -18,11 +18,11 @@ nav_order: 0
 </div>
 
 {: .note-title }
-> Rules Sources
+> Rules Sources: FFG Android Netrunner 
 >
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play</a> 12.2017 v.2
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference</a> 08.2018 v.1.1
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ</a> 09.2018 v.4.2
+> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">Learn to Play</a> 12.2017 (v.2)
+> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">Rules Reference</a> 08.2018 (v.1.1)
+> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FAQ</a> 09.2018 (v.4.2)
 
 ## Android: Netrunner The Card Game
 
