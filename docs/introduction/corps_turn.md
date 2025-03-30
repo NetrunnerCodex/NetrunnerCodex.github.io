@@ -23,16 +23,14 @@ nav_order: 26
 1. TOC
 {:toc}
 
-<hr>
-
-During the Corp’s turn, the Corp resolves the following three phases in order: Draw Phase, Action Phase, and Discard Phase.
-
 {: .note-title }
 > Corp Terms
 >
 > The Corp’s deck is called R&D (research and development), the Corp’s hand is called HQ (headquarters), and the Corp’s discard
 pile is called Archives. Cards in Android: Netrunner will specifically use these terms when referring to the Corp’s deck, hand, and
 discard pile, as appropriate.
+
+During the Corp’s turn, the Corp resolves the following three phases in order: Draw Phase, Action Phase, and Discard Phase.
 
 ## Draw Phase
 During the Draw Phase, the Corp draws a card from R&D (their deck) and places it in HQ (their hand). After drawing a card, the Corp proceeds to the Action Phase of this turn.
