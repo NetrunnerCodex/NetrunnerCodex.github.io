@@ -25,19 +25,14 @@ Font size 10 {: .fs-10 } {: .green-200 }
 
 <span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
 
-{: .note2-title }
-> Runner
->
-> ![img1](/assets/images/introduction/run_example/01043_gordian_blade.jpg)
-> ![img1](/assets/images/introduction/run_example/01051_crypsis.jpg)
-> ![img1](/assets/images/introduction/run_example/01048_sacrificial_construct.jpg)
+1. Item 1
+1. Item 2
 
-1. sdgfsfdsdf
-1. ssdfsdfsdfdsfsdfs
-{: .note2-title }
-> Runner
->
-> ![img1](/assets/images/introduction/run_example/01043_gordian_blade.jpg)
-> ![img1](/assets/images/introduction/run_example/01051_crypsis.jpg)
-> ![img1](/assets/images/introduction/run_example/01048_sacrificial_construct.jpg)
-1. sdfsdfsdfs
+<div style="text-align: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/home/1.jpg" alt="Image" style="margin: 10px;" />
+</div>
+
+<ol start="3">
+  <li>Item 3</li>
+  <li>Item 4</li>
+</ol>
