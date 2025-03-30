@@ -18,8 +18,6 @@ nav_order: 29
     </div>
 </div>
 
-<br>
-
 {: .notered-title }
 > Runner's cards
 >
