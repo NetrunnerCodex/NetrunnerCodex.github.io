@@ -39,7 +39,7 @@ While Corporation players try to score points by advancing their agendas, they h
 Technological advances have allowed Corporations to push the envelope of human experience to heights previously unimaginable. Mankind has colonized the Moon and Mars. Powerful computer and neurobiological technologies have allowed scientists to create digital maps of the mind, empowering new artificial intelligences and electronric-blue brain interfaces. Gone are the days of the mouse and the keyboard. Most users transfer data via gestural interfaces and virt displays, but the elite “jack-in,” connecting their brains directly to their computers and, beyond them, the omnipresent network.
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/home/3.png" alt="Image 3" style="width: 700px; margin: 10px;" />
+    <img src="/assets/images/home/3.png" alt="Image 3" style="width: 500px; margin: 10px;" />
 </div>
 
 Everyone relies on the network, the all-seeing, all-hearing grid that surrounds Earth and reaches out into the solar system. More data flows through the network every second than was ever expressed in the first five-thousand years of written language. It is a surveillance network, a financial system, and a library. It is the backbone of modern civilization. It is also the greatest weakness the megacorps have.
@@ -63,7 +63,7 @@ In Android: Netrunner, each player starts with five credits, five cards in hand,
 Corporations seek to score agendas by advancing them. Doing so takes time and credits. To buy the time and earn the Credits they need, they must secure their servers and data forts with “Ice.” These security programs come in different varieties, from simple Barriers to Code Gates and aggressive Sentries. They serve as the Corporation’s virtual eyes, ears, and machine guns on the sprawling information superhighways of the network.
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/home/4.png" alt="Image 4" style="width: 250px; margin: 10px;" />
+    <img src="/assets/images/home/4.png" alt="Image 4" style="width: 300px; margin: 10px;" />
 </div>
 
 In turn, Runners need to spend their time and Credits acquiring a sufficient wealth of resources, purchasing the necessary Hardware, and developing suitably powerful Ice-Breaker programs to hack past corporate security measures. Their jobs are always a little desperate, driven by tight timelines, and shrouded in mystery. When a Runner jacks-in and starts a Run at a Corporate server, they risk having their best Programs Trashed or being caught by a Trace Program and left vulnerable to Corporate countermeasures. It’s not uncommon for an unprepared Runner to fail to bypass a nasty Sentry and suffer massive Brain Damage as a result. Even if a Runner gets through a data fort’s defenses, there’s no telling what it holds. Sometimes, the Runner finds something of value. Sometimes, the best he can do is work to Trash whatever the Corporation was developing.
@@ -71,7 +71,7 @@ In turn, Runners need to spend their time and Credits acquiring a sufficient wea
 Players in Android: Netrunner find themselves in a game of ever-building tension. The Corporation’s every step is an investment in the grand scheme, but can they protect their Assets from the Runner’s ingenuity? And while a Runner presses to prevent the corporation from achieving its goals, they must decide whether they can afford to Run blind. Will the next piece of Ice be the one that renders them comatosed? Will the Corporation finally tag them and send a hitman their way? Will they steal the Corporation’s most valuable secrets, or will they stumble into an explosive trap?
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/home/5.png" alt="Image 5" style="width: 700px; margin: 10px;" />
+    <img src="/assets/images/home/5.png" alt="Image 5" style="width: 500px; margin: 10px;" />
 </div>
 
 ## Corporate Giants and Smooth Criminals
@@ -111,8 +111,8 @@ Conversely, Nnetrunners are identified by their motives more than by their achie
 </p>
 
 <div style="display: flex; justify-content: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/home/6.png" alt="Image 6" style="width: 300px; margin-right: 10px;" />
-    <img src="/assets/images/home/7.png" alt="Image 7" style="width: 300px;" />
+    <img src="/assets/images/home/6.png" alt="Image 6" style="width: 200px; margin-right: 10px;" />
+    <img src="/assets/images/home/7.png" alt="Image 7" style="width: 200px;" />
 </div>
 
 Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
