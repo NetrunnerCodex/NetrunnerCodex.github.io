@@ -36,7 +36,7 @@ While Corporation players try to score points by advancing their agendas, they h
 
 ## New World Order
 
-Technological advances have allowed Corporations to push the envelope of human experience to heights previously unimaginable. Mankind has colonized the Moon and Mars. Powerful computer and neurobiological technologies have allowed scientists to create digital maps of the mind, empowering new artificial intelligences and electronic brain interfaces. Gone are the days of the mouse and the keyboard. Most users transfer data via gestural interfaces and virt displays, but the elite “jack-in,” connecting their brains directly to their computers and, beyond them, the omnipresent network.
+Technological advances have allowed Corporations to push the envelope of human experience to heights previously unimaginable. Mankind has colonized the Moon and Mars. Powerful computer and neurobiological technologies have allowed scientists to create digital maps of the mind, empowering new artificial intelligences and electronric-blue brain interfaces. Gone are the days of the mouse and the keyboard. Most users transfer data via gestural interfaces and virt displays, but the elite “jack-in,” connecting their brains directly to their computers and, beyond them, the omnipresent network.
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/home/3.png" alt="Image 3" style="width: 700px; margin: 10px;" />
@@ -54,7 +54,7 @@ There are those who hunt constantly for flaws in corporate security measures. Th
 
 When Wizards of the Coast originally released Netrunner in 1996, it was widely hailed as one of the greatest customizable card games of that era. In 2012, Fantasy Flight Games (FFG) updated this classic card game by Richard Garfield as a Living Card Game model.
 
-Players familiar with the original will recognize its gritty, noir, cyberpunk feel and the tense, strategic action engendered by balancing their actions, but they’ll also find plenty of exciting enhancements in Android: Netrunner. Several of the more troublesome mechanics have been cleaned up and clarified, and the introduction of identities into the card pool creates a more dynamic play environment.
+Players familiar with the original will recognize its gritty, noir, cyberpunk feel and the tense, strategic action engendered by balancing their actions, but they’ll also find plenty of exciting enhancements in Android: Netrunner. Several of the more troublesome mechanric-blues have been cleaned up and clarified, and the introduction of identities into the card pool creates a more dynamic play environment.
 
 ## Asymmetrical Game Play
 
@@ -81,33 +81,33 @@ Android: Netrunner introduces Identity cards, which represent different Corporat
 Amid the future’s breath-taking developments, four giant Corporations tower above the rest as paragons of industry.
 
 <p>
-  <span class="nic haas"></span><span class="blue-font">Haas-Bioroid</span> leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
+  <span class="nric-blue haas"></span><span class="blue-font">Haas-Bioroid</span> leads the work replacement revolution with its bioroids, humanoid machines possessing artificially intelligent minds developed from careful braintaping.
 </p>
 
 <p>
-  <span class="nic jinteki"></span><span class="blue-font">Jinteki</span> is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
+  <span class="nric-blue jinteki"></span><span class="blue-font">Jinteki</span> is their main rival in the labor solutions market. Jinteki excel at producing genetically-engineered clones, some of which are even capable of working in the vacuum at the top of the Beanstalk.
 </p>
 
 <p>
-  <span class="nic nbn"></span><span class="blue-font">NBN</span> owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
+  <span class="nric-blue nbn"></span><span class="blue-font">NBN</span> owns what you think and dream with the largest and most pervasive media network ever conceived by man streaming everything from music to threedee, news to sitcoms, and classic movies to sensies.
 </p>
 
 <p>
-  <span class="nic weyland"></span><span class="blue-font">The Weyland Consortium</span> has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
+  <span class="nric-blue weyland"></span><span class="blue-font">The Weyland Consortium</span> has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
 </p>
 
 Conversely, Nnetrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
 
 <p>
-  <span class="nic-red anarch"></span><span class="red-font">Anarchs</span> like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
+  <span class="nric-red anarch"></span><span class="red-font">Anarchs</span> like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
 </p>
 
 <p>
-  <span class="nic-red criminal"></span><span class="red-font">Criminals</span> like Gabriel Santiago are in it for the Credits. They get paid for the secrets they uncover. Consummate professionals, these Runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
+  <span class="nric-red criminal"></span><span class="red-font">Criminals</span> like Gabriel Santiago are in it for the Credits. They get paid for the secrets they uncover. Consummate professionals, these Runners believe in taking as few risks as possible, and never the ones they consider unnecessary.
 </p>
 
 <p>
-  <span class="nic-red shaper"></span><span class="red-font">Shapers</span> like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any Runner’s.
+  <span class="nric-red shaper"></span><span class="red-font">Shapers</span> like Chaos Theory are considered idealistic naifs by many. They’re not in the business to tear down corporations nor for personal gain. They run because they can. They take joy runs to see what they can make out of new combinations of hardware and software. Accordingly, their tech is usually among the most modded and sophisticated of any Runner’s.
 </p>
 
 <div style="display: flex; justify-content: center; margin-top: 0; padding-top: 0;">
