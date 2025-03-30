@@ -18,8 +18,6 @@ nav_order: 17
     </div>
 </div>
 
-<br>
-
 {: .note-title }
 > Corporations and Runners
 >
@@ -55,7 +53,7 @@ This section walks the players through setting up their first game.
 - 3x Hedge Fund (132) <span class="blue-font">Operation</span>
 
 ## Tutorial Runner Deck
-- <span class="nic-red criminal"></span><span class="red-font">**Gabriel Santiago**</span> (19) <span class="red-font">Identity</span>
+- <span class="nic-red criminal"></span><span class="red-font-b">Gabriel Santiago</span> (19) <span class="red-font">Identity</span>
 - 3x Mimic (13) <span class="red-font">Program</span>
 - 1x Ice Carver (15) <span class="red-font">Resource</span>
 - 3x Liberated Account (16) <span class="red-font">Resource</span>
