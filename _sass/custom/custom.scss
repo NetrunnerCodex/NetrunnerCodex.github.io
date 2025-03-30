@@ -315,6 +315,15 @@ ol.custom-ol li::before {
   mask-repeat: no-repeat;
 }
 
+.advance {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
 // Navigation buttons
 
 .nav-buttons {
