@@ -17,13 +17,13 @@ nav_order: 0
     </div>
 </div>
 
-### Rules Sources
-- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play</a> 12.2017 v.2
-- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference</a> 08.2018 v.1.1
-- <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ</a> 09.2018 v.4.2
+{: .note-title }
+> Rules Sources
+>
+> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Learn to Play</a> 12.2017 v.2
+> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner Rules Reference</a> 08.2018 v.1.1
+> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FFG Android: Netrunner FAQ</a> 09.2018 v.4.2
 
-<hr>
-  
 ## Android: Netrunner The Card Game
 
 Android: Netrunner is a two-player card game set in a dystopian, cyberpunk future where monolithic megacorps own and control the vast majority of human interests.
