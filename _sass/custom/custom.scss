@@ -171,7 +171,7 @@
   color: #5a5a5a; /* Grey-100 */
 }
 
-.grey2-font-b {
+.grey-font-bl {
   font-weight: 700;
   color: #959396; /* Grey-000 */
 }
@@ -211,6 +211,15 @@ ol.custom-ol li::before {
   display: inline-block;
   vertical-align: middle;
   background-color: #dd2e2e;
+  width: 22px;
+  height: 22px;
+  margin-right: 4px;
+}
+
+.nric-grey {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #959396;
   width: 22px;
   height: 22px;
   margin-right: 4px;
@@ -295,6 +304,20 @@ ol.custom-ol li::before {
   mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
+}
+
+.ice {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/ice_NRIC-DB.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/ice_NRIC-DB.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.ice::after {
+  content: "Ice";
+  display: inline-block;
 }
 
 // Navigation buttons
