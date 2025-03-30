@@ -204,16 +204,16 @@ ol.custom-ol li::before {
   background-color: #264caf;
   width: 22px;
   height: 22px;
-  margin-right: 4px;
+  margin-right: 2px;
 }
 
 .nric-red {
   display: inline-block;
   vertical-align: middle;
-  background-color: #dd2e2e;
+  background-color: #e94c4c;
   width: 22px;
   height: 22px;
-  margin-right: 4px;
+  margin-right: 2px;
 }
 
 .nric-grey {
@@ -222,7 +222,7 @@ ol.custom-ol li::before {
   background-color: #959396;
   width: 20px;
   height: 20px;
-  margin-right: 3px;
+  margin-right: 2px;
 }
 
 .haas {
@@ -288,6 +288,26 @@ ol.custom-ol li::before {
   mask-repeat: no-repeat;
 }
 
+// Actions
+
+.advance {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.agenda {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/agenda_NRIC-DB.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/agenda_NRIC-DB.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
 .click {
   -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/click_NRIC-OG.svg');
   mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/click_NRIC-OG.svg');
@@ -315,16 +335,43 @@ ol.custom-ol li::before {
   mask-repeat: no-repeat;
 }
 
-.advance {
-  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
-  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
+.rez {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/rez_NRIC-OG.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/rez_NRIC-OG.svg');
   -webkit-mask-size: contain;
   mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
 }
 
-// Navigation buttons
+.subroutine {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/subroutine_NRIC-OG.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/subroutine_NRIC-OG.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.trash {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/trash_NRIC-OG.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/trash_NRIC-OG.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.virus {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/virus_NRIC-CU.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/virus_NRIC-CU.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+// NAV ARROWS
 
 .nav-buttons {
   display: flex;
