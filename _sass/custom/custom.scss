@@ -181,7 +181,7 @@
 ol.custom-ol {
   list-style: none;
   counter-reset: list-item calc(var(--start, 1) - 1) !important;
-  padding-left: 2.5em;
+  padding-left: 2em;
 }
 
 ol.custom-ol li {
