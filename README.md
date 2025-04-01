@@ -14,8 +14,6 @@ https://netrunnercodex.github.io
     </picture>
 </p>
 
-<br>
-
 ## >_SYSTEM_DATA_UPLOAD
 
 **$IMPORT_DATA**: ACTIVE.<br>
