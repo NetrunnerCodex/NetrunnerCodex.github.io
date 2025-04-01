@@ -105,7 +105,7 @@ Amid the future’s breath-taking developments, four giant Corporations tower ab
   <span class="nric-blue weyland"></span><span class="blue-font">The Weyland Consortium</span> has expanded since its construction of the space elevator; the Consortium now leads the way in construction of cutting edge facilities on Earth, the Moon, and Mars.
 </p>
 
-Conversely, Nnetrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
+Conversely, Netrunners are identified by their motives more than by their achievements. They don’t build up. They tear open.
 
 <p>
   <span class="nric-red anarch"></span><span class="red-font">Anarchs</span> like Reina Roja work from their hatred for corporate corruption. Some might say they champion the oppressed and the downtrodden, but it’s more likely that they’re interested purely in the act of ripping apart corporate lies and spreading their viruses to hinder the corporate machine.
