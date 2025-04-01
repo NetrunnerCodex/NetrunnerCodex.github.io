@@ -1,6 +1,6 @@
 ---
 parent: Overview
-title: Guide
+title: NR:CX
 slug_title: How to use Netrunner Codex
 slug_subtitle: 
 slug_image: "/assets/images/slugs/chp03-04_preview1.png"
