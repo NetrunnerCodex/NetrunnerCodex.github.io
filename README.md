@@ -14,7 +14,7 @@ https://netrunnercodex.github.io
     </picture>
 </p>
 
-<p><br></p>
+<br>
 
 ## >_SYSTEM_DATA_UPLOAD
 
