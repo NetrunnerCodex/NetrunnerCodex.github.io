@@ -55,7 +55,7 @@ Rogue operators: Computer specialists with the hardware, software, and raw talen
 
 <div class="nav-buttons">
   <!-- Previous Button -->
-  <a href="/docs/about" class="nav-button" aria-label="Previous page">
+  <a href="/docs/guide" class="nav-button" aria-label="Previous page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M30 20L20 30L30 40" />
