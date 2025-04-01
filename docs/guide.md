@@ -18,6 +18,9 @@ nav_order: 6
     </div>
 </div>
 
+# Search
+The Netrunner Codex user-friendly interface provides streamlined navigation and enhanced search functionality to quickly access essential rules and game information.
+
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/overview/search.png" alt="Image" style="margin: 10px;" />
 </div>
