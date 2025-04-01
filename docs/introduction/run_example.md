@@ -76,4 +76,4 @@ Since there are no <span class="grey-font-bl">Virus</span> counters on <span cla
 {: .note-title }
 > Start The Tutorial Game
 >
-> Now, players know all the rules necessary to play their first game of Android: Netrunner. If questions arise during the game, players can find detailed information about the game’s mechanric-blues in the glossary section of the online Rules Reference. After playing their first game, players should read “Advanced Concepts” and incorporate the rules described there in all future games.
+> Now, players know all the rules necessary to play their first game of Android: Netrunner. If questions arise during the game, players can find detailed information about the game’s mechanics in the Glossary section of the Rules Reference. After playing their first game, players should read “Advanced Concepts” and incorporate the rules described there in all future games.
