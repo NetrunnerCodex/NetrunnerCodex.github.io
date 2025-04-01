@@ -1,7 +1,7 @@
 ---
-parent: About
-title: Searching
-slug_title: Searching Netrunner Codex
+parent: Overview
+title: Guide
+slug_title: How to use Netrunner Codex
 slug_subtitle: 
 slug_image: "/assets/images/slugs/chp03-04_preview1.png"
 layout: default
