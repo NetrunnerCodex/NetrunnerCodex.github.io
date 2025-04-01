@@ -61,14 +61,15 @@ With only<span class="red-font-b"> 1</span><span class="nric-red credit"></span>
 <li>
 Since there are no <span class="grey-font-bl">Virus</span> counters on <span class="red-font-b">Crypsis</span>, <span class="red-font-b">Bart</span> decides to use <span class="red-font-b">Sacrificial Construct</span> and triggers its prevent effect, <span class="grey-font-bl">Trashing</span> it instead of <span class="red-font-b">Crypsis</span>. The first subroutine on <span class="blue-font-b">Wall of Thorns</span> then triggers and resolves, doing <span class="grey-font-b">2</span> <span class="grey-font-bl">Net Damage</span> (damage is not used in the tutorial, but is described in “Damage”). <span class="red-font-b">Bart</span> must <span class="grey-font-bl">Trash</span> <span class="grey-font-b">2</span> random cards from his <span class="grey-font-bl">Grip</span>. He does so, leaving him with a single card. Now, <span class="red-font-b">Bart</span> has passed every piece of <span class="grey-font-bl">Ice</span> protecting the server, he has one last opportunity to <span class="grey-font-bl">Jack-out</span>. He decides to continue the <span class="grey-font-bl">Run</span>. <span class="blue-font-b">Olivia</span> can now <span class="grey-font-bl">Rez</span> cards one final time. Since the <span class="grey-font-bl">Unrezzed</span> card in the server is an <span class="grey-font-bl">Agenda</span>, she does not <span class="grey-font-bl">Rez</span> that card.
 </li>
-<li>The <span class="grey-font-bl">Run</span> is considered successful. <span class="red-font-b">Bart</span> accesses the <span class="grey-font-bl">Unrezzed</span> card. He flips over the <span class="grey-font-bl">Agenda</span>, steals it, and adds it to his score area. He then takes <span class="grey-font-b">1</span> <span class="grey-font-bl">Net Damage</span> from the Jinteki’s identity card ability. The <span class="grey-font-bl">Run</span> then ends.
+<li>The <span class="grey-font-bl">Run</span> is considered successful. <span class="red-font-b">Bart</span> accesses the <span class="grey-font-bl">Unrezzed</span> card. He flips over the <span class="grey-font-bl">Agenda</span> Nisei-MK-II, steals it, and adds it to his score area. He then takes <span class="grey-font-b">1</span> <span class="grey-font-bl">Net Damage</span> from the Jinteki’s identity card ability. The <span class="grey-font-bl">Run</span> then ends.
 </li>
 </ol>
 
 {: .note-title }
-> Corp's Agenda
+> Corp's Agenda and ID
 >
 > ![img1](/assets/images/introduction/run_example/01068-Nisei-MK-II.jpg)
+> ![img1](/assets/images/introduction/run_example/01067-Jinteki-Personal-Evolution.jpg)
 
 <br>
 
