@@ -1,7 +1,7 @@
 ---
 title: Overview
 slug_title: Netrunner Codex
-slug_subtitle: Open-source mainframe for Android Netrunner rules
+slug_subtitle: Unofficial mainframe for Android Netrunner rules
 slug_image: "/assets/images/slugs/adn01_preview.jpg"
 layout: home
 has_children: true
@@ -17,12 +17,17 @@ nav_order: 0
     </div>
 </div>
 
+Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This open-source project is dedicated to celebrating Netrunner’s legacy, ensuring it remains accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.
+
 {: .note-title }
-> Rules Sources: FFG Android Netrunner 
+> Rules Source
 >
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">Learn to Play</a> 12.2017 (v.2)
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">Rules Reference</a> 08.2018 (v.1.1)
-> - <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/#support-section" target="_blank">FAQ</a> 09.2018 (v.4.2)
+> FFG Android Netrunner: <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">fantasyflightgames.com/android-netrunner</a>
+> - **Learn to Play** 12.2017 (v.2)
+> - **Rules Reference** 08.2018 (v.1.1)
+> - **FAQ** 09.2018 (v.4.2)
+> 
+> © Fantasy Flight Games
 
 ## Android: Netrunner The Card Game
 
