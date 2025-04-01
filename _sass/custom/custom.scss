@@ -225,6 +225,15 @@ ol.custom-ol li::before {
   margin-right: 2px;
 }
 
+.ex-link {
+  -webkit-mask-image: url('/assets/images/ex-link.svg');
+  mask-image: url('/assets/images/ex-link.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
 .haas {
   -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/servers/haas-bioroid_NRIC-OG.svg');
   mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/servers/haas-bioroid_NRIC-OG.svg');
