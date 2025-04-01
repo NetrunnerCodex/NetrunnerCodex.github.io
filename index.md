@@ -17,7 +17,7 @@ nav_order: 0
     </div>
 </div>
 
-<span class="blue-font">Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This open-source project is dedicated to celebrating Netrunner’s legacy, ensuring it remains easily accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.</span>
+<span class="blue-font-d">Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This open-source project is dedicated to celebrating Netrunner’s legacy, ensuring it remains easily accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.</span>
 
 {: .note-title }
 > Rules Source
