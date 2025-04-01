@@ -22,12 +22,16 @@ Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 201
 {: .note-title }
 > Rules Source
 >
-> FFG Android Netrunner: <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">fantasyflightgames.com/android-netrunner</a>
+> FFG Android Netrunner: <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">fantasyflightgames.com/android-netrunner</a> <span class="nric-blue ex-link"></span>
 > - **Learn to Play** 12.2017 (v.2)
 > - **Rules Reference** 08.2018 (v.1.1)
 > - **FAQ** 09.2018 (v.4.2)
 > 
 > © Fantasy Flight Games
+
+<div style="text-align: center; margin-top: 0; padding-top: 0;">
+    <img src="/assets/images/netrunner-codex200.png" alt="Image" style="margin: 10px;" />
+</div>
 
 ## Android: Netrunner The Card Game
 
