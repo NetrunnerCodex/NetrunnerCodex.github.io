@@ -17,12 +17,7 @@ https://netrunnercodex.github.io
 ## >_SYSTEM_DATA_UPLOAD
 
 **$IMPORT_DATA**: ACTIVE.<br>
-**$SERVER_FUNCTION**: ANDROID NETRUNNER CARD GAME RULES LIBRARY.<br>
-**$CONTENT_SUMMARY**: SOURCE MATERIAL NODES BY MODULE. CORE DATA ONLY.<br>
-**$STATUS**: IMMERSIVE EXPLORATION READY.
-
-**$IMPORT_DATA**: ACTIVE.<br>
-**$SERVER_FUNCTION**: ANDROID NETRUNNER CARD GAME RULES LIBRARY.<br>
+**$SERVER_FUNCTION**: OPEN-SOURCE ANDROID NETRUNNER CARD GAME RULES LIBRARY.<br>
 **$CONTENT_SUMMARY**: SOURCE MATERIAL NODES BY MODULE. CORE DATA ONLY.<br>
 **$STATUS**: IMMERSIVE EXPLORATION READY.
 
@@ -38,9 +33,7 @@ https://netrunnercodex.github.io
 
 ## >_RAW_COGNITIVE_FEED
 
-### $Android_Netrunner
-
-[Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
+**$Android_Netrunner**: [Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
 
 <p><br></p>
 
@@ -49,5 +42,5 @@ https://netrunnercodex.github.io
 </sup>
 <br><br>
 <sup>
-Netrunner is a trademark of R. Talsorian Games, Inc., licensed by Wizards of the Coast LLC. Android is a trademark and © Fantasy Flight Games. All rights reserved. © Wizards.
+Netrunner is a TM of R. Talsorian Games, Inc. Android is a TM & © Fantasy Flight Games. All rights reserved. Netrunner is licensed by Wizards of the Coast LLC. © Wizards.
 </sup>
