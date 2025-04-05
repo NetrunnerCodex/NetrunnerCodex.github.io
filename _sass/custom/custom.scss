@@ -1,4 +1,4 @@
-// SLUG
+// 0001
 
 .slug {
     display: flex;
@@ -64,7 +64,6 @@
     margin: 0;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .slug {
         flex-direction: column; 
@@ -100,7 +99,7 @@
     }
 }
 
-// BLUE BUTTON
+// 0002
 
 .btn-blue2 {
   background-color: #183385; /* Blue-300 */
@@ -111,7 +110,7 @@
   color: #ffffff;
 }
 
-// FLEXBOX
+// 0003
 
 .custom-flexbox {
     display: flex;
@@ -144,7 +143,7 @@
     }
 }
 
-// FONT
+// 0004
 
 .blue-font {
   font-weight: 500;
@@ -181,7 +180,7 @@
   color: #959396; /* Grey-000 */
 }
 
-// CUSTOM LIST
+// 0005
 
 ol.custom-ol {
   list-style: none;
@@ -201,7 +200,7 @@ ol.custom-ol li::before {
   left: -1.5em;
 }
 
-// ICONS
+// 0006
 
 .nric-blue-sml {
   display: inline-block;
@@ -311,8 +310,6 @@ ol.custom-ol li::before {
   mask-repeat: no-repeat;
 }
 
-// Actions
-
 .advance {
   -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
   mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/advance_NRIC-OG.svg');
@@ -394,7 +391,7 @@ ol.custom-ol li::before {
   mask-repeat: no-repeat;
 }
 
-// NAV ARROWS
+// 0007
 
 .nav-buttons {
   display: flex;
