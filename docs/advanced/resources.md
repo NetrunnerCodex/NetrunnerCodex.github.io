@@ -18,17 +18,17 @@ nav_order: 33
     </div>
 </div>
 
-# Memory Units
+## Memory Units
 
-Each of the Runner’s program cards has a memory cost (1, 2, etc.), shown in the upper-left corner of the card next to the credit cost.
+Each of the Runner’s program cards has a memory cost: <span class="nric-grey mu1"></span>,<span class="nric-grey mu2"></span>, etc., shown in the upper-left corner of the card next to the credit cost.
 
-# Recurring Credits
+## Recurring Credits
 
-Some cards provide a player with <span class="grey-font-bl">Recurring Credits</span> <span class="nric-grey re-credit"></span>. The recurring credit icon is always preceded by a number:<span class="grey-font-bl">2</span> <span class="nric-grey re-credit"></span>. When the Runner installs a card or when the Corp rezzes a card that has a recurring credit icon, a number of credits equal to the number preceding the icon is placed on that card.
+Some cards provide a player with <span class="grey-font-bl">Recurring Credits</span> <span class="nric-grey re-credit"></span>. The recurring credit icon is always preceded by a number: <span class="grey-font-bl">2</span> <span class="nric-grey re-credit"></span>. When the Runner installs a card or when the Corp rezzes a card that has a recurring credit icon, a number of credits equal to the number preceding the icon is placed on that card.
 
 A player can only spend recurring credits as instructed by the card that is hosting the credits. Any recurring credits that a player spends are replenished at the beginning of their next turn if the card is still installed and active. Only recurring credits that were spent are replenished. For example, if a player has a card that provides two recurring credits and they spend one of those credits during their turn, then only one credit is replenished on that card at the start of their next turn.
 
-# Credit Cost “X”
+## Credit Cost “X”
 
 Some cards have a variable credit cost of “X.” Such a card describes how a player determines its cost.
 
@@ -43,7 +43,7 @@ Some cards have a variable credit cost of “X.” Such a card describes how a p
   </a>
 
   <!-- Next Button -->
-  <a href="/docs/advanced/interations" class="nav-button" aria-label="Next page">
+  <a href="/docs/advanced/interactions" class="nav-button" aria-label="Next page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
