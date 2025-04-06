@@ -37,7 +37,7 @@ https://netrunnercodex.github.io
 
 <p><br></p>
 
-### >_DATA_DIRECTIVE_7A-14
+## >_0004_DATA_DIRECTIVE_7A-14
 <sup>The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex project is an unofficial, non-profit and non-commercial fansite. This project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
 </sup>
 <br><br>
