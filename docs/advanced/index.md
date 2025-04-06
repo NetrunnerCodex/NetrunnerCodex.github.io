@@ -1,6 +1,6 @@
 ---
 title: Advanced Concepts
-slug_title: Basic Concepts
+slug_title: Advanced Concepts
 slug_subtitle:
 slug_image: "/assets/images/slugs/adn44_preview1.jpg"
 layout: home
@@ -23,7 +23,7 @@ This section describes many of the game’s advanced concepts.
 
 <div class="nav-buttons">
   <!-- Previous Button -->
-  <a href="./docs/introduction/run-example" class="nav-button" aria-label="Previous page">
+  <a href="/docs/introduction/run-example" class="nav-button" aria-label="Previous page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M30 20L20 30L30 40" />
@@ -32,7 +32,7 @@ This section describes many of the game’s advanced concepts.
   </a>
 
   <!-- Next Button -->
-  <a href="/docs/introduction/playing" class="nav-button" aria-label="Next page">
+  <a href="/docs/advanced/effects" class="nav-button" aria-label="Next page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
