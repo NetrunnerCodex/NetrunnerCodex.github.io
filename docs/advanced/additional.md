@@ -1,7 +1,7 @@
 ---
 parent: Advanced Concepts
 title: Additional Actions
-slug_title: dditional Actions
+slug_title: Additional Actions
 slug_subtitle:
 slug_image: "/assets/images/slugs/adn-magnum-opus-preview3.jpg"
 layout: default
