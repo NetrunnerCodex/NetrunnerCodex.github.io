@@ -7,7 +7,7 @@ layout: home
 has_children: true
 nav_order: 0
 ---
-<div class="slug">
+<div class="slug shared-background">
     <div class="title-container">
         <h1 class="page-slug_title">{{ page.slug_title }}</h1>
         <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
