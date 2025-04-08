@@ -99,31 +99,33 @@
     }
 }
 
-.shared-background {
+.unified-background {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
     height: 160px;
-    background-image: url('{{ page.slug_image | relative_url }}');
+    background-image: url('/assets/images/slugs/pixel-bg.jpg'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-}
-
-.title-container, .clr-image-container {
-    flex: 1;
     padding: 15px;
-    color: #ffffff;
-    height: 100%;
-    background: transparent;
 }
 
-.clr-image-container {
+.slug-left {
+    flex: 1;
+    color: #ffffff;
+}
+
+.slug-right {
+    flex-shrink: 0;
+    width: 290px;
+    height: 160px;
+    overflow: hidden;
     position: relative;
 }
 
-.clr-image-container img {
+.slug-right img {
     display: block;
     width: 100%;
     height: 100%;
