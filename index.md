@@ -2,7 +2,7 @@
 title: Overview
 slug_title: Netrunner Codex
 slug_subtitle: Unofficial mainframe for Android Netrunner rules
-slug_image: "/assets/images/slugs/adn01_preview.jpg"
+slug_image: "/assets/images/slugs/nrcx-slug.png"
 layout: home
 has_children: true
 nav_order: 0
