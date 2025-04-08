@@ -12,7 +12,7 @@ nav_order: 0
         <h1 class="page-slug_title">{{ page.slug_title }}</h1>
         <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
     </div>
-    <div class="image-container faded-left">
+    <div class="clr-image-container">
         <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
     </div>
 </div>
