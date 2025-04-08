@@ -23,7 +23,7 @@ https://netrunnercodex.github.io
 
 <p><br></p>
 
-## >_0002_DOMAIN
+## >_0002_DOMAIN_CONTROLLER
 
 **$SSG**: https://jekyllrb.com<br>
 **$INTERFACE**: https://github.com/just-the-docs/just-the-docs<br>
