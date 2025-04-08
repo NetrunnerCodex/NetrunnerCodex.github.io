@@ -99,17 +99,26 @@
     }
 }
 
-.clr-image-container {
-    flex-shrink: 0;
-    width: 290px;
-    height: 160px; 
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
+.shared-background {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 160px;
     background-image: url('{{ page.slug_image | relative_url }}');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.title-container, .clr-image-container {
+    flex: 1;
+    padding: 15px;
+    color: #ffffff;
+    height: 100%;
+}
+
+.clr-image-container {
     position: relative;
 }
 
