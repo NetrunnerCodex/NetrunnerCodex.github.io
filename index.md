@@ -7,12 +7,12 @@ layout: home
 has_children: true
 nav_order: 0
 ---
-<div class="slug shared-background">
+<div class="slug">
     <div class="title-container">
         <h1 class="page-slug_title">{{ page.slug_title }}</h1>
         <p class="page-slug_subtitle">{{ page.slug_subtitle }}</p>
     </div>
-    <div class="clr-image-container">
+    <div class="image-container faded-left">
         <img src="{{ page.slug_image | relative_url }}" alt="{{ page.title }}" />
     </div>
 </div>
