@@ -1,8 +1,8 @@
 ---
 parent: test
 slug_title: Test
-slug_title: 
-slug_subtitle: 
+slug_title: Testing
+slug_subtitle: 123
 slug_image: "/assets/images/slugs/nrcx-slug.png"
 layout: default
 has_children: false
