@@ -30,7 +30,7 @@ nav_order: 0
 > © Fantasy Flight Games
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
-    <img src="/assets/images/netrunner-codex200.png" alt="Image" style="margin: 10px;" />
+    <img src="/assets/images/home/nrcx_home_banner.jpg" alt="Image" style="margin: 10px;" />
 </div>
 
 ## Android: Netrunner The Card Game
