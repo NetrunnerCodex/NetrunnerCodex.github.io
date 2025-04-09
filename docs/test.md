@@ -1,9 +1,9 @@
 ---
 parent: test
-title: Test
+slug_title: Test
 slug_title: 
-subtitle: 
-header_image: "/assets/images/slugs/nrcx-slug.png"
+slug_subtitle: 
+slug_image: "/assets/images/slugs/nrcx-slug.png"
 layout: default
 has_children: false
 nav_order:
