@@ -81,7 +81,7 @@ Since there are no <span class="grey-font-bl">Virus</span> counters on <span cla
 
 <div class="nav-buttons">
   <!-- Previous Button -->
-  <a href="/docs/introduction/tutorial_setup" class="nav-button" aria-label="Previous page">
+  <a href="/docs/introduction/runners_turn" class="nav-button" aria-label="Previous page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M30 20L20 30L30 40" />
@@ -90,7 +90,7 @@ Since there are no <span class="grey-font-bl">Virus</span> counters on <span cla
   </a>
 
   <!-- Next Button -->
-  <a href="/docs/avanced" class="nav-button" aria-label="Next page">
+  <a href="/docs/advanced/" class="nav-button" aria-label="Next page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
