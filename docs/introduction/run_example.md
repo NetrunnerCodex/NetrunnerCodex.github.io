@@ -90,7 +90,7 @@ Since there are no <span class="grey-font-bl">Virus</span> counters on <span cla
   </a>
 
   <!-- Next Button -->
-  <a href="/docs/advanced/" class="nav-button" aria-label="Next page">
+  <a href="/docs/advanced" class="nav-button" aria-label="Next page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
         <path d="M20 20L30 30L20 40" />
