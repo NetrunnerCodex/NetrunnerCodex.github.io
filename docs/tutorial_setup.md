@@ -26,7 +26,7 @@ nav_order: 17
 This section walks the players through setting up their first game.
 
 1. **Gather Identity Cards**: One player should be the Corp player and take the Weyland identity card (card number 108). The other player is the Runner and takes the Gabriel Santiago identity card (card number 19). Each player places their card faceup in their play area; this is their identity for this game.
-1. **Gather Tutorial Decks**: Each player should gather the cards listed to the right for their deck. (It is important to note that these decks do not follow the standard deckbuilding rules and restrictions found in “Deckbuilding”).
+1. **Gather Tutorial Decks**: Each player should gather the cards listed to the right for their deck. (It is important to note that these decks do not follow the standard deckbuilding rules and restrictions found in: [Deckbuilding](/docs/deckbuilding)
 1. **Create Token Bank**: Place the Credit, Advancement, and Generic tokens in piles that are in reach of both players.
 1. **Draw Cards**: Each player draws the top five cards from their deck and places them in their hand.
 1. **Gain Credits**: Each player gains five Credits from the token bank and places them in their play area.
