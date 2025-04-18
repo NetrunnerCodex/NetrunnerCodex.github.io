@@ -41,7 +41,7 @@ actions that the Corp can perform during the Action Phase are described in detai
 
 ## Discard Phase
 During the Discard Phase, the Corp must choose and discard cards from HQ down to their maximum hand size. The Corp’s maximum hand size is five unless modified by other effects. When the Corp discards a card from HQ, they place the card facedown in Archives and orient it
-sideways. However, if the card was in play faceup when discarded, it is placed faceup into Archives. The facedown cards are oriented sideways so players can see how many facedown cards are in Archives—this information may be useful to the Runner later. After the Corp has discarded down to their maximum hand size, if necessary, the Runner begins their turn.
+sideways. However, if the card was in play faceup when discarded, it is placed faceup into Archives. The facedown cards are oriented sideways so players can see how many facedown cards are in Archives - this information may be useful to the Runner later. After the Corp has discarded down to their maximum hand size, if necessary, the Runner begins their turn.
 
 {: .note-title }
 > Corporation Action Overview
@@ -88,7 +88,7 @@ The Corp can spend one click to install an agenda, asset, or ice card. Unlike op
 ### Installing Assets and Agendas (Remote Servers)
 A remote server is a location where the Corp can install assets, agendas, and/or ice. When the Corp installs an agenda or asset, they place it facedown in their play area, creating a new remote server (or in a remote server that already exists). Each remote server can contain either one agenda or one asset. The Corp may have any number of remote servers.
 
-The Corp must trash any installed assets or agendas in the server where they are installing a new asset or agenda. To trash a card, the Corp places the card in Archives—either faceup or facedown—as it existed in the play area.
+The Corp must trash any installed assets or agendas in the server where they are installing a new asset or agenda. To trash a card, the Corp places the card in Archives - either faceup or facedown - as it existed in the play area.
 
 ### Installing Ice
 Ice defends the Corp’s servers against intrusions by the Runner.
@@ -98,7 +98,7 @@ above a server that already has ice above it, the Corp must pay one credit for e
 
 The Corp can install ice above a server that does not have any cards in it, creating a new remote server where they can install an asset or agenda during a subsequent action.
 
-The Corp may trash any installed pieces of ice abovethe server where they are installing a new piece of ice. If the Corp trashes a piece of ice, it is placed in Archives in the same state—either faceup or facedown—as it existed in the play area.
+The Corp may trash any installed pieces of ice abovethe server where they are installing a new piece of ice. If the Corp trashes a piece of ice, it is placed in Archives in the same state - either faceup or facedown - as it existed in the play area.
 
 The Corp’s identity card functions as the play-area representation of HQ. As such, if the Corp wishes to install ice that protects HQ, they place that ice above their identity card.
 
@@ -108,10 +108,10 @@ The Corp can spend one click and one credit to advance one of their installed ca
 If there are ever a number of advancement tokens on an agenda equal to its advancement requirement, the Corp may score that agenda during their turn by revealing it and placing it faceup in their score area.
 
 ## Trash One Resource
-This action is not used during the tutorial. It is described in the “Advanced Rules” section.
+This action is not used during the tutorial, see: [Advanced Rules](/docs/advanced/additional)
 
 ## Purge All Virus Counters
-This action is not used during the tutorial. It is described in the “Advanced Rules” section.
+This action is not used during the tutorial, see: [Advanced Rules](/docs/advanced/additional)
 
 <HR>
 
@@ -119,8 +119,7 @@ This action is not used during the tutorial. It is described in the “Advanced 
 
 The Corp’s installed cards have two play states: **REZZED**, which means that the card is faceup and active, and **UNREZZED**, which means that the card is facedown and inactive. Each asset, ice, and upgrade (see “Upgrades”) card has a rez cost. To **REZ** a card, the Corp must pay its rez cost and turn that card faceup. Agendas do not have a rez cost and cannot be rezzed.
 
-After a card is rezzed, it remains rezzed for the duration of the game unless an effect states otherwise. The Corp can rez asset and upgrade cards at any time without spending a click. The Corp can only rez ice during a run, which is described later (see “Making
-Runs”).
+After a card is rezzed, it remains rezzed for the duration of the game unless an effect states otherwise. The Corp can rez asset and upgrade cards at any time without spending a click. The Corp can only rez ice during a run, which is described later, see: [Making Runs](/docs/introduction/runners_turn/#making-runs)
 
 <div class="nav-buttons">
   <!-- Previous Button -->
