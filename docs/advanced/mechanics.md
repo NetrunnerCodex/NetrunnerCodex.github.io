@@ -24,7 +24,7 @@ Some Runner abilities force the Corp to derez a card. To derez a card, the Corp 
 
 ## Hosting
 
-Some cards can only be installed on other cards, and some cards allows other cards to be installed on them. A card that has one or more cards installed on it is a host card. A card that is installed on another card is a hosted card. These terms also refer to a card that has one or more counters on it—the card is a host and the counters are hosted. Hosted cards and counters can be removed from the play area without affecting their host. However, if a host is removed from the play area, all of that host’s hosted cards and counters are also removed from play.
+Some cards can only be installed on other cards, and some cards allows other cards to be installed on them. A card that has one or more cards installed on it is a host card. A card that is installed on another card is a hosted card. These terms also refer to a card that has one or more counters on it - the card is a host and the counters are hosted. Hosted cards and counters can be removed from the play area without affecting their host. However, if a host is removed from the play area, all of that host’s hosted cards and counters are also removed from play.
 
 Some abilities require a player to spend a hosted counter. To trigger such an ability, the counters must be spent from the card on which the ability appears. When a hosted counter is spent, it is placed in the token bank.
 
