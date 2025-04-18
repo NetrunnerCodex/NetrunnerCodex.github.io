@@ -37,4 +37,4 @@ The Runner can spend one click and two credits to remove one tag. They remove th
 >
 > After players have completed the tutorial, understand the game’s basic rules, and have tried a few games with the advanced rules, they are ready to build their own decks and play a standard game.
 >
-> To learn how to build a deck, see “Deckbuilding”
+> To learn how to build a deck, see: [Deckbuilding](/docs/deckbuilding)
