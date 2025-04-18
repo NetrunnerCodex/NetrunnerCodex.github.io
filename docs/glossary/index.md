@@ -5,7 +5,7 @@ slug_subtitle:
 slug_image: "/assets/images/slugs/adn32_preview.jpg"
 layout: home
 has_children: true
-nav_order: 50
+nav_order: 90
 ---
 <div class="slug">
     <div class="title-container">
