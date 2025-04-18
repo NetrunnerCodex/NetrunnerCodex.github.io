@@ -46,13 +46,13 @@ sideways. However, if the card was in play faceup when discarded, it is placed f
 {: .note-title }
 > Corporation Action Overview
 >
-> <span class="nric click"></span> Draw One Card<br>
-> <span class="nric click"></span> Gain One Credit<br>
-> <span class="nric click"></span> Play One Operation<br>
-> <span class="nric click"></span> Install One Card<br>
-> <span class="nric click"></span><span class="blue-font"> **1**</span><span class="nic credit"></span>Advance One Card<br>
-> <span class="nric click"></span><span class="blue-font"> **2**</span><span class="nic credit"></span>Trash One Resource if the Runner is Tagged<br>
-> <span class="nric click"></span><span class="nic click"></span><span class="nic click"></span> Purge All Virus Counters
+> <span class="nric-blue click"></span> Draw One Card<br>
+> <span class="nric-blue click"></span> Gain One Credit<br>
+> <span class="nric-blue click"></span> Play One Operation<br>
+> <span class="nric-blue click"></span> Install One Card<br>
+> <span class="nric-blue click"></span><span class="blue-font"> **1**</span><span class="nric-blue credit"></span>Advance One Card<br>
+> <span class="nric-blue click"></span><span class="blue-font"> **2**</span><span class="nric-blue credit"></span>Trash One Resource if the Runner is Tagged<br>
+> <span class="nric-blue click"></span><span class="nric-blue click"></span><span class="nric-blue click"></span> Purge All Virus Counters
 
 <hr>
 
