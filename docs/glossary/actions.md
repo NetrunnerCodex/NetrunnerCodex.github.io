@@ -30,6 +30,8 @@ nav_order: 52
 > <span class="nric-blue click"></span><span class="blue-font"> **2**</span><span class="nric-blue credit"></span>Trash One Resource if the Runner is Tagged<br>
 > <span class="nric-blue click"></span><span class="nric-blue click"></span><span class="nric-blue click"></span> Purge All Virus Counters
 
+<br>
+
 {: .notered-title }
 > Runner Action Overview
 >
