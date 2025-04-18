@@ -6,7 +6,7 @@ slug_subtitle:
 slug_image: "/assets/images/slugs/adn44_preview2.jpg"
 layout: default
 has_children: false
-nav_order: 54
+nav_order: 94
 ---
 
 <div class="slug">
