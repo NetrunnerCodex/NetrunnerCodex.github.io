@@ -21,21 +21,24 @@ nav_order: 54
 
 # Corp Symbols
 
-<table class="sml-table">
+<div class="table-wrapper">
+  <table class="sml-table">
     <tr>
-        <td><span class="nric-blue haas"></span></td>
-        <td>Haas-Bioroid</td>
+      <td><span class="nric-blue haas"></span></td>
+      <td>Haas-Bioroid</td>
     </tr>
     <tr>
-        <td><span class="nric-blue jinteki"></span></td>
-        <td>Jinteki</td>
+      <td><span class="nric-blue jinteki"></span></td>
+      <td>Jinteki</td>
     </tr>
     <tr>
-        <td><span class="nric-blue nbn"></span></td>
-        <td>NBN</td>
+      <td><span class="nric-blue nbn"></span></td>
+      <td>NBN</td>
     </tr>
     <tr>
-        <td><span class="nric-blue weyland"></span></td>
-        <td>Weyland Consortium</td>
+      <td><span class="nric-blue weyland"></span></td>
+      <td>Weyland Consortium</td>
     </tr>
-</table>
+  </table>
+</div>
+
