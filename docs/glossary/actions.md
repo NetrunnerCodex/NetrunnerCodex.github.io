@@ -3,7 +3,7 @@ parent: Glossary
 title: Actions Overview
 slug_title: Actions Overview
 slug_subtitle:
-slug_image: "/assets/images/slugs/adn29_preview5.jpg"
+slug_image: "/assets/images/slugs/adn29_preview4.jpg"
 layout: default
 has_children: false
 nav_order: 52
