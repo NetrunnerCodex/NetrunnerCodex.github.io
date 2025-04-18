@@ -26,12 +26,11 @@ cards, and click tracker cards are never counted as part of a deck and do not co
 - A deck associated with a Runner identity can never contain Corporation cards, and vice versa.
 - A Corporation deck must have a specific number of agenda points in it based on the size of the deck, as follows:
 
-{: .note-title }
->
-> – 40 to 44 cards requires 18 or 19 agenda points. (Note: Identities in this set all have a 45 card
+{: .highlight }
+– 40 to 44 cards requires 18 or 19 agenda points. (Note: Identities in this set all have a 45 card
 minimum)
-> – 45 to 49 cards requires 20 or 21 agenda points.
-> – 50 to 54 cards requires 22 or 23 agenda points.
+– 45 to 49 cards requires 20 or 21 agenda points.
+– 50 to 54 cards requires 22 or 23 agenda points.
 
 - For decks larger than this, add 2 additional agenda points to the 54 card deck requirements each time the number of cards in the deck reaches a multiple
 of 5 (55, 60, 65, etc.).
