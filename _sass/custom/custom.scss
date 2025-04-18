@@ -261,9 +261,13 @@ ol.custom-ol li::before {
 
 // 0006
 
-table.sml-table {
-  width: 300px !important;
+.table-wrapper {
+  width: 300px;
   margin: 0 auto;
+}
+
+table.sml-table {
+  width: 100%;
 }
 
 // 0007
