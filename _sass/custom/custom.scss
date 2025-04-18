@@ -271,10 +271,8 @@ ol.custom-ol li::before {
 
 table.sml-table {
   width: 300px !important;
+  table-layout: fixed;
   margin: 0 auto !important;
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  display: block;
 }
 
 .sml-table td:first-child {
