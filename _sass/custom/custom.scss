@@ -138,6 +138,26 @@
     opacity: 0.85;
 }
 
+@media (max-width: 768px) {
+  .unified-background {
+    flex-direction: column;
+    height: auto;
+    padding: 10px;
+  }
+  
+  .slug-right {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+  }
+  
+  .slug-right img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+}
+
 // 0002
 
 .btn-blue2 {
