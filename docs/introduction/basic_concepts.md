@@ -49,7 +49,7 @@ When a player spends Credits, they return them to the Token Bank.
 Both the Corporation and Runner track the Clicks they spend during their turns by using a Click Tracker card. The Corporation’s Click Tracker contains three numbered spaces, and the Runner’s Click Tracker contains four numbered spaces. As the Corporation or Runner spends Clicks during a turn, they flip one of their click tokens facedown (blue and gold side up).
 
 ## Servers
-For the Runner to win the game, they need to steal Agenda cards from the Corp player. These cards can be stolen from the Corp player’s hand (HQ), deck (R&D), or discard pile (Archives). Each of these locations are referred to as central servers. The Corp player may also play Agenda cards on the table in remote servers (described in detail The Corp's Actions).
+For the Runner to win the game, they need to steal Agenda cards from the Corp player. These cards can be stolen from the Corp player’s hand (HQ), deck (R&D), or discard pile (Archives). Each of these locations are referred to as central servers. The Corp player may also play Agenda cards on the table in remote servers, described in detail: [The Corp's Actions](/docs/introduction/corps_turn/#the-corps-actions)
 
 
 <div class="nav-buttons">
