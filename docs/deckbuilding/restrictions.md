@@ -39,4 +39,4 @@ of 5 (55, 60, 65, etc.).
 >
 > A 66 card deck requires 6 additional agenda points (2 at 55, 2 at 60, and 2 at 65 cards). This gives a final requirement of either 28 or 29 agenda points.
 
-- A deck cannot contain out-of-faction cards with a total influence value that exceeds the influence limit listed on the chosen identity card (see “Influence”). Cards that match the faction of the identity card do not count against this limit.
+- A deck cannot contain out-of-faction cards with a total influence value that exceeds the influence limit listed on the chosen identity card, see [Influence](/docs/deckbuilding/influence). Cards that match the faction of the identity card do not count against this limit.
