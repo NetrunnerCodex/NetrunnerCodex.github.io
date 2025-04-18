@@ -20,3 +20,23 @@ nav_order:
 
 <span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
 
+
+{: .highlight }
+- 40 to 44 cards requires 18 or 19 agenda points. (Note: Identities in this set all have a 45 card minimum).
+- 45 to 49 cards requires 20 or 21 agenda points.
+- 50 to 54 cards requires 22 or 23 agenda points.
+
+{: .highlight }
+Testing highlight 123
+
+{: .highlight }
+> - 40 to 44 cards requires 18 or 19 agenda points. (Note: Identities in this set all have a 45 card minimum).
+> - 45 to 49 cards requires 20 or 21 agenda points.
+> - 50 to 54 cards requires 22 or 23 agenda points.
+
+{: .note-title }
+> As follows
+>
+> - 40 to 44 cards requires 18 or 19 agenda points. (Note: Identities in this set all have a 45 card minimum).
+> - 45 to 49 cards requires 20 or 21 agenda points.
+> - 50 to 54 cards requires 22 or 23 agenda points.
