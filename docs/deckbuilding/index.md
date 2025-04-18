@@ -1,7 +1,7 @@
 ---
 title: Deckbuilding
 slug_title: Deckbuilding
-slug_subtitle: In a Living Card Game, players can customize their decks by adding and removing cards, creating a unique play experience.
+slug_subtitle: Create a unique play experience
 slug_image: "/assets/images/slugs/adn25_preview2.jpg"
 layout: home
 has_children: true
@@ -19,6 +19,8 @@ nav_order: 40
 
 {: .no_toc }
 
+In Android: Netrunner, players can customize their decks by adding and removing cards, creating a unique play experience.
+
 # Why deckbuild?
 
 Deckbuilding is a great way to experience the game in a completely new way. Instead of adapting to the game, you can force the game to adapt to you. Deckbuilding opens up new strategies, new experiences, and ultimately can lead to more exciting games where you feel more invested. When you deckbuild, you do not just participate in the game; you actively shape how the game is played.
@@ -29,7 +31,7 @@ Pick your favorite faction, and then modify that faction’s starter deck by swi
 
 Another thing the Corporation should consider is how much ice you have in your deck. You will want to make sure you put in enough to stop the Runner. We
 recommend building about 15-20 pieces of ice into a 45-49 card deck when first building new decks. Also make sure you have enough ways to generate credits
-quicker than the regular <span class="nric-grey click"></span> for <span class="grey-font-bl">1</span><span class="nric-grey credit"></span> action. Having a strong economy will give you plenty of credits to spend and put a lot of pressure on your opponent.
+quicker than the regular <span class="nric-grey click"></span> for <span class="grey-font-bl">1</span><span class="nric-grey credit"></span>action. Having a strong economy will give you plenty of credits to spend and put a lot of pressure on your opponent.
 
 Once you’ve built your deck, it is time to play some games! This is where you will begin to understand whether or not your deck is working. Do you have
 enough resources? Is your ice too expensive? Are you drawing your icebreakers fast enough? Figure out what the weak points of your deck are, and try switching out some cards. Looking through your cards again, you may even have another idea for a different deck!
