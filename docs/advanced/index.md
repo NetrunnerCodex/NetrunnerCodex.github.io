@@ -1,7 +1,7 @@
 ---
 title: Advanced Concepts
 slug_title: Advanced Concepts
-slug_subtitle:
+slug_subtitle: This section describes many of the game’s advanced concepts
 slug_image: "/assets/images/slugs/adn44_preview1.jpg"
 layout: home
 has_children: true
@@ -18,8 +18,6 @@ nav_order: 30
 </div>
 
 {: .no_toc }
-
-This section describes many of the game’s advanced concepts.
 
 <div class="nav-buttons">
   <!-- Previous Button -->
