@@ -19,9 +19,9 @@ nav_order: 54
     </div>
 </div>
 
-# Corps
+# Corp Symbols
 
-<table>
+<table class="sml-table">
     <tr>
         <td><span class="nric-blue haas"></span></td>
         <td>Haas-Bioroid</td>
