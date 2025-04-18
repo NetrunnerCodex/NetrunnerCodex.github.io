@@ -23,19 +23,19 @@ nav_order: 54
 
 <table>
     <tr>
-        <td><span class="nric-blue haas"</span></td>
+        <td><span class="nric-blue haas"></span></td>
         <td>Haas-Bioroid</td>
     </tr>
     <tr>
-        <td><span class="nric-blue jinteki"</span></td>
+        <td><span class="nric-blue jinteki"></span></td>
         <td>Jinteki</td>
     </tr>
     <tr>
-        <td><span class="nric-blue nbn"</span></td>
+        <td><span class="nric-blue nbn"></span></td>
         <td>NBN</td>
     </tr>
     <tr>
-        <td><span class="nric-blue weyland"</span></td>
+        <td><span class="nric-blue weyland"></span></td>
         <td>Weyland Consortium</td>
     </tr>
 </table>
