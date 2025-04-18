@@ -62,12 +62,12 @@ To play an event card, the Runner must pay the card’s credit cost in addition 
 {: .notered-title }
 > Runner Action Overview
 >
-> <span class="nic-red click"></span>Draw One Card<br>
-> <span class="nic-red click"></span>Gain One Credit<br>
-> <span class="nic-red click"></span>Play One Event<br>
-> <span class="nic-red click"></span>Install One Card<br>
-> <span class="nic-red click"></span><span class="red-font"> **2**</span><span class="nic-red credit"></span>Remove One Tag<br>
-> <span class="nic-red click"></span>Make One Run
+> <span class="nric-red click"></span>Draw One Card<br>
+> <span class="nric-red click"></span>Gain One Credit<br>
+> <span class="nric-red click"></span>Play One Event<br>
+> <span class="nric-red click"></span>Install One Card<br>
+> <span class="nric-red click"></span><span class="red-font"> **2**</span><span class="nric-red credit"></span>Remove One Tag<br>
+> <span class="nric-red click"></span>Make One Run
 
 ## Install One Card
 The Runner can spend one click to install a program, resource, or hardware card. Each of these cards contains a credit cost that the Runner must pay in addition to spending a click. Unlike an event that is resolved immediately and placed in the heap, installed
@@ -79,7 +79,7 @@ cards remain in play and typically provide the Runner with a variety of persiste
 - Resource
 
 ## Remove One Tag
-This action is not used during the tutorial. It is described in the “Advanced Rules” section.
+This action is not used during the tutorial, see: [Advanced Rules](/docs/advanced/additional)
 
 ## Make One Run
 To make a run, the Runner spends one click and chooses a server to run against. Runs are the heart of Android: Netrunner. Making a run is the main way the Runner can steal agendas needed to win the game. Runs are described in detail next.
@@ -105,7 +105,7 @@ The Runner can use icebreaker program cards to break subroutines on ice they are
 To break a subroutine, an icebreaker must be able to **INTERACT** with that subroutine’s ice. Ice and icebreakers each have a strength value. If the icebreaker’s strength is equal to or greater than the ice’s strength, that icebreaker can interact with that ice. Most icebreakers have an ability that allows the Runner to increase that icebreaker’s strength by spending credits. The Runner can use these abilities as many times as they can pay for them.
 
 If an icebreaker is able to interact with a piece of ice, the Runner can use the icebreaker to break subroutines as described on that icebreaker. There are three primary subtypes of ice: barrier, sentry, and code gate. Many icebreakers can only break specific
-subtypes of ice. For example, an icebreaker that has the ability "<span class="red-font">**0**</span><span class="nic-red credit"></span>Break sentry subroutine” can only be used to break a subroutine on ice with a sentry subtype.
+subtypes of ice. For example, an icebreaker that has the ability "<span class="red-font">**0**</span><span class="nric-red credit"></span>Break sentry subroutine” can only be used to break a subroutine on ice with a sentry subtype.
 
 The Runner can choose and break any number of subroutines on a piece of ice, and the Runner can use any number of icebreakers to do so, though in most cases, they will likely only want to use a single icebreaker.
 
@@ -124,7 +124,7 @@ The Runner accesses the top card of R&D. When accessing multiple cards from R&D,
 The Runner accesses one random card from HQ. When accessing multiple cards from HQ, the Runner does not return any of them to HQ until all of the cards have been accessed.
 
 ## Archives
-The Runner flips all cards in theArchives faceup. Then, the Runner accesses all cards in the Archives in the order of their choosing.
+The Runner flips all cards in the Archives faceup. Then, the Runner accesses all cards in the Archives in the order of their choosing.
 
 ## Remote Server
 The Runner accesses all asset, agenda, and/or upgrade cards in the remote server.
