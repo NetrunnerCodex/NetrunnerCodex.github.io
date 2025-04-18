@@ -65,27 +65,3 @@ nav_order: 94
     </tr>
   </table>
 </div>
-
-# Game Symbols
-The following symbols appear on cards
-
-<div class="table-wrapper">
-  <table class="sml-table">
-    <tr>
-      <td><span class="nric-grey credit"></span></td>
-      <td>This symbol stands for **CREDIT**. It always appears with a numeral, such as <span class="grey-font-bl">1</span> <span class="nric-grey credit"></span>, which means “one credit,” or <span class="grey-font-bl">3</span> <span class="nric-grey credit"></span>, which means “three credits.”</td>
-    </tr>
-    <tr>
-      <td><span class="nric-blue jinteki"></span></td>
-      <td>Jinteki</td>
-    </tr>
-    <tr>
-      <td><span class="nric-blue nbn"></span></td>
-      <td>NBN</td>
-    </tr>
-    <tr>
-      <td><span class="nric-blue weyland"></span></td>
-      <td>Weyland Consortium</td>
-    </tr>
-  </table>
-</div>
