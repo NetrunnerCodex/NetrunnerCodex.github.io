@@ -20,7 +20,7 @@ nav_order:
 
 <span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
 
-<div class="table-wrapper">
+<div class="table-wrap-wide">
   <table class="sml-table-wide">
     <tr>
       <td><span class="nric-blue haas"></span></td>
