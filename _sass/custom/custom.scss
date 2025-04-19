@@ -279,6 +279,16 @@ table.sml-table {
   width: 50px;
 }
 
+.sml-table-wide {
+  width: auto !important;
+  table-layout: fixed;
+  margin: 0 auto !important;
+}
+
+.sml-table-wide td:first-child {
+  width: 50px;
+}
+
 // 0007
 
 .nric-blue-sml {
