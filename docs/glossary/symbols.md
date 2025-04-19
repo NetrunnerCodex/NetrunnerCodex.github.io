@@ -26,8 +26,7 @@ nav_order: 94
 
 # Corp Symbols
 
-<div class="table-wrapper">
-  <table class="sml-table">
+<table class="sml-table">
     <tr>
       <td><span class="nric-blue haas"></span></td>
       <td>Haas-Bioroid</td>
@@ -45,12 +44,10 @@ nav_order: 94
       <td>Weyland Consortium</td>
     </tr>
   </table>
-</div>
 
-# Runner Symbols
+## Runner Symbols
 
-<div class="table-wrapper">
-  <table class="sml-table">
+<table class="sml-table">
     <tr>
       <td><span class="nric-red anarch"></span></td>
       <td>Anarch</td>
@@ -64,4 +61,3 @@ nav_order: 94
       <td>Shaper</td>
     </tr>
   </table>
-</div>
