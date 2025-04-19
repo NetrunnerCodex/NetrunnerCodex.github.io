@@ -261,19 +261,18 @@ ol.custom-ol li::before {
 
 // 0006
 
-/* Narrow Table Styles */
+/* Narrow Table – keep within a 300px container with a 200px table */
 .table-wrapper {
-  width: 300px;
-  margin: 0 auto !important;
+  width: 300px !important;
+  margin: 0 !important; /* align left */
   padding: 0 !important;
 }
 
 .table-wrapper table.sml-table {
   width: 200px !important;
   table-layout: fixed !important;
-  margin: 0 auto !important;
-  border-collapse: collapse; /* Remove default spacing */
-  border: none;              /* Remove unwanted borders */
+  margin: 0 !important;  /* remove centering */
+  border-collapse: collapse; /* remove any theme-induced gaps */
 }
 
 .table-wrapper table.sml-table td:first-child {
@@ -282,19 +281,19 @@ ol.custom-ol li::before {
   white-space: nowrap;
 }
 
-/* Wide Table Styles */
+/* Wide Table – container intended to be 600px and table 500px */
 .table-wrap-wide {
-  width: 600px;
-  margin: 0 auto !important;
+  width: 600px !important;
+  margin: 0 !important; /* align left */
   padding: 0 !important;
+  overflow: visible;  /* prevent horizontal scroll if possible */
 }
 
 .table-wrap-wide table.sml-table-wide {
   width: 500px !important;
   table-layout: fixed !important;
-  margin: 0 auto !important;
-  border-collapse: collapse; /* Remove default spacing */
-  border: none;              /* Remove unwanted borders */
+  margin: 0 !important;  /* remove centering */
+  border-collapse: collapse;
 }
 
 .table-wrap-wide table.sml-table-wide td:first-child {
