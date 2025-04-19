@@ -280,7 +280,8 @@ table.sml-table {
 }
 
 .table-wrap-wide {
-  width: 600px;
+  width: 100%;
+  max-width: 600px;
   margin-top: 0 !important;
   padding-top: 0 !important;
   margin-bottom: 0 !important;
@@ -288,13 +289,16 @@ table.sml-table {
 }
 
 table.sml-table-wide {
-  width: 600px !important;
+  width: 100%;
+  max-width: 600px;
   table-layout: fixed;
   margin: 0 auto !important;
 }
 
 .sml-table-wide td:first-child {
   width: 50px;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 // 0007
