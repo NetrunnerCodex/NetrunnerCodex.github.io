@@ -280,8 +280,8 @@ table.sml-table {
 }
 
 table.sml-table-wide {
-  width: auto !important;
-  table-layout: auto !important;
+  width: 600px !important;
+  table-layout: fixed;
   margin: 0 auto !important;
 }
 
