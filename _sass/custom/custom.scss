@@ -280,25 +280,21 @@ table.sml-table {
 }
 
 .table-wrap-wide {
-  width: 100% !important;
-  max-width: 600px !important;
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;  
+ width: 600px;
+ margin-top: 0 !important;
+ padding-top: 0 !important;
+ margin-bottom: 0 !important;
+ padding-bottom: 0 !important;   
 }
 
 table.sml-table-wide {
-  width: 100%;
-  max-width: 600px;
+  width: 500px !important;
   table-layout: fixed;
   margin: 0 auto !important;
 }
 
 .sml-table-wide td:first-child {
   width: 50px;
-  overflow: hidden;
-  white-space: nowrap;
 }
 
 // 0007
