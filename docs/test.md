@@ -24,7 +24,7 @@ nav_order:
   <table class="sml-table-wide">
     <tr>
       <td><span class="nric-blue haas"></span></td>
-      <td>Haas-Bioroid</td>
+      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a pulvinar risus. Fusce facilisis, nisl id vehicula sollicitudin, erat purus vulputate est, eu elementum ante elit nec justo. Nam in odio lacinia, tempus massa at, volutpat neque. Donec laoreet ex vel fringilla auctor. Aliquam sodales nibh vel nulla scelerisque vulputate. Nunc vehicula in turpis id ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rhoncus justo sed tortor bibendum tristique. Nullam dapibus ante est. </td>
     </tr>
     <tr>
       <td><span class="nric-blue jinteki"></span></td>
