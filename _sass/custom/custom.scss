@@ -261,8 +261,9 @@ ol.custom-ol li::before {
 
 // 0006
 
-.table-wrapper {
+.table-wrapper table {
   width: 300px;
+  table-layout: fixed;  
   margin-top: 0 !important;
   padding-top: 0 !important;
   margin-bottom: 0 !important;
@@ -279,8 +280,9 @@ table.sml-table {
   width: 50px;
 }
 
-.table-wrap-wide {
+.table-wrap-wide table {
  width: 600px;
+ table-layout: fixed;   
  margin-top: 0 !important;
  padding-top: 0 !important;
  margin-bottom: 0 !important;
