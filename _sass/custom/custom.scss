@@ -271,17 +271,14 @@ table.sml-table {
   width: 50px;
 }
 
-/* Container using flexbox to lay out the two table groups side-by-side */
 .tables-container {
   display: flex;
   gap: 20px; /* Adjust gap as needed */
   justify-content: space-between;
 }
 
-/* Optional: ensure each table group takes roughly 50% of container's width */
 .table-group {
-  flex: 1; /* Each group expands equally */
-  /* Or you can use a fixed width such as: width: 48%; */
+  flex: 1;
 }
 
 // 0007
