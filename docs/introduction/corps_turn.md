@@ -64,12 +64,12 @@ During the Action Phase, the Corp spends clicks to perform the actions described
 The Corp can spend one click to draw one card from R&D. They take the top card from R&D and place it in HQ.
 
 ## Gain One Credit
-The Corp can spend one click to gain one credit <span class="blue-font"> **1**</span><span class="nic credit"></span>. They take one credit from the token bank and place it in their credit pool.
+The Corp can spend one click to gain one credit <span class="blue-font"> **1**</span><span class="nric credit"></span>. They take one credit from the token bank and place it in their credit pool.
 
 ## Play One Operation
 The Corp can spend one click to play one operation card from HQ. Operations represent various transactions, interactions, and corporate initiatives that provide the Corp with a variety of one-time effects.
 
-To play an operation, the Corp must pay the card’s credit cost in addition to spending a click. Then, they read and resolve the effect described on the card. After resolving an operation’s effect,the Corp places the operation faceup in Archives.
+To play an operation, the Corp must pay the card’s credit cost in addition to spending a click. Then, they read and resolve the effect described on the card. After resolving an operation’s effect, the Corp places the operation faceup in Archives.
 
 ## Corp Card Types
 - Agenda
@@ -117,7 +117,7 @@ This action is not used during the tutorial, see: [Advanced Rules](/docs/advance
 
 # Rezzing Cards
 
-The Corp’s installed cards have two play states: **REZZED**, which means that the card is faceup and active, and **UNREZZED**, which means that the card is facedown and inactive. Each asset, ice, and upgrade (see “Upgrades”) card has a rez cost. To **REZ** a card, the Corp must pay its rez cost and turn that card faceup. Agendas do not have a rez cost and cannot be rezzed.
+The Corp’s installed cards have two play states: **REZZED**, which means that the card is faceup and active, and **UNREZZED**, which means that the card is facedown and inactive. Each asset, ice, and upgrade (see [Upgrades](/docs/advanced/effects)) card has a rez cost. To **REZ** a card, the Corp must pay its rez cost and turn that card faceup. Agendas do not have a rez cost and cannot be rezzed.
 
 After a card is rezzed, it remains rezzed for the duration of the game unless an effect states otherwise. The Corp can rez asset and upgrade cards at any time without spending a click. The Corp can only rez ice during a run, which is described later, see: [Making Runs](/docs/introduction/runners_turn/#making-runs)
 
