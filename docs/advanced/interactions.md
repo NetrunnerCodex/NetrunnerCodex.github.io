@@ -22,7 +22,7 @@ nav_order: 35
 
 Some game effects give the Runner a tag. When the Runner receives a tag, they place a tag token in their play area.
 
-A Runner can have multiple tags. While a Runner has one or more tags, they are tagged. While the Runner is tagged, the Corp can spend one click and two credits during their turn to trash one of the Runner’s resources. Tags have no other inherent effects, but some card abilities may effect a Runner who is tagged. As an action, a Runner can spend one click and two credits during their turn to remove one tag (see Addtional Actions).
+A Runner can have multiple tags. While a Runner has one or more tags, they are tagged. While the Runner is tagged, the Corp can spend one click and two credits during their turn to trash one of the Runner’s resources. Tags have no other inherent effects, but some card abilities may effect a Runner who is tagged. As an action, a Runner can spend one click and two credits during their turn to remove one tag, see: [Addtional Actions](/docs/advanced/additional)
 
 ## Traces and Link
 
