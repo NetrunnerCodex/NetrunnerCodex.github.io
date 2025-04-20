@@ -21,11 +21,10 @@ nav_order:
 <span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
 
 <div class="nav-buttons">
-  <!-- Previous Button (active link) -->
-  <a href="/docs/guide" class="nav-button" aria-label="Previous page">
+  <!-- Previous Button -->
+  <a href="/docs/welcome" class="nav-button" aria-label="Previous page">
     <div class="nav-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <!-- This arrow points left -->
         <path d="M30 20L20 30L30 40" />
       </svg>
     </div>
