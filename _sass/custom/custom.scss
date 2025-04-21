@@ -530,7 +530,6 @@ table.sml-table {
   text-decoration: none;
 }
 
-/* Container for icon and label */
 .nav-item {
   display: flex;
   flex-direction: column;
@@ -538,7 +537,6 @@ table.sml-table {
   gap: 5px;
 }
 
-/* Common styling for the arrow injected via ::before */
 .nav-item::before {
   content: "";
   display: block;
@@ -551,7 +549,6 @@ table.sml-table {
   transform-origin: center;
 }
 
-/* Common styling for the text label injected via ::after */
 .nav-item::after {
   font-size: 12px;
   font-weight: bold;
@@ -561,8 +558,6 @@ table.sml-table {
   transition: opacity 0.3s ease;
 }
 
-/* --- Active (Clickable) States --- */
-/* Previous Button Active */
 .nav-button.prev:not(.no-link) .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M30 20L20 30L30 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
@@ -570,7 +565,6 @@ table.sml-table {
   content: "Previous";
 }
 
-/* Next Button Active */
 .nav-button.next:not(.no-link) .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M20 20L30 30L20 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
@@ -578,7 +572,6 @@ table.sml-table {
   content: "Next";
 }
 
-/* Hover effects on active buttons */
 .nav-button:not(.no-link):hover .nav-item::before {
   transform: scale(1.2);
 }
@@ -586,13 +579,11 @@ table.sml-table {
   opacity: 1;
 }
 
-/* --- Disabled (no-link) States --- */
 .nav-button.no-link {
   pointer-events: none;
   cursor: default;
 }
 
-/* Disabled Previous Button */
 .nav-button.no-link.prev .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M30 20L20 30L30 40' stroke='%23d3d3d3' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
@@ -601,7 +592,6 @@ table.sml-table {
   color: #d3d3d3;
 }
 
-/* Disabled Next Button */
 .nav-button.no-link.next .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M20 20L30 30L20 40' stroke='%23d3d3d3' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
