@@ -22,21 +22,10 @@ nav_order:
 
 <div class="nav-buttons">
   <!-- Previous Button -->
-  <a href="/docs/welcome" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button (gray, no link) -->
-  <div class="nav-button no-link" aria-label="No next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <!-- This arrow points right -->
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
-  </div>
+  <a href="/docs/guide" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
+  </a>
 </div>
