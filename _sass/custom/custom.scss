@@ -534,67 +534,74 @@ table.sml-table {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 5px; 
+  gap: 5px;
+  position: relative;
+  width: 50px;
+  height: 50px;
 }
 
-.nav-button:first-of-type .nav-item::after {
+/* Inject the previous icon */
+.nav-button.prev .nav-item::before {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='50'%20height='50'%20viewBox='0%200%2050%2050'%3E%3Cpath%20d='M30%2020L20%2030L30%2040'%20stroke='%23264caf'%20stroke-width='3'%20fill='none'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: transform 0.3s ease;
+}
+
+/* Inject the next icon */
+.nav-button.next .nav-item::before {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='50'%20height='50'%20viewBox='0%200%2050%2050'%3E%3Cpath%20d='M20%2020L30%2030L20%2040'%20stroke='%23264caf'%20stroke-width='3'%20fill='none'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: transform 0.3s ease;
+}
+
+/* Label styling */
+.nav-button.prev .nav-item::after,
+.nav-button.next .nav-item::after {
+  font-size: 12px;
+  font-weight: bold;
+  color: #716e76;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.nav-button.prev .nav-item::after {
   content: "Previous";
-  font-size: 12px;
-  font-weight: bold;
-  color: #716e76;
-  text-align: center;
-  opacity: 0;
-  transition: opacity 0.3s ease;
 }
 
-.nav-button:last-of-type .nav-item::after {
+.nav-button.next .nav-item::after {
   content: "Next";
-  font-size: 12px;
-  font-weight: bold;
-  color: #716e76;
-  text-align: center;
-  opacity: 0;
-  transition: opacity 0.3s ease;
 }
 
-.nav-item svg path {
-  stroke: #264caf;
-  stroke-width: 3;
-  fill: none;
-  transition: transform 0.3s ease, stroke 0.3s ease;
-}
-
-.nav-button:hover svg {
+/* Hover effects */
+.nav-button:hover .nav-item::before {
   transform: scale(1.2);
-}
-
-.nav-button:hover path {
-  stroke: #264caf;
 }
 
 .nav-button:hover .nav-item::after {
   opacity: 1;
 }
 
-.nav-button:hover .nav-item:last-of-type::after {
-  opacity: 1;
-}
-
+/* Disabled button styles */
 .nav-button.no-link {
   pointer-events: none;
   cursor: default;
 }
 
-.nav-button.no-link .nav-item svg path {
-  stroke: #d3d3d3;
+.nav-button.no-link .nav-item::before {
+  filter: brightness(0.7);
 }
 
 .nav-button.no-link .nav-item::after {
-  content: "Previous";
-  font-size: 12px;
-  font-weight: bold;
   color: #d3d3d3;
-  text-align: center;
-  opacity: 0;
 }
-
