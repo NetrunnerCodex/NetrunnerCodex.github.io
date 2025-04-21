@@ -29,3 +29,18 @@ nav_order:
     <div class="nav-item"></div>
   </a>
 </div>
+
+<hr>
+
+<div class="nav-buttons">
+  <!-- Previous Button (active/clickable) -->
+  <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
+  </a>
+
+  <!-- Next Button (disabled/greyed out) -->
+  <div class="nav-button no-link next" aria-label="Next page disabled">
+    <div class="nav-item"></div>
+  </div>
+</div>
+
