@@ -530,15 +530,18 @@ table.sml-table {
   text-decoration: none;
 }
 
-/* Container for icon and label */
+/* The icon container */
 .nav-item {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 5px;
+  position: relative;
+  width: 50px;
+  height: 50px;
 }
 
-/* Common styling for the arrow injected via ::before */
+/* Common pseudo-element for the icon */
 .nav-item::before {
   content: "";
   display: block;
@@ -551,51 +554,71 @@ table.sml-table {
   transform-origin: center;
 }
 
-/* Common styling for the text label injected via ::after */
+/* Common pseudo-element for the text label */
 .nav-item::after {
+  display: block;
   font-size: 12px;
   font-weight: bold;
-  color: #716e76;
   text-align: center;
   opacity: 0;
   transition: opacity 0.3s ease;
 }
 
-/* Detailed arrow insertion for the Previous button */
-.nav-button.prev .nav-item::before {
+/* --- Normal (active) state styles --- */
+
+/* Previous Button */
+.nav-button.prev:not(.no-link) .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M30 20L20 30L30 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
 
-/* Detailed arrow insertion for the Next button */
-.nav-button.next .nav-item::before {
+.nav-button.prev:not(.no-link) .nav-item::after {
+  content: "Previous";
+  color: #716e76;
+}
+
+/* Next Button */
+.nav-button.next:not(.no-link) .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M20 20L30 30L20 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
 
-/* Text for the buttons */
-.nav-button.prev .nav-item::after {
-  content: "Previous";
-}
-
-.nav-button.next .nav-item::after {
+.nav-button.next:not(.no-link) .nav-item::after {
   content: "Next";
+  color: #716e76;
 }
 
-/* Hover effects to scale the icon and fade in the text label */
-.nav-button:hover .nav-item::before {
+/* Hover effects (only active buttons) */
+.nav-button:not(.no-link):hover .nav-item::before {
   transform: scale(1.2);
 }
-.nav-button:hover .nav-item::after {
+
+.nav-button:not(.no-link):hover .nav-item::after {
   opacity: 1;
 }
 
-/* Disabled button styles (if needed) */
+/* --- Disabled (no-link) state styles --- */
+
+/* Previous Button disabled */
+.nav-button.no-link.prev .nav-item::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M30 20L20 30L30 40' stroke='%23d3d3d3' stroke-width='3' fill='none'/%3E%3C/svg%3E");
+}
+
+.nav-button.no-link.prev .nav-item::after {
+  content: "Previous";
+  color: #d3d3d3;
+}
+
+/* Next Button disabled */
+.nav-button.no-link.next .nav-item::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M20 20L30 30L20 40' stroke='%23d3d3d3' stroke-width='3' fill='none'/%3E%3C/svg%3E");
+}
+
+.nav-button.no-link.next .nav-item::after {
+  content: "Next";
+  color: #d3d3d3;
+}
+
+/* Ensure disabled buttons are non-interactive */
 .nav-button.no-link {
   pointer-events: none;
   cursor: default;
-}
-.nav-button.no-link .nav-item::before {
-  filter: brightness(0.7);
-}
-.nav-button.no-link .nav-item::after {
-  color: #d3d3d3;
 }
