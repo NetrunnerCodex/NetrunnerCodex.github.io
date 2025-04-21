@@ -530,7 +530,7 @@ table.sml-table {
   text-decoration: none;
 }
 
-/* The icon container */
+/* Container for both the arrow and the label */
 .nav-item {
   display: flex;
   flex-direction: column;
@@ -541,7 +541,7 @@ table.sml-table {
   height: 50px;
 }
 
-/* Common pseudo-element for the icon */
+/* Pseudo-element used to inject the SVG arrow */
 .nav-item::before {
   content: "";
   display: block;
@@ -549,12 +549,14 @@ table.sml-table {
   height: 50px;
   background-repeat: no-repeat;
   background-position: center;
+  /* Using 100% 100% forces the SVG to fill the 50px block,
+     just as when using an inline SVG with width and height set. */
   background-size: 100% 100%;
   transition: transform 0.3s ease;
   transform-origin: center;
 }
 
-/* Common pseudo-element for the text label */
+/* Pseudo-element for the text label below the arrow */
 .nav-item::after {
   display: block;
   font-size: 12px;
@@ -564,9 +566,9 @@ table.sml-table {
   transition: opacity 0.3s ease;
 }
 
-/* --- Normal (active) state styles --- */
+/* ---------- Active (Clickable) Styles ---------- */
 
-/* Previous Button */
+/* Active Previous Button */
 .nav-button.prev:not(.no-link) .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M30 20L20 30L30 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
@@ -576,7 +578,7 @@ table.sml-table {
   color: #716e76;
 }
 
-/* Next Button */
+/* Active Next Button */
 .nav-button.next:not(.no-link) .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M20 20L30 30L20 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
@@ -586,18 +588,22 @@ table.sml-table {
   color: #716e76;
 }
 
-/* Hover effects (only active buttons) */
+/* Hover effect on active buttons */
 .nav-button:not(.no-link):hover .nav-item::before {
   transform: scale(1.2);
 }
-
 .nav-button:not(.no-link):hover .nav-item::after {
   opacity: 1;
 }
 
-/* --- Disabled (no-link) state styles --- */
+/* ---------- Disabled (no-link) Styles ---------- */
 
-/* Previous Button disabled */
+.nav-button.no-link {
+  pointer-events: none;
+  cursor: default;
+}
+
+/* Disabled Previous Button */
 .nav-button.no-link.prev .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M30 20L20 30L30 40' stroke='%23d3d3d3' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
@@ -607,7 +613,7 @@ table.sml-table {
   color: #d3d3d3;
 }
 
-/* Next Button disabled */
+/* Disabled Next Button */
 .nav-button.no-link.next .nav-item::before {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M20 20L30 30L20 40' stroke='%23d3d3d3' stroke-width='3' fill='none'/%3E%3C/svg%3E");
 }
@@ -615,10 +621,4 @@ table.sml-table {
 .nav-button.no-link.next .nav-item::after {
   content: "Next";
   color: #d3d3d3;
-}
-
-/* Ensure disabled buttons are non-interactive */
-.nav-button.no-link {
-  pointer-events: none;
-  cursor: default;
 }
