@@ -530,43 +530,29 @@ table.sml-table {
   text-decoration: none;
 }
 
+/* Container for icon and label */
 .nav-item {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 5px;
-  position: relative;
-  width: 50px;
-  height: 50px;
 }
 
-/* Inject the previous icon */
-.nav-button.prev .nav-item::before {
+/* Common styling for the arrow injected via ::before */
+.nav-item::before {
   content: "";
   display: block;
   width: 50px;
   height: 50px;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='50'%20height='50'%20viewBox='0%200%2050%2050'%3E%3Cpath%20d='M30%2020L20%2030L30%2040'%20stroke='%23264caf'%20stroke-width='3'%20fill='none'/%3E%3C/svg%3E");
-  background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
   transition: transform 0.3s ease;
+  transform-origin: center;
 }
 
-/* Inject the next icon */
-.nav-button.next .nav-item::before {
-  content: "";
-  display: block;
-  width: 50px;
-  height: 50px;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='50'%20height='50'%20viewBox='0%200%2050%2050'%3E%3Cpath%20d='M20%2020L30%2030L20%2040'%20stroke='%23264caf'%20stroke-width='3'%20fill='none'/%3E%3C/svg%3E");
-  background-size: contain;
-  background-repeat: no-repeat;
-  transition: transform 0.3s ease;
-}
-
-/* Label styling */
-.nav-button.prev .nav-item::after,
-.nav-button.next .nav-item::after {
+/* Common styling for the text label injected via ::after */
+.nav-item::after {
   font-size: 12px;
   font-weight: bold;
   color: #716e76;
@@ -575,6 +561,17 @@ table.sml-table {
   transition: opacity 0.3s ease;
 }
 
+/* Detailed arrow insertion for the Previous button */
+.nav-button.prev .nav-item::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M30 20L20 30L30 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
+}
+
+/* Detailed arrow insertion for the Next button */
+.nav-button.next .nav-item::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 50 50'%3E%3Cpath d='M20 20L30 30L20 40' stroke='%23264caf' stroke-width='3' fill='none'/%3E%3C/svg%3E");
+}
+
+/* Text for the buttons */
 .nav-button.prev .nav-item::after {
   content: "Previous";
 }
@@ -583,25 +580,22 @@ table.sml-table {
   content: "Next";
 }
 
-/* Hover effects */
+/* Hover effects to scale the icon and fade in the text label */
 .nav-button:hover .nav-item::before {
   transform: scale(1.2);
 }
-
 .nav-button:hover .nav-item::after {
   opacity: 1;
 }
 
-/* Disabled button styles */
+/* Disabled button styles (if needed) */
 .nav-button.no-link {
   pointer-events: none;
   cursor: default;
 }
-
 .nav-button.no-link .nav-item::before {
   filter: brightness(0.7);
 }
-
 .nav-button.no-link .nav-item::after {
   color: #d3d3d3;
 }
