@@ -134,9 +134,8 @@ Humanity hurtles into space and lives on the network. Android: Netrunner provide
 > Netrunner is a TM of R. Talsorian Games, Inc. Android is a TM & © Fantasy Flight Games. All rights reserved. Netrunner is licensed by Wizards of the Coast LLC. © Wizards.
 
 <div class="nav-buttons">
-  <div class="nav-button no-link prev" aria-label="page disabled">
+  <div class="nav-button no-link prev" aria-label="page disabled"></div>
     <div class="nav-item"></div>
-  </a>
   <a href="/docs/guide" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
   </a>
