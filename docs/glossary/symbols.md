@@ -95,3 +95,12 @@ The following symbols appear on cards:
       <td>This symbol stands for <b>TRASH</b>. It is used to represent trashing the card as a cost, such as “<span class="nric-grey trash"></span>: Draw 2 cards,” which means “trash this card to draw 2 cards.”</td>
     </tr>    
   </table>
+
+<div class="nav-buttons">
+  <a href="/docs/glossary/actions" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
+  </a>
+  <div class="nav-button no-link next" aria-label="Next page disabled">
+    <div class="nav-item"></div>
+  </div>
+</div>
