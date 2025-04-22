@@ -51,23 +51,11 @@ Both the Corporation and Runner track the Clicks they spend during their turns b
 ## Servers
 For the Runner to win the game, they need to steal Agenda cards from the Corp player. These cards can be stolen from the Corp player’s hand (HQ), deck (R&D), or discard pile (Archives). Each of these locations are referred to as central servers. The Corp player may also play Agenda cards on the table in remote servers, described in detail: [The Corp's Actions](/docs/introduction/corps_turn/#the-corps-actions)
 
-
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/example" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/example" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/introduction/playing" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/introduction/playing" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
