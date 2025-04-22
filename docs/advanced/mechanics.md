@@ -37,21 +37,10 @@ A virus counter is a specific type of hosted counter. The generic tokens can be 
 Some effects force the Corp to expose one or more cards. When a card is exposed, it is flipped faceup so the Runner can examine it. After the Runner has examined the card, it is placed facedown in the same state and location it was in prior to being exposed. If multiple cards are exposed by the the same effect, those cards are exposed simultaneously. The Runner cannot examine a facedown card that they exposed during a previous action without using another expose effect.
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/advanced/interactions" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/advanced/interactions" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/advanced/additional" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/advanced/additional" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
