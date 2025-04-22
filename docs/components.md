@@ -118,21 +118,10 @@ The components in the game are presented here for identification purposes. A com
 </div>
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/game_overview" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/game_overview" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/tutorial_setup" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/tutorial_setup" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
