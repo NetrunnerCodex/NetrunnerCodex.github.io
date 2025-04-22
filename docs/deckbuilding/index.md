@@ -37,21 +37,10 @@ Once you’ve built your deck, it is time to play some games! This is where you 
 enough resources? Is your ice too expensive? Are you drawing your icebreakers fast enough? Figure out what the weak points of your deck are, and try switching out some cards. Looking through your cards again, you may even have another idea for a different deck!
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/advanced/additional" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/advanced/additional" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/deckbuilding/restrictions" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/deckbuilding/restrictions" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
