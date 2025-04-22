@@ -145,21 +145,10 @@ The Runner has several opportunities to **JACK OUT**, which ends the run. They m
 If at any time the Runner jacks out, even after having passed all ice, the run is considered unsuccessful.
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/introduction/corps_turn" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/introduction/corps_turn" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/introduction/run_example" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/introduction/run_example" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
