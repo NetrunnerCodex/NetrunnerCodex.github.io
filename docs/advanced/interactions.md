@@ -44,21 +44,10 @@ To resolve a trace, players follow these steps:
 Android: Netrunner is a game of information and bluffing. A player can always look at the cards they have installed as well as any cards in their hand or discard pile. Any faceup cards, including those found in either the Runner’s heap or Corp’s Archives, are open information and can be viewed by both players at any time. The number of cards in a player’s hand or deck as well as the amount of credits in a player’s credit pool is also open information. All other information must be acquired through effects while playing the game.
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/advanced/resources" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/advanced/resources" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/advanced/mechanics" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/advanced/mechanics" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
