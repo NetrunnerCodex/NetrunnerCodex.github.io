@@ -74,23 +74,11 @@ This section walks the players through setting up their first game.
 - 3x Sure Gamble (56) <span class="red-font">Event</span>
 - 3x Armitage Codebusting (59) <span class="red-font">Resource</span>
 
-
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/components" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/components" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/example" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/example" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
