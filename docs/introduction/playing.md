@@ -28,21 +28,10 @@ The actions that the Corp and Runner can perform by spending Clicks are describe
 The primary way that a player wins a game is by gaining Agenda points. The Runner wins if they can steal seven Agenda points from the Corp, and the Corp wins if they can score seven Agenda points. Each player can also win the game if their opponent is not careful. If the Corp must draw a card and they have no cards remaining in R&D, the Runner immediately wins the game. Additionally, the Corp wins the game if the Runner suffers too much damage, which is described in: [Advanced Concepts](/docs/advanced)
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/introduction/basic_concepts" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/introduction/basic_concepts" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/introduction/corps_turn" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/introduction/corps_turn" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
