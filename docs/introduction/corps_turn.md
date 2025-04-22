@@ -122,21 +122,10 @@ The Corp’s installed cards have two play states: **REZZED**, which means that 
 After a card is rezzed, it remains rezzed for the duration of the game unless an effect states otherwise. The Corp can rez asset and upgrade cards at any time without spending a click. The Corp can only rez ice during a run, which is described later, see: [Making Runs](/docs/introduction/runners_turn/#making-runs)
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/introduction/playing" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/introduction/playing" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/introduction/runners_turn" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/introduction/runners_turn" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
