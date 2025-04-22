@@ -41,24 +41,11 @@ of 5 (55, 60, 65, etc.).
 
 - A deck cannot contain out-of-faction cards with a total influence value that exceeds the influence limit listed on the chosen identity card, see: [Influence](/docs/deckbuilding/influence). Cards that match the faction of the identity card do not count against this limit.
 
-
-
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/deckbuilding" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/deckbuilding" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/deckbuilding/influence" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/deckbuilding/influence" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
