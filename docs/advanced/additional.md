@@ -39,23 +39,11 @@ The Runner can spend one click and two credits to remove one tag. They remove th
 >
 > To learn how to build a deck, see: [Deckbuilding](/docs/deckbuilding)
 
-
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/advanced/mechanics" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/advanced/mechanics" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/deckbuilding" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/deckbuilding" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
