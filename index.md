@@ -1,11 +1,4 @@
-<div class="nav-buttons">
-  <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
-    <div class="nav-item"></div>
-  </a>
-  <a href="/docs/guide" class="nav-button next" aria-label="Next page">
-    <div class="nav-item"></div>
-  </a>
-</div>---
+---
 title: Overview
 slug_title: Netrunner Codex
 slug_subtitle: Unofficial mainframe for Android Netrunner rules
