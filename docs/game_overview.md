@@ -45,21 +45,10 @@ During a game of Android: Netrunner, the Runner uses their turns to build a rig 
 > The Netrunner Codex teaches the basic rules of Android: Netrunner. Before starting, players should continue reading the Introduction, Corp and Runner Turn sections, which contain all the rules necessary to begin playing. If questions arise during play, players can find answers to them within the Rules Reference. After finishing their first game, players should read: [Advanced Concepts](/docs/advanced)
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/welcome" class="nav-button" aria-label="Previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-    </div>
+  <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
   </a>
-
-  <!-- Next Button -->
-  <a href="/docs/components" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <a href="/docs/components" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
