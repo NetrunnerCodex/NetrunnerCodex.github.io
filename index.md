@@ -1,4 +1,11 @@
----
+<div class="nav-buttons">
+  <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
+  </a>
+  <a href="/docs/guide" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
+  </a>
+</div>---
 title: Overview
 slug_title: Netrunner Codex
 slug_subtitle: Unofficial mainframe for Android Netrunner rules
@@ -134,23 +141,10 @@ Humanity hurtles into space and lives on the network. Android: Netrunner provide
 > Netrunner is a TM of R. Talsorian Games, Inc. Android is a TM & © Fantasy Flight Games. All rights reserved. Netrunner is licensed by Wizards of the Coast LLC. © Wizards.
 
 <div class="nav-buttons">
-  <!-- Previous Button -->
-  <div class="nav-button no-link" aria-label="No previous page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M30 20L20 30L30 40" />
-      </svg>
-      <!-- No link here -->
-    </div>
-  </div>
-
-  <!-- Next Button -->
-  <a href="/docs/guide" class="nav-button" aria-label="Next page">
-    <div class="nav-item">
-      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-        <path d="M20 20L30 30L20 40" />
-      </svg>
-    </div>
+  <div class="nav-button no-link prev" aria-label="page disabled">
+    <div class="nav-item"></div>
+  </a>
+  <a href="/docs/guide" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
   </a>
 </div>
-
