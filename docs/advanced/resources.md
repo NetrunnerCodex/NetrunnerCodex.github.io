@@ -2,7 +2,7 @@
 parent: Advanced Concepts
 title: Resources
 slug_title: Resources
-slug_subtitle: Effective resource management is key for optimal gameplay
+slug_subtitle: Resource management
 slug_image: "/assets/images/slugs/adn41_art_fawkes.png"
 layout: default
 has_children: false
