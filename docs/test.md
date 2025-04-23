@@ -2,7 +2,7 @@
 parent: test
 slug_title: Test
 slug_title: Testing
-slug_subtitle: 123
+slug_subtitle: testing
 slug_image: "/assets/images/slugs/nrcx-slug.png"
 layout: default
 has_children: false
@@ -19,8 +19,3 @@ nav_order:
 </div>
 
 <span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
-
-{: .note-title }
-> Example
->
-> If the Runner has both {% include card.html id="02069" nm="Underworld Contact" %} installed and {% include card.html id="06056" nm="The Supplier" %} installed hosting a {% include card.html id="02028" nm="Dyson Mem Chip" %}, both {% include card.html id="02069" nm="Underworld Contact" %} and {% include card.html id="06056" nm="The Supplier" %} meet their trigger conditions at the same time. The Runner can trigger {% include card.html id="06056" nm="The Supplier" %} first, so when {% include card.html id="02069" nm="Underworld Contact" %} triggers its resolution will see that the Runner has <span class="grey-font-b">2</span> <span class="nric-grey link"></span><span class="grey-font-b">LINK</span> and give them <span class="grey-font-b">1</span><span class="nric-grey credit"></span><span class="grey-font-b">CREDIT</span>**CREDIT**
