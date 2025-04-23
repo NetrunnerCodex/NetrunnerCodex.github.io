@@ -68,7 +68,7 @@ The following symbols appear on cards:
 <table class="sml-table">
     <tr>
       <td><span class="nric-grey credit"></span></td>
-      <td>This symbol stands for <b>CREDIT</b>. It always appears with a numeral, such as <span class="grey-font-bl">1</span><span class="nric-grey credit"></span>, which means “one credit,” or <span class="grey-font-bl">3</span><span class="nric-grey credit"></span>, which means “three credits.”</td>
+      <td>This symbol stands for <b>CREDIT</b>. It always appears with a numeral, such as <span class="grey-font-b">1</span><span class="nric-grey credit"></span>, which means “one credit,” or <span class="grey-font-b">3</span><span class="nric-grey credit"></span>, which means “three credits.”</td>
     </tr>
     <tr>
       <td><span class="nric-grey click"></span></td>
@@ -76,11 +76,11 @@ The following symbols appear on cards:
     </tr>
     <tr>
       <td><span class="nric-grey re-credit"></span></td>
-      <td>This symbol stands for <b>RECURRING CREDIT</b>. It always appears with a numeral, such as <span class="grey-font-bl">1</span><span class="nric-grey re-credit"></span>, which means “one recurring credit,” or <span class="grey-font-bl">3</span><span class="nric-grey re-credit"></span>, which means “three recurring credits.” Recurring credits are placed on a card when the card becomes active, and can be used immediately. Any recurring credits a player spends are replaced on their host card at the beginning of that player’s turn. A player can only spend these credits as instructed by their host card.</td>
+      <td>This symbol stands for <b>RECURRING CREDIT</b>. It always appears with a numeral, such as <span class="grey-font-b">1 </span><span class="nric-grey re-credit"></span>, which means “one recurring credit,” or <span class="grey-font-b">3 </span><span class="nric-grey re-credit"></span>, which means “three recurring credits.” Recurring credits are placed on a card when the card becomes active, and can be used immediately. Any recurring credits a player spends are replaced on their host card at the beginning of that player’s turn. A player can only spend these credits as instructed by their host card.</td>
     </tr>
     <tr>
       <td><span class="nric-grey link"></span></td>
-      <td>This symbol stands for <b>LINK</b>. It is always used with a quantity, such as <span class="grey-font-bl">1</span><span class="nric-grey link"></span>, which means “plus 1 link.”</td>
+      <td>This symbol stands for <b>LINK</b>. It is always used with a quantity, such as <span class="grey-font-b">1 </span><span class="nric-grey link"></span>, which means “plus 1 link.”</td>
     </tr>
     <tr>
       <td><span class="nric-grey mu1"></span></td>
