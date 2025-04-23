@@ -20,27 +20,8 @@ nav_order:
 
 <span class="text-grey-dk-000 fs-9 fw-700">TEST</span>
 
-<div class="nav-buttons">
-  <!-- Previous Button -->
-  <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
-    <div class="nav-item"></div>
-  </a>
-  <a href="/docs/guide" class="nav-button next" aria-label="Next page">
-    <div class="nav-item"></div>
-  </a>
-</div>
-
-<hr>
-
-<div class="nav-buttons">
-  <!-- Previous Button (active/clickable) -->
-  <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
-    <div class="nav-item"></div>
-  </a>
-
-  <!-- Next Button (disabled/greyed out) -->
-  <div class="nav-button no-link next" aria-label="Next page disabled">
-    <div class="nav-item"></div>
-  </div>
-</div>
+{: .note-title }
+> Example
+>
+> If the Runner has both <a href="https://nrdb.reteki.fun/en/card/02069" target="_blank">Underworld Contact /a> installed and <a href="https://nrdb.reteki.fun/en/card/06056" target="_blank">The Supplier</a> installed hosting a <a href="https://nrdb.reteki.fun/en/card/02028" target="_blank">Dyson Mem Chip</a>, both <a href="https://nrdb.reteki.fun/en/card/02069" target="_blank">Underworld Contact /a> and <a href="https://nrdb.reteki.fun/en/card/06056" target="_blank">The Supplier</a> meet their trigger conditions at the same time. The Runner can trigger <a href="https://nrdb.reteki.fun/en/card/06056" target="_blank">The Supplier</a> first, so when <a href="https://nrdb.reteki.fun/en/card/02069" target="_blank">Underworld Contact /a> triggers its resolution will see that the Runner has 2 link and give them 1 credit.
 
