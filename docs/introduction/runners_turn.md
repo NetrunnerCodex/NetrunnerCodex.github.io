@@ -2,7 +2,7 @@
 parent: Introduction
 title: The Runner’s Turn
 slug_title: The Runner’s Turn
-slug_subtitle:
+slug_subtitle: Infiltrate defenses and dismantle your opponent’s strategy
 slug_image: "/assets/images/slugs/adn34_preview2.jpg"
 layout: default
 has_children: false
