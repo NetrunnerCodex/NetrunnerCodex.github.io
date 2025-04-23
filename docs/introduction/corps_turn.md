@@ -2,7 +2,7 @@
 parent: Introduction
 title: The Corp’s Turn
 slug_title: The Corp’s Turn
-slug_subtitle:
+slug_subtitle: Strategize, invest, and advance your agenda
 slug_image: "/assets/images/slugs/adn49_preview13.jpg"
 layout: default
 has_children: false
