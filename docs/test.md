@@ -25,7 +25,6 @@ nav_order:
 >
 > If the Runner has both {% include card.html id="02069" nm="Underworld Contact" %} installed and {% include card.html id="06056" nm="The Supplier" %} installed hosting a {% include card.html id="02028" nm="Dyson Mem Chip" %}, both {% include card.html id="02069" nm="Underworld Contact" %} and {% include card.html id="06056" nm="The Supplier" %} meet their trigger conditions at the same time. The Runner can trigger {% include card.html id="06056" nm="The Supplier" %} first, so when {% include card.html id="02069" nm="Underworld Contact" %} triggers its resolution will see that the Runner has <span class="grey-font-bl">2</span> <span class="nric-grey link"></span><span class="grey-font-bl">LINK</span> and give them <span class="grey-font-bl">1</span><span class="nric-grey credit"></span><span class="grey-font-b">CREDIT</span>
 
+<span class="flatline">FLATLINE</span>
 
-<button class="flatline">FLATLINE</button>
-
-<button class="ice">ICE</button>
+<span class="ice">ICE</span>
