@@ -2,7 +2,7 @@
 parent: Deckbuilding
 title: Restrictions
 slug_title: Restrictions
-slug_subtitle: Balancing play with deck restrictions
+slug_subtitle: Balancing gameplay with deck restrictions
 slug_image: "/assets/images/slugs/adn31_preview.jpg"
 layout: default
 has_children: false
