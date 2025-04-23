@@ -427,8 +427,7 @@ table.sml-table {
   mask-repeat: no-repeat;
 }
 
-.flatline::before {
-  content: "";
+.flatline {
   -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/flatline_NRIC-CU.svg');
   mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/flatline_NRIC-CU.svg');
   -webkit-mask-size: contain;
