@@ -26,7 +26,7 @@ nav_order: 18
   <a href="/docs/tutorial_setup" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
-  <a href="/docs/introduction/basic_concepts" class="nav-button next" aria-label="Next page">
+  <a href="/docs/introduction" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
   </a>
 </div>
