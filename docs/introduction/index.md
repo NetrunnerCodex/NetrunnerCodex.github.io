@@ -1,7 +1,7 @@
 ---
 title: Introduction
 slug_title: Introduction
-slug_subtitle:
+slug_subtitle: Begin your journey into a world of strategy
 slug_image: "/assets/images/slugs/adn11_preview.jpg"
 layout: home
 has_children: true
