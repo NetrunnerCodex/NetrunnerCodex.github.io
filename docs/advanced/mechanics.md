@@ -2,7 +2,7 @@
 parent: Advanced Concepts
 title: Mechanics
 slug_title: Mechanics
-slug_subtitle:
+slug_subtitle: Ever-shifting tactics
 slug_image: "/assets/images/slugs/adn49_preview7.jpg"
 layout: default
 has_children: false
