@@ -2,7 +2,7 @@
 parent: Advanced Concepts
 title: Effects
 slug_title: Effects
-slug_subtitle: Game effects transform the battle
+slug_subtitle: Transform the battle
 slug_image: "/assets/images/slugs/adn51_preview2.jpg"
 layout: default
 has_children: false
