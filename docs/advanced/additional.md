@@ -2,7 +2,7 @@
 parent: Advanced Concepts
 title: Additional Actions
 slug_title: Additional Actions
-slug_subtitle: Expand actions and tactical choices
+slug_subtitle: Expanding actions and tactical choices
 slug_image: "/assets/images/slugs/adn-magnum-opus-preview3.jpg"
 layout: default
 has_children: false
