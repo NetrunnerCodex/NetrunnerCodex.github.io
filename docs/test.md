@@ -27,4 +27,5 @@ nav_order:
 
 {% include card.html num="02028" name="Dyson Mem Chip" %}
 
+{% card num="02028" name="Dyson Mem Chip" %}
 
