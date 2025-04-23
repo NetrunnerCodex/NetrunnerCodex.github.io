@@ -2,7 +2,7 @@
 parent: Deckbuilding
 title: Influence
 slug_title: Influence
-slug_subtitle:
+slug_subtitle: Unlocking cross-faction strategy
 slug_image: "/assets/images/slugs/feint-art.jpg"
 layout: default
 has_children: false
