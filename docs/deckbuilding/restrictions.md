@@ -20,7 +20,7 @@ nav_order: 42
 
 When building a deck, players must observe the following restrictions:
 
-- A deck must be associated with a single identity card, and cannot contain fewer cards than theminimum deck size value listed on the chosen identity card. There is no maximum deck size, but the deck must be able to be sufficiently randomized in a short period of time. Identity cards, reference
+- A deck must be associated with a single identity card, and cannot contain fewer cards than the minimum deck size value listed on the chosen identity card. There is no maximum deck size, but the deck must be able to be sufficiently randomized in a short period of time. Identity cards, reference
 cards, and click tracker cards are never counted as part of a deck and do not count against the minimum deck size.
 - A deck cannot have more than three copies of a single card (by title) in it.
 - A deck associated with a Runner identity can never contain Corporation cards, and vice versa.
