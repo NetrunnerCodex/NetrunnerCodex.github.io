@@ -2,7 +2,7 @@
 parent: Advanced Concepts
 title: Effects
 slug_title: Effects
-slug_subtitle:
+slug_subtitle: Game effects transform the battle - each twist shifts the strategic balance
 slug_image: "/assets/images/slugs/adn51_preview2.jpg"
 layout: default
 has_children: false
