@@ -23,5 +23,5 @@ nav_order:
 {: .note-title }
 > Example
 >
-> If the Runner has both {% include card.html id="02069" nm="Underworld Contact" %} installed and {% include card.html id="06056" nm="The Supplier" %} installed hosting a {% include card.html id="02028" nm="Dyson Mem Chip" %}, both {% include card.html id="02069" nm="Underworld Contact" %} and {% include card.html id="06056" nm="The Supplier" %} meet their trigger conditions at the same time. The Runner can trigger {% include card.html id="06056" nm="The Supplier" %} first, so when {% include card.html id="02069" nm="Underworld Contact" %} triggers its resolution will see that the Runner has 2 link and give them 1 credit.
+> If the Runner has both {% include card.html id="02069" nm="Underworld Contact" %} installed and {% include card.html id="06056" nm="The Supplier" %} installed hosting a {% include card.html id="02028" nm="Dyson Mem Chip" %}, both {% include card.html id="02069" nm="Underworld Contact" %} and {% include card.html id="06056" nm="The Supplier" %} meet their trigger conditions at the same time. The Runner can trigger {% include card.html id="06056" nm="The Supplier" %} first, so when {% include card.html id="02069" nm="Underworld Contact" %} triggers its resolution will see that the Runnerhas <span class="grey-font-bl">2 LINK</span> <span class="nric-grey link"></span> and give them 1 credit.
 
