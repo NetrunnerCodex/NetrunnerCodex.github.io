@@ -1,7 +1,7 @@
 ---
 title: Glossary
 slug_title: Glossary
-slug_subtitle:
+slug_subtitle: Core mechanics and terminolgy
 slug_image: "/assets/images/slugs/adn32_preview.jpg"
 layout: home
 has_children: true
