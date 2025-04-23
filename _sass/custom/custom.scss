@@ -231,12 +231,12 @@
 
 .grey-font-b {
   font-weight: 700;
-  color: #5a5a5a; /* Grey-100 */
+  color: #5a5a5a; /* Grey-dk-100 */
 }
 
 .grey-font-bl {
   font-weight: 700;
-  color: #959396; /* Grey-000 */
+  color: #959396; /* Grey-dk-000 */
 }
 
 // 0005
@@ -421,6 +421,16 @@ table.sml-table {
 .credit {
   -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/credit_NRIC-OG.svg');
   mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/credit_NRIC-OG.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.flatline::before {
+  content: "";
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/servers/flatline_NRIC-CU.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/servers/flatline_NRIC-CU.svg');
   -webkit-mask-size: contain;
   mask-size: contain;
   -webkit-mask-repeat: no-repeat;
