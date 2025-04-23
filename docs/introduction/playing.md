@@ -2,7 +2,7 @@
 parent: Introduction
 title: Playing the Game
 slug_title: Playing the Game
-slug_subtitle:
+slug_subtitle: Enter a turn-based duel, each strategic Click matters
 slug_image: "/assets/images/slugs/chp03-04_preview2.png"
 layout: default
 has_children: false
