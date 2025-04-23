@@ -2,7 +2,7 @@
 parent: Advanced Concepts
 title: Interactions
 slug_title: Interactions
-slug_subtitle:
+slug_subtitle: Calculated risks and covert tactics
 slug_image: "/assets/images/slugs/silhouette-plans-her-run.jpg"
 layout: default
 has_children: false
