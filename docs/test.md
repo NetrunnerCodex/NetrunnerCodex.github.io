@@ -25,3 +25,6 @@ nav_order:
 >
 > If the Runner has both <a href="https://nrdb.reteki.fun/en/card/02069" target="_blank">Underworld Contact </a> installed and <a href="https://nrdb.reteki.fun/en/card/06056" target="_blank">The Supplier</a> installed hosting a <a href="https://nrdb.reteki.fun/en/card/02028" target="_blank">Dyson Mem Chip</a>, both <a href="https://nrdb.reteki.fun/en/card/02069" target="_blank">Underworld Contact </a> and <a href="https://nrdb.reteki.fun/en/card/06056" target="_blank">The Supplier</a> meet their trigger conditions at the same time. The Runner can trigger <a href="https://nrdb.reteki.fun/en/card/06056" target="_blank">The Supplier</a> first, so when <a href="https://nrdb.reteki.fun/en/card/02069" target="_blank">Underworld Contact </a> triggers its resolution will see that the Runner has 2 link and give them 1 credit.
 
+{% include card.html num="02028" name="Dyson Mem Chip" %}
+
+
