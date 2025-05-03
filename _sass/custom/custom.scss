@@ -598,6 +598,15 @@ table.sml-table {
   mask-repeat: no-repeat;
 }
 
+.unique {
+  -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/unique_NRIC-OG.svg');
+  mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/unique_NRIC-OG.svg');
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
 .upgrade {
   -webkit-mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/upgrade_NRIC-DB.svg');
   mask-image: url('https://raw.githubusercontent.com/NetrunnerCodex/NetrunnerIconCache/main/actions/upgrade_NRIC-DB.svg');
