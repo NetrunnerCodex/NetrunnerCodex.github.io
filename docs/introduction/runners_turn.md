@@ -62,12 +62,12 @@ To play an event card, the Runner must pay the card’s credit cost in addition 
 {: .notered-title }
 > Runner Action Overview
 >
-> <span class="nric-red click"></span>Draw One Card<br>
-> <span class="nric-red click"></span>Gain One Credit<br>
-> <span class="nric-red click"></span>Play One Event<br>
-> <span class="nric-red click"></span>Install One Card<br>
+> <span class="nric-red click"></span> Draw One Card<br>
+> <span class="nric-red click"></span> Gain One Credit<br>
+> <span class="nric-red click"></span> Play One Event<br>
+> <span class="nric-red click"></span> Install One Card<br>
 > <span class="nric-red click"></span><span class="red-font"> **2**</span><span class="nric-red credit"></span>Remove One Tag<br>
-> <span class="nric-red click"></span>Make One Run
+> <span class="nric-red click"></span> Make One Run
 
 ## Install One Card
 The Runner can spend one click to install a program, resource, or hardware card. Each of these cards contains a credit cost that the Runner must pay in addition to spending a click. Unlike an event that is resolved immediately and placed in the heap, installed
