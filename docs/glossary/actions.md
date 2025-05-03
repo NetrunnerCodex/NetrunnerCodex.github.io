@@ -33,12 +33,12 @@ nav_order: 92
 {: .notered-title }
 > Runner Action Overview
 >
-> <span class="nric-red click"></span>Draw One Card<br>
-> <span class="nric-red click"></span>Gain One Credit<br>
-> <span class="nric-red click"></span>Play One Event<br>
-> <span class="nric-red click"></span>Install One Card<br>
+> <span class="nric-red click"></span> Draw One Card<br>
+> <span class="nric-red click"></span> Gain One Credit<br>
+> <span class="nric-red click"></span> Play One Event<br>
+> <span class="nric-red click"></span> Install One Card<br>
 > <span class="nric-red click"></span><span class="red-font"> **2**</span><span class="nric-red credit"></span>Remove One Tag<br>
-> <span class="nric-red click"></span>Make One Run
+> <span class="nric-red click"></span> Make One Run
 
 <div class="nav-buttons">
   <a href="/docs/glossary" class="nav-button prev" aria-label="Previous page">
