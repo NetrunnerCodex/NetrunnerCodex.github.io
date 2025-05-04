@@ -188,7 +188,7 @@ agendas <span class="nric-grey agendas"></span>. Actions include:
 <table class="sml-table">
       <tr>
       <td><span class="nric-grey click"></td>
-      <td></span>Gain <b>1</b> <span class="nric-grey credit"></span></td>
+      <td>Gain <b>1</b> <span class="nric-grey credit"></span></td>
       </tr>
       <tr>
       <td><span class="nric-grey click"></span></td>
