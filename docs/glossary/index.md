@@ -1595,7 +1595,7 @@ Certain card effects result in a tag being placed on the Runner. As long as the 
 
 A state which describes a Runner when they have one or more tags. Certain card effects can trigger off of the Runner being tagged.
 
-While the Runner is tagged, the Corp may, as an action, spend <span class="nric-grey click"></span> and **2** <span class="nric-grey credit"></span> to trash one of the Runner’s resources, and the Runner may, as an action, spend <span class="nric-grey click"></span> and **2** <span class="nric-grey credit"></span> to remove one tag, returning it to the bank.
+While the Runner is tagged, the Corp may, as an action, spend <span class="nric-grey click"></span> and **2**<span class="nric-grey credit"></span> to trash one of the Runner’s resources, and the Runner may, as an action, spend <span class="nric-grey click"></span> and **2**<span class="nric-grey credit"></span> to remove one tag, returning it to the bank.
 
 **Related**: Abilities, Action, Bank, Corp, Resource, Runner, Tag, Trash.
 
