@@ -236,7 +236,7 @@ ice cards <span class="nric-grey rez"></span>
 The Runner takes actions until they have no <span class="nric-grey click"></span> remaining. After each action, players may use paid abilities <span class="nric-grey paid"></span> and the Corp may rez non-ice cards <span class="nric-grey rez"></span>. Actions include:
 </li>
 </ol>
-<span class="nric-grey click"></span> Gain <b>1</b> <span class="nric-grey credit"></span><br>
+<span class="nric-grey click"></span> Gain <b>1</b><span class="nric-grey credit"></span><br>
 <span class="nric-grey click"></span> Draw <b>1</b> card from the stack.<br>
 <span class="nric-grey click"></span> Install <b>1</b> program, resource, or piece of hardware.<br>
 <span class="nric-grey click"></span> Play <b>1</b> event.<br>
