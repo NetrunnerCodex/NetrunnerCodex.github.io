@@ -126,6 +126,31 @@ Conversely, Netrunners are identified by their motives more than by their achiev
 
 Humanity hurtles into space and lives on the network. Android: Netrunner provides everything you need to immerse yourselves in the cyberpunk fantasy of a world filled with valuable data and high-stakes runs through the network, and data constructs as varied as the human imagination.
 
+# Original FFG Android Netrunner Credits
+<span class="blue-font">Legendary Game Design Superheroes</span>
+
+**Original Game Design**: Richard Garfield
+**Android Netrunner Game Development**: Lukas Litzsinger
+**Revised Edition Development**: Damon Stone with Erik Dahlman and Michael Boggs
+**Rules Text**: Adam Baker, Michael Boggs, and Erik Dahlman
+**Editing**: Jacob Morris and Damon Stone
+**Android Netrunner Graphic Design**: Michael Silsby with Chris Beck, Shaun Boyke, Dallas Mehlhoff, Andrew Navaro, and Evan Simonet
+**Revised Edition Graphic Design**: Monica Helland with Mercedes Opheim
+**Graphic Design Manager**: Brian Schomburg
+**Cover Art**: Adam Schumpert
+**Art Direction**: Andy Christensen and Zoë Robinson
+**Managing Art Director**: Melissa Shetler
+**Producer**: Erik Dahlman
+**Android Universe created by**: Kevin Wilson with Daniel Lovat Clark
+**Android Story Team**: Daniel Lovat Clark, Michael Hurley, Lukas Litzsinger, Katrina Ostrander
+**Production Management**: Megan Duehn
+**Licensing Manager**: Simone Elliott
+**LCG Manager**: Chris Gerber
+**Creative Director**: Andrew Navaro
+**Executive Game Designer**: Corey Konieczka
+**Executive Producer**: Michael Hurley
+**Publisher**: Christian T. Petersen
+
 {: .note-title }
 > Disclaimer
 >
