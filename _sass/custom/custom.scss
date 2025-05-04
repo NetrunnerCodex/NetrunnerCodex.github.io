@@ -263,12 +263,12 @@ ol.custom-ol li::before {
 
 table.sml-table {
   width: 100% !important;
-  table-layout: fixed;
   margin: 0 auto !important;
 }
 
 .sml-table td:first-child {
   width: 50px;
+  white-space: nowrap;
 }
 
 .tables-container {
