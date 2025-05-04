@@ -1,5 +1,6 @@
 ---
 title: Glossary
+toc: false
 toc_levels: 1..1
 slug_title: Glossary
 slug_subtitle: Core mechanics and terminolgy
