@@ -1347,7 +1347,7 @@ The number of cards in R&D is open information, though the qualities of each car
 
 Resources are a wide variety of connections and skills that aid the Runner. The Runner installs resources in their rig by paying an install cost. There is no limit to the number of resources the Runner can install in their rig.
 
-While the Runner is tagged, the Corp may spend <span class="nric-grey click"></span> and **2** <span class="nric-grey credit"></span> to trash an installed resource.
+While the Runner is tagged, the Corp may spend <span class="nric-grey click"></span> and **2**<span class="nric-grey credit"></span> to trash an installed resource.
 
 **Related**: Corp, Install, Install Cost, Rig, Tagged, Trash.
 
@@ -1359,12 +1359,12 @@ Some effects reveal one or more cards. Only uninstalled cards can be revealed. A
 
 # Rez
 
-The process by which the Corp turns an unrezzed card faceup to make it active. In order to rez an unrezzed card, the Corp must pay its rez cost, though rezzing a card does not cost
-<span class="nric-grey click"></span>. Assets and upgrades can be rezzed during a variety of timing structures over the course of the game, including at the beginning and end of each turn, before and after each action, and during runs. Ice can only be rezzed when the Runner approaches it during a run. Agendas are never rezzed. See the timing structures in Rules Reference for a full list of opportunities to rez cards.
+The process by which the Corp turns an unrezzed card faceup to make it active. In order to rez an unrezzed card, the Corp must pay its rez cost, though rezzing a card does not cost <span class="nric-grey click"></span>. Assets and upgrades can be rezzed during a variety of timing structures over the course of the game, including at the beginning and end of each turn, before and after each action, and during runs. Ice can only be rezzed when the Runner approaches it during a run. Agendas are never rezzed. See the timing structures in Rules Reference for a full list of opportunities to rez cards.
 
 **Related**: Action, Active, Agenda, Approach, Asset, Corp, Faceup, Ice, Rez Cost, Run, Runner, Timing Structures, Unrezzed, Upgrade.
 
-Rezzed
+# Rezzed
+
 The state in which a Corp card is installed, faceup, and active. The opposite of unrezzed. Corp cards are installed unrezzed and can become rezzed by rezzing them. A rezzed card can sometimes be derezzed back into an unrezzed state by card abilities.
 
 **Related**: Active, Derez, Faceup, Install, Rez, Unrezzed.
