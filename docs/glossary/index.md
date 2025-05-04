@@ -178,49 +178,50 @@ A player can only take an action if its effect has the potential to change the g
 
 The Corp’s action phase follows these steps in order:
 
-1. Players may use paid abilities <span class="nric-grey paid"></span>. The Corp may rez non-
-ice cards <span class="nric-grey rez"></span> and score agendas <span class="nric-grey agendas"></span>.
-1. The Corp takes actions until they have no <span class="nric-grey click"></span> remaining.
-After each action, players may use paid abilities <span class="nric-grey paid"></span>, the
-Corp may rez non-ice cards <span class="nric-grey rez"></span>, and the Corp may score
-agendas <span class="nric-grey agendas"></span>. Actions include:
+1. Players may use paid abilities <span class="nric-grey paid"></span>. The Corp may rez non-ice cards <span class="nric-grey rez"></span> and score agendas <span class="nric-grey agenda"></span>.
+1. The Corp takes actions until they have no <span class="nric-grey click"></span> remaining. After each action, players may use paid abilities <span class="nric-grey paid"></span>, the Corp may rez non-ice cards <span class="nric-grey rez"></span>, and the Corp may score agendas <span class="nric-grey agenda"></span>. Actions include:
 
 <table class="sml-table">
-      <tr>
-      <td><span class="nric-grey click"></td>
-      <td>Gain <b>1</b> <span class="nric-grey credit"></span></td>
-      </tr>
-      <tr>
-      <td><span class="nric-grey click"></span></td>
-       <td>Draw 1 card from R&D.</td>
-       </tr>
-	   <tr>
-       <td><span class="nric-grey click"></span></td>
-       <td>Install 1 agenda, asset, upgrade, or piece of ice.</td>
-       </tr>
-	   <tr>
-       <td><span class="nric-grey click"></span></td>
-       <td>Play 1 operation.</td>
-       </tr>
-	   <tr>
-       <td><span class="nric-grey click"></span> <b>1</b><span class="nric-grey credit"></span></td>
-       <td> Advance 1 installed card.</td>
-       </tr>
-	   <tr>
-       <td><span class="nric-grey click"></span> <b>2</b><span class="nric-grey credit"></span></td> 
-       <td>Trash 1 resource if the Runner is tagged.</td>
-       </tr>
-	   <tr>
-       <td><span class="nric-grey click"></span><span class="nric-grey click"></span><span class="nric-grey click"></span></td> 
-       <td>Purge virus counters.</td> 
-       </tr>
-       <tr>
-       <td></td> 
-       <td>Trigger a <span class="nric-grey click"></span> ability on an active card (cost varies).</td>
-       </tr>    
-  </table>
-  
-The Runner’s action phase follows these steps in order: 
+  <tr>
+    <td><span class="nric-grey click"></span></td>
+    <td>Gain <b>1</b> <span class="nric-grey credit"></span></td>
+  </tr>
+  <tr>
+    <td><span class="nric-grey click"></span></td>
+    <td>Draw 1 card from R&D.</td>
+  </tr>
+  <tr>
+    <td><span class="nric-grey click"></span></td>
+    <td>Install 1 agenda, asset, upgrade, or piece of ice.</td>
+  </tr>
+  <tr>
+    <td><span class="nric-grey click"></span></td>
+    <td>Play 1 operation.</td>
+  </tr>
+  <tr>
+    <td><span class="nric-grey click"></span> <b>1</b><span class="nric-grey credit"></span></td>
+    <td>Advance 1 installed card.</td>
+  </tr>
+  <tr>
+    <td><span class="nric-grey click"></span> <b>2</b><span class="nric-grey credit"></span></td> 
+    <td>Trash 1 resource if the Runner is tagged.</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="nric-grey click"></span>
+      <span class="nric-grey click"></span>
+      <span class="nric-grey click"></span>
+    </td> 
+    <td>Purge virus counters.</td> 
+  </tr>
+  <tr>
+    <td></td> 
+    <td>Trigger a <span class="nric-grey click"></span> ability on an active card (cost varies).</td>
+  </tr>    
+</table>
+
+The Runner’s action phase follows these steps in order:
+
 
 1. The Runner gains allotted clicks, default: <span class="nric-grey click"></span><span class="nric-grey click"></span><span class="nric-grey click"></span><span class="nric-grey click"></span>
 1. Players may use paid abilities <span class="nric-grey paid"></span>. The Corp may rez non-
