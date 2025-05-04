@@ -707,22 +707,3 @@ table.sml-table {
   content: "Next";
   color: #d3d3d3;
 }
-
-// 0008
-
-.custom-toc #markdown-toc {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  white-space: nowrap;
-  overflow-x: auto;
-}
-
-.custom-toc #markdown-toc li {
-  display: inline;
-}
-
-.custom-toc #markdown-toc li:not(:last-child)::after {
-  content: " - ";
-  padding: 0 0.5em;
-}
