@@ -219,7 +219,6 @@ agendas <span class="nric-grey agendas"></span>. Actions include:
        <td>Trigger a <span class="nric-grey click"></span> ability on an active card (cost varies).</td>
        </tr>    
   </table>
-  </div>
   
 The Runner’s action phase follows these steps in order: 
 
