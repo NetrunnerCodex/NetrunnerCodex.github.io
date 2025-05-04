@@ -1397,7 +1397,7 @@ A run is a Runner’s attack on a server that consists of seven steps that are r
 
 ## Step 1: Initiation
 
-The Runner initiates a run and declares the attacked server. The Runner then gains **1** <span class="nric-grey credit"></span> to spend during the run for each bad publicity the Corp has.
+The Runner initiates a run and declares the attacked server. The Runner then gains **1**<span class="nric-grey credit"></span> to spend during the run for each bad publicity the Corp has.
 
 If the attacked server has at least one piece of ice protecting it,
 the Runner proceeds to step **2**, Approach Ice; if the attacked
@@ -1439,7 +1439,7 @@ The Runner loses unspent bad publicity credits and the run ends.
 
 The Runner loses unspent bad publicity credits and the run ends unsuccessfully.
 
-Related: Accessing, Agenda, Approach, Asset, Bad Publicity, Corp, Encounter, Ice, Icebreaker, “If successful...”, Initiate vs. Make a Run, Jack Out, Protecting a Server, Rez, Runner, Server, Steal, Strength, Subroutine, Timing Structures, Trash, Trash Cost.
+**Related**: Accessing, Agenda, Approach, Asset, Bad Publicity, Corp, Encounter, Ice, Icebreaker, “If successful...”, Initiate vs. Make a Run, Jack Out, Protecting a Server, Rez, Runner, Server, Steal, Strength, Subroutine, Timing Structures, Trash, Trash Cost.
 
 # Runner
 
@@ -1564,7 +1564,7 @@ Subroutines <span class="nric-grey subroutine "></span> are required conditional
 {: .note-title }
 > Example
 >
-> Ichi 1.0 has “| Trash 1 program.” If this subroutine triggers, then the Corp chooses and trashes one of the Runner’s installed programs.
+> Ichi 1.0 has “ <span class="nric-grey subroutine "></span> Trash 1 program.” If this subroutine triggers, then the Corp chooses and trashes one of the Runner’s installed programs.
 
 **Related**: Abilities, Corp, Encounter, Ice, Rezzed, Run, Runner, Timing Structures.
 
