@@ -22,6 +22,10 @@ nav_order: 90
 ## Nodes
 [Abilities](#abilities) • [Accessing](#accessing) • [Action](#action) • [Active](#active) • [“Additional”](#additional) 
 
+[Abilities](#abilities) › [Accessing](#accessing) › [Action](#action) › [Active](#active) › [“Additional”](#additional)
+
+[Abilities](#abilities) > [Accessing](#accessing) > [Action](#action) > [Active](#active) > [“Additional”](#additional)
+
 The following is an alphabetical list of entries for game rules, terms, and situations that may occur during play.
 
 # Abilities
