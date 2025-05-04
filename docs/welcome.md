@@ -28,31 +28,6 @@ Computers have continued to advance along with discoveries in the field of neuro
   
 Rogue operators: Computer specialists with the hardware, software, and raw talent to challenge the system, use the sprawl of the net to their advantage. They are runners. This is their story.
 
-# Original FFG Android Netrunner Credits
-<span class="blue-font">Legendary Game Design Superheroes</span>
-
-**Original Game Design**: Richard Garfield
-**Android Netrunner Game Development**: Lukas Litzsinger
-**Revised Edition Development**: Damon Stone with Erik Dahlman and Michael Boggs
-**Rules Text**: Adam Baker, Michael Boggs, and Erik Dahlman
-**Editing**: Jacob Morris and Damon Stone
-**Android Netrunner Graphic Design**: Michael Silsby with Chris Beck, Shaun Boyke, Dallas Mehlhoff, Andrew Navaro, and Evan Simonet
-**Revised Edition Graphic Design**: Monica Helland with Mercedes Opheim
-**Graphic Design Manager**: Brian Schomburg
-**Cover Art**: Adam Schumpert
-**Art Direction**: Andy Christensen and Zoë Robinson
-**Managing Art Director**: Melissa Shetler
-**Producer**: Erik Dahlman
-**Android Universe created by**: Kevin Wilson with Daniel Lovat Clark
-**Android Story Team**: Daniel Lovat Clark, Michael Hurley, Lukas Litzsinger, Katrina Ostrander
-**Production Management**: Megan Duehn
-**Licensing Manager**: Simone Elliott
-**LCG Manager**: Chris Gerber
-**Creative Director**: Andrew Navaro
-**Executive Game Designer**: Corey Konieczka
-**Executive Producer**: Michael Hurley
-**Publisher**: Christian T. Petersen
-
 <div class="nav-buttons">
   <a href="/docs/guide" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
