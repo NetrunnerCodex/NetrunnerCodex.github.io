@@ -184,7 +184,7 @@ The Corp’s action phase follows these steps in order:
 <table class="sml-table">
   <tr>
     <td><span class="nric-grey click"></span></td>
-    <td>Gain <b>1</b> <span class="nric-grey credit"></span></td>
+    <td>Gain <b>1</b><span class="nric-grey credit"></span></td>
   </tr>
   <tr>
     <td><span class="nric-grey click"></span></td>
@@ -214,11 +214,9 @@ The Corp’s action phase follows these steps in order:
     </td> 
     <td>Purge virus counters.</td> 
   </tr>
-  <tr>
-    <td></td> 
-    <td>Trigger a <span class="nric-grey click"></span> ability on an active card (cost varies).</td>
-  </tr>    
-</table>
+ </table>
+
+Trigger a <span class="nric-grey click"></span> ability on an active card (cost varies).
 
 The Runner’s action phase follows these steps in order:
 
@@ -238,12 +236,13 @@ ice cards <span class="nric-grey rez"></span>
 The Runner takes actions until they have no <span class="nric-grey click"></span> remaining. After each action, players may use paid abilities <span class="nric-grey paid"></span> and the Corp may rez non-ice cards <span class="nric-grey rez"></span>. Actions include:
 </li>
 </ol>
-<span class="nric-grey click"></span> Gain <b>1</b> <span class="nric-grey credit"></span>
-<span class="nric-grey click"></span> Draw <b>1</b> card from the stack.
-<span class="nric-grey click"></span> Install <b>1</b> program, resource, or piece of hardware.
-<span class="nric-grey click"></span> Play <b>1</b> event.
-<span class="nric-grey click"></span> Make a run.
-<span class="nric-grey click"></span><b> 2</b> <span class="nric-grey credit"></span> Remove 1 tag.
+<span class="nric-grey click"></span> Gain <b>1</b> <span class="nric-grey credit"></span><br>
+<span class="nric-grey click"></span> Draw <b>1</b> card from the stack.<br>
+<span class="nric-grey click"></span> Install <b>1</b> program, resource, or piece of hardware.<br>
+<span class="nric-grey click"></span> Play <b>1</b> event.<br>
+<span class="nric-grey click"></span> Make a run.<br>
+<span class="nric-grey click"></span><b> 2</b><span class="nric-grey credit"></span> Remove 1 tag.
+
 Trigger a <span class="nric-grey click"></span> ability on an active card (cost varies).
 
 **Related**: Abilities, Action, Agendas, Corp, Credits - Recurring, Paid Ability Windows, Rez, Runner, Score, Timing Structures.
@@ -272,7 +271,7 @@ The **minimum** number of advancement tokens that must be on an agenda before th
 
 # Advancing Cards
 
-Advancing is the action of spending <span class="nric-grey click"></span> and **1** <span class="nric-grey credit"></span> to put one advancement token on a card that can be advanced.
+Advancing is the action of spending <span class="nric-grey click"></span> and **1**<span class="nric-grey credit"></span> to put one advancement token on a card that can be advanced.
 
 Agendas can always be advanced while installed. If a card other than an agenda says that the card can be advanced, the card can be advanced even when the card is unrezzed. There is no limit to the number of times a card can be advanced.
 
@@ -402,7 +401,7 @@ conditional ability occurs simultaneously with the trigger condition and can be 
 
 # Bad Publicity
 
-For each bad publicity the Corp has, the Runner gains **1** <span class="nric-grey credit"></span> at the beginning of each run. If the Corp takes bad publicity during a run, the Runner does not gain additional bad publicity credits for that run. Unspent bad publicity credits return to the bank at the end of the run.
+For each bad publicity the Corp has, the Runner gains **1**<span class="nric-grey credit"></span> at the beginning of each run. If the Corp takes bad publicity during a run, the Runner does not gain additional bad publicity credits for that run. Unspent bad publicity credits return to the bank at the end of the run.
 
 **Related**: Bank, Corp, Credits, Run, Runner, Timing Structures.
 
@@ -434,7 +433,7 @@ If a “cannot” prohibits only part of an ability, a card that has that abilit
 {: .note-title }
 > Example
 >
-> During a run, Lockdown’s subroutine fires, preventing the Runner from drawing cards for the remainder of the turn. The Runner has a Diesel and a Process Automation in their grip. For the remainder of this turn, they cannot play Diesel as its entire ability is prohibited, but they can play Process Automation. Even though cards cannot be drawn through Process Automation, the Runner can play it to gain **2** <span class="nric-grey credit"></span>
+> During a run, Lockdown’s subroutine fires, preventing the Runner from drawing cards for the remainder of the turn. The Runner has a Diesel and a Process Automation in their grip. For the remainder of this turn, they cannot play Diesel as its entire ability is prohibited, but they can play Process Automation. Even though cards cannot be drawn through Process Automation, the Runner can play it to gain **2**<span class="nric-grey credit"></span>
 
 **Related**: Abilities, Action.
 
@@ -464,7 +463,7 @@ Unless otherwise noted, a card ability that requires a player to choose a card c
 {: .note-title }
 > Example
 >
-> The Corp resolves a subroutine that says “<span class="nric-grey subroutine "></span> The Runner trashes 1 program.” The Runner must trash one of their installed programs and may not trash a program from their grip or stack.
+> The Corp resolves a subroutine that says “ <span class="nric-grey subroutine "></span> The Runner trashes 1 program.” The Runner must trash one of their installed programs and may not trash a program from their grip or stack.
 
 If a specific card or card type in an inactive state is chosen by a card effect, the Corp must show the Runner which card is being affected without changing its faceup or facedown status. The Corp must also reveal the card if it was facedown and the effect relies on a specific attribute of the card.
 
@@ -542,7 +541,7 @@ There are six types of Corp cards: agendas, assets, ice, identities, operations,
 
 # Credit
 
-A credit <span class="nric-grey credit"></span> is the basic unit of currency. Players spend their credits to pay for various costs, card abilities, traces, etc. Both the Corp and the Runner can spend <span class="nric-grey click"></span> to gain **1** <span class="nric-grey credit"></span> during their Action Phases.
+A credit <span class="nric-grey credit"></span> is the basic unit of currency. Players spend their credits to pay for various costs, card abilities, traces, etc. Both the Corp and the Runner can spend <span class="nric-grey click"></span> to gain **1**<span class="nric-grey credit"></span> during their Action Phases.
 
 **Related**: Abilities, Action, Bank, Corp, Cost, Runner, Trace.
 
@@ -1173,20 +1172,19 @@ If a player takes a mulligan, they must keep the second hand as their starting h
 
 # “Must”
 
-If a card ability states that a player “must” do something, then that player is prohibited from deliberately making a choice without the intention of resolving that choice. That
-player is forced to make any decisions necessary to satisfy the requirement, even if it requires the use of other card abilities.
+If a card ability states that a player “must” do something, then that player is prohibited from deliberately making a choice without the intention of resolving that choice. That player is forced to make any decisions necessary to satisfy the requirement, even if it requires the use of other card abilities.
 
 {: .note-title }
 > Example
 >
-> The Runner has an Imp and a Scrubber installed and accesses Mumbad Virtual Tour. If the Runner only has **4** <span class="nric-grey credit"></span>, they must still choose to either spend a counter from Imp to trash Mumbad Virtual Tour if they are able to do so or spend recurring credits on Scrubber to help pay the trash cost of the Mumbad Virtual Tour.
+> The Runner has an Imp and a Scrubber installed and accesses Mumbad Virtual Tour. If the Runner only has **4**<span class="nric-grey credit"></span>, they must still choose to either spend a counter from Imp to trash Mumbad Virtual Tour if they are able to do so or spend recurring credits on Scrubber to help pay the trash cost of the Mumbad Virtual Tour.
 
 If the “must” ability presents a player with a choice between two or more effects, that player must choose an effect that can be fully resolved. If none of the choices can be fully resolved, then the “must” ability does nothing.
 
 {: .note-title }
 > Example
 >
-> If the first subroutine on Fairchild 2.0 resolves while the Runner has no installed cards but **3** <span class="nric-grey credit"></span>, then the Runner must choose to lose **2** <span class="nric-grey credit"></span>. When the second subroutine on Fairchild 2.0 resolves, the Runner can neither lose 2< nor trash an installed card, so nothing happens.
+> If the first subroutine on Fairchild 2.0 resolves while the Runner has no installed cards but **3**<span class="nric-grey credit"></span>, then the Runner must choose to lose **2**<span class="nric-grey credit"></span>. When the second subroutine on Fairchild 2.0 resolves, the Runner can neither lose 2< nor trash an installed card, so nothing happens.
 
 Prevent/avoid abilities do not invalidate a choice made to satisfy a “must” ability. As long as a player makes the necessary choices for a “must” ability, the actual resolution of the ability can still be interrupted and even changed or prevented by a prevent/ avoid ability.
 
@@ -1200,7 +1198,7 @@ A singular “must” ability cannot force a player to pay an additional cost th
 {: .note-title }
 > Example
 >
-> If Service Outage is active and the Runner has Always Be Running installed, the Runner can decline to pay the additional **1** <span class="nric-grey credit"></span> to make a run with their first <span class="nric-grey click"></span> thus satisfying the “must” of Always Be Running and allowing them to take the rest of their turn normally. However, if a Runner plays a Forged Activation Orders on an unrezzed Archer, the Corporation cannot choose to rez the Archer but decline to forfeit an agenda; the Corp must either pay **4** <span class="nric-grey credit"></span> and forfeit an agenda to rez the Archer or trash the Archer.
+> If Service Outage is active and the Runner has Always Be Running installed, the Runner can decline to pay the additional **1**<span class="nric-grey credit"></span> to make a run with their first <span class="nric-grey click"></span> thus satisfying the “must” of Always Be Running and allowing them to take the rest of their turn normally. However, if a Runner plays a Forged Activation Orders on an unrezzed Archer, the Corporation cannot choose to rez the Archer but decline to forfeit an agenda; the Corp must either pay **4**<span class="nric-grey credit"></span> and forfeit an agenda to rez the Archer or trash the Archer.
 
 **Related**: Abilities, Avoid, Prevent.
 
@@ -1248,7 +1246,6 @@ Consult the timing structures at the back of the Rules Reference to see all the 
       <td>This symbol indicates that the Corp can score agendas during this paid ability window.</td>
        </tr> 
   </table>
-  </div>
 
 **Related**: Agenda, Corp, Rez, Runner, Score, Timing Structures.
 
@@ -1271,9 +1268,8 @@ To play an operation or event, follow these steps:
 - The play cost of an operation/event is indicated in the top left corner of the card.
 - If a card has a play cost of X, the value for X is chosen by the player according to any stipulations written on the card.
 <ol class="custom-ol" style="--start: 3;">
-<li>Place the card faceup into the play area. It becomes active. (“When played...” conditionals meet their trigger conditions).
-<li>Resolve the effects of the card.
-</li>
+<li>Place the card faceup into the play area. It becomes active. (“When played...” conditionals meet their trigger conditions).</li>
+<li>Resolve the effects of the card.</li>
 </ol>
 - Operations and events can create lasting effects. Once those effects exist, they become independent of the source operation or event and the card is considered fully resolved and ready to be trashed.
 - An operation or event that initiates a run remains active in the play area for the duration of that run. It is not considered fully resolved until the run is completed and “When the run ends...” effects on the card are resolved.
