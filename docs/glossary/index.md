@@ -1,5 +1,6 @@
 ---
 title: Glossary
+toc_levels: 1..1
 slug_title: Glossary
 slug_subtitle: Core mechanics and terminolgy
 slug_image: "/assets/images/slugs/adn32_preview.jpg"
