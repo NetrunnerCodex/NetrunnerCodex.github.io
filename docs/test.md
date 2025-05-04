@@ -26,7 +26,7 @@ nav_order:
 <li>The Corp gains allotted clicks, default: <span class="nric-grey click"></span><span class="nric-grey click"></span><span class="nric-grey click"></span></li>
 <li>Players may use paid abilities <span class="nric-grey paid"></span>. The Corp may rez non-ice cards <span class="nric-grey rez"></span> and score agendas <span class="nric-grey agenda "></span></li>
 <li>The Corp’s recurring credits <span class="nric-grey re-credit"></span> refill.</li>
-<li>The Corp’s turn begins.
+<li>The Corp’s turn begins.</li>
 </ol>
 - The Corp’s “When your turn begins...” conditionals meet their trigger conditions.
 <ol class="custom-ol" style="--start: 1.5;">
@@ -34,7 +34,6 @@ nav_order:
 </ol>
 - This does not spend <span class="nric-grey click"></span>
 - The Runner wins if R&D contains no cards during this step.
-
 <ol class="custom-ol" style="--start: 2;">
 <li><b>Action Phase</b></li>
 </ol>
