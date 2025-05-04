@@ -18,9 +18,11 @@ nav_order: 90
     </div>
 </div>
 
+<div class="custom-toc">
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
+</div>
 
 The following is an alphabetical list of entries for game rules, terms, and situations that may occur during play.
 
