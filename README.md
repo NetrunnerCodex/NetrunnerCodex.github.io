@@ -14,7 +14,7 @@ https://netrunnercodex.github.io
     </picture>
 </p>
 
-## >_0001_SYSTEM_DATA_UPLOAD
+## >_01_SYSTEM_DATA_UPLOAD
 
 **$IMPORT_DATA**: ACTIVE.<br>
 **$SERVER_FUNCTION**: ANDROID NETRUNNER CARD GAME OPEN-SOURCE RULES LIBRARY.<br>
@@ -23,7 +23,7 @@ https://netrunnercodex.github.io
 
 <p><br></p>
 
-## >_0002_DOMAIN_CONTROLLER
+## >_02_DOMAIN_CONTROLLER
 
 **$SSG**: https://jekyllrb.com<br>
 **$INTERFACE**: https://github.com/just-the-docs/just-the-docs<br>
@@ -31,13 +31,13 @@ https://netrunnercodex.github.io
 
 <p><br></p>
 
-## >_0003_RAW_COGNITIVE_FEED
+## >_03_RAW_COGNITIVE_FEED
 
 **$Android_Netrunner**: [Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
 
 <p><br></p>
 
-## >_0004_DATA_DIRECTIVE_7A-14
+## >_04_DATA_DIRECTIVE_7A-14
 <sup>The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex project is an unofficial, non-profit and non-commercial fansite. This project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
 </sup>
 <br><br>
