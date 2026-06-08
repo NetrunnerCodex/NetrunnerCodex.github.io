@@ -2,7 +2,7 @@
 parent: Introduction
 title: The Corp’s Turn
 slug_title: The Corp’s Turn
-slug_subtitle: Strategize, invest, and advance your agenda
+slug_subtitle: Strategize, invest and advance your agenda
 slug_image: "/assets/images/slugs/adn49_preview13.jpg"
 layout: default
 has_children: false
@@ -120,6 +120,10 @@ This action is not used during the tutorial, see: [Advanced Rules](/docs/advance
 The Corp’s installed cards have two play states: **REZZED**, which means that the card is faceup and active, and **UNREZZED**, which means that the card is facedown and inactive. Each asset, ice, and upgrade (see [Upgrades](/docs/advanced/effects)) card has a rez cost. To **REZ** a card, the Corp must pay its rez cost and turn that card faceup. Agendas do not have a rez cost and cannot be rezzed.
 
 After a card is rezzed, it remains rezzed for the duration of the game unless an effect states otherwise. The Corp can rez asset and upgrade cards at any time without spending a click. The Corp can only rez ice during a run, which is described later, see: [Making Runs](/docs/introduction/runners_turn/#making-runs)
+
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/introduction/playing" class="nav-button prev" aria-label="Previous page">

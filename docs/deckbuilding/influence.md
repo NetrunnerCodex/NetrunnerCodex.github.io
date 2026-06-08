@@ -30,3 +30,16 @@ Neutral cards are not part of any faction, can be used in any deck of the side t
 >
 > Some cards do not have any influence value (this is different than a card that has an influence value of zero). These cards are identified by their
 lack of an influence box. A card without an influence value cannot be used with an identity card that has a different faction affiliation.
+
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
+
+<div class="nav-buttons">
+  <a href="/docs/deckbuilding/restrictions" class="nav-button prev" aria-label="Previous page">
+    <div class="nav-item"></div>
+  </a>
+  <a href="/docs/reference" class="nav-button next" aria-label="Next page">
+    <div class="nav-item"></div>
+  </a>
+</div>

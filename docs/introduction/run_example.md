@@ -76,7 +76,11 @@ Since there are no <span class="grey-font-b">Virus</span> counters on <span clas
 {: .note-title }
 > Start The Tutorial Game
 >
-> Now, players know all the rules necessary to play their first game of Android: Netrunner. If questions arise during the game, players can find detailed information about the game’s mechanics in the [Glossary](/docs/glossary) section of the Rules Reference. After playing their first game, players should read [Advanced Concepts](/docs/advanced) and incorporate the rules described there in all future games.
+> Now, players know all the rules necessary to play their first game of Android: Netrunner. If questions arise during the game, players can find detailed information about the game’s mechanics in the [Glossary](/docs/reference/glossary) section of the Rules Reference. After playing their first game, players should read [Advanced Concepts](/docs/advanced) and incorporate the rules described there in all future games.
+
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/introduction/runners_turn" class="nav-button prev" aria-label="Previous page">

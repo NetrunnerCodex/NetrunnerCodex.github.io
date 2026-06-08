@@ -44,6 +44,10 @@ During a game of Android: Netrunner, the Runner uses their turns to build a rig 
 >
 > The Netrunner Codex teaches the basic rules of Android: Netrunner. Before starting, players should continue reading the [Introduction](/docs/introduction), [Corp](/docs/introduction/corps_turn) and [Runner Turn](/docs/introduction/runners_turn) sections, which contain all the rules necessary to begin playing. If questions arise during play, players can find answers to them within the Rules Reference. After finishing their first game, players should read: [Advanced Concepts](/docs/advanced)
 
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
+
 <div class="nav-buttons">
   <a href="/docs/welcome" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>

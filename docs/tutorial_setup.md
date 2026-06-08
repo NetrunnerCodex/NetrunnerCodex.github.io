@@ -74,6 +74,10 @@ This section walks the players through setting up their first game.
 - 3x Sure Gamble (56) <span class="red-font">Event</span>
 - 3x Armitage Codebusting (59) <span class="red-font">Resource</span>
 
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
+
 <div class="nav-buttons">
   <a href="/docs/components" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>

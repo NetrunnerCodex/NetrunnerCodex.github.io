@@ -39,6 +39,10 @@ The Runner can spend one click and two credits to remove one tag. They remove th
 >
 > To learn how to build a deck, see: [Deckbuilding](/docs/deckbuilding)
 
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
+
 <div class="nav-buttons">
   <a href="/docs/advanced/mechanics" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>

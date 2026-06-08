@@ -219,6 +219,11 @@
   color: #183385; /* Blue-300 */
 }
 
+.blue-font-d2 {
+  font-weight: 400;
+  color: #183385; /* Blue-300 */
+}
+
 .red-font {
   font-weight: 500;
   color: #e94c4c;
@@ -279,6 +284,12 @@ table.sml-table {
 
 .table-group {
   flex: 1;
+}
+
+@media (max-width: 800px) {
+  .tables-container {
+    flex-direction: column;
+  }
 }
 
 // 0007
@@ -706,4 +717,18 @@ table.sml-table {
 .nav-button.no-link.next .nav-item::after {
   content: "Next";
   color: #d3d3d3;
+}
+
+// 0008
+
+blockquote.subnet {
+  border-left: 4px solid $grey-dk-100 !important;
+  background-color: $grey-lt-100 !important;
+  color: $grey-dk-300 !important;
+}
+
+blockquote.subnet::before {
+  // content: "[ SUBNET ]";
+  color: $grey-dk-300 !important;
+  font-weight: 600;
 }

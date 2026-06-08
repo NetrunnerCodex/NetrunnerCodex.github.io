@@ -3,7 +3,7 @@ parent: Advanced Concepts
 title: Effects
 slug_title: Effects
 slug_subtitle: Transform the battle
-slug_image: "/assets/images/slugs/adn51_preview2.jpg"
+slug_image: "/assets/images/slugs/adn08_preview2.jpg"
 layout: default
 has_children: false
 nav_order: 31
@@ -40,6 +40,10 @@ Some game effects give the Corp bad publicity. When the Corp receives bad public
 
 Each time the Runner makes a run, they gain one credit for each bad publicity token the Corp has. The Runner can only spend these credits during that run. At the end of the run, the Runner must return any unspent credits earned through bad
 publicity to the token bank.
+
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/advanced" class="nav-button prev" aria-label="Previous page">

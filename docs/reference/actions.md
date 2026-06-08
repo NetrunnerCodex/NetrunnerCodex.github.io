@@ -1,8 +1,8 @@
 ---
-parent: Glossary
+parent: Reference
 title: Actions Overview
 slug_title: Actions Overview
-slug_subtitle:
+slug_subtitle: Explanations of common actions and their rules
 slug_image: "/assets/images/slugs/adn29_preview4.jpg"
 layout: default
 has_children: false
@@ -40,11 +40,15 @@ nav_order: 92
 > <span class="nric-red click"></span><span class="red-font"> **2**</span><span class="nric-red credit"></span>Remove One Tag<br>
 > <span class="nric-red click"></span> Make One Run
 
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
+
 <div class="nav-buttons">
-  <a href="/docs/glossary" class="nav-button prev" aria-label="Previous page">
+  <a href="/docs/reference/glossary" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
-  <a href="/docs/glossary/symbols" class="nav-button next" aria-label="Next page">
+  <a href="/docs/reference/symbols" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
   </a>
 </div>

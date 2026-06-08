@@ -1,11 +1,12 @@
 ---
 title: Overview
 slug_title: Netrunner Codex
-slug_subtitle: Unofficial mainframe for Android Netrunner rules
+slug_subtitle: Unofficial rules mainframe for Android Netrunner
 slug_image: "/assets/images/slugs/nrcx-slug.png"
 layout: home
 has_children: true
 nav_order: 0
+has_toc: false
 ---
 <div class="slug unified-background">
     <div class="slug-left">
@@ -17,17 +18,15 @@ nav_order: 0
     </div>
 </div>
 
-<span class="blue-font-d">Following the discontinuation of Fantasy Flight Games' Android: Netrunner in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This open-source project is dedicated to celebrating Netrunner’s legacy, ensuring it remains easily accessible to the community, honoring the contributions of its original creators, and inspiring continued exploration of the greatest card game ever made.</span>
+<span class="blue-font-d2">Following the discontinuation of Fantasy Flight Games **Android Netrunner** in 2018, the **Netrunner Codex** has been programmed to preserve the rules and safeguard the history of this iconic card game. This open source project is dedicated to celebrating Netrunner’s legacy, ensuring it remains easily accessible to the community, honoring the contributions of its original creators and inspiring continued exploration of the greatest card game ever made.</span>
 
 {: .note-title }
 > Rules Source
 >
-> FFG Android Netrunner: <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">fantasyflightgames.com > android-netrunner</a> <span class="nric-blue-sml ex-link"></span>
+> The offical FFG Android Netrunner site: <a href="https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game" target="_blank">fantasyflightgames.com > android-netrunner</a> <span class="nric-blue-sml ex-link"></span>
 > - **Learn to Play** 12.2017 (v.2)
 > - **Rules Reference** 08.2018 (v.1.1)
 > - **FAQ** 09.2018 (v.4.2)
-> 
-> © Fantasy Flight Games
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/home/nrcx_home_banner.jpg" alt="Image" style="margin: 10px;" />
@@ -154,15 +153,33 @@ Humanity hurtles into space and lives on the network. Android: Netrunner provide
 {: .note-title }
 > Disclaimer
 >
->The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex project is an unofficial, non-profit and non-commercial fansite. This project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
+> © 2026 Dial‑Up Mod Lab. All original content is released as open source unless otherwise stated. This is a fanmade, unofficial and non‑commercial project shared for personal and educational use only; not for resale or commercial distribution.
 > 
-> Netrunner is a TM of R. Talsorian Games, Inc. Android is a TM & © Fantasy Flight Games. All rights reserved. Netrunner is licensed by Wizards of the Coast LLC. © Wizards.
+> The Netrunner Codex project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games, Wizards of the Coast, R. Talsorian Games, or any other rights holders.
+> 
+> Netrunner, Android and all related trademarks, artwork, card images and intellectual property remain the exclusive property of their respective owners. Such materials are used here for informational and educational purposes only. Their inclusion does not imply any ownership or endorsement.
+>
+> Netrunner is a trademark of R. Talsorian Games, Inc.; © Wizards of the Coast LLC. Android is a trademark and copyright of Fantasy Flight Games.
+
+<br>
+
+{: .subnet }
+> - **[Welcome to the future](/docs/welcome)** <span class="blue-font">></span> The World Changed. People Did Not.
+> - **[Game Overview](/docs/game_overview)** <span class="blue-font">></span> A card game of cyber struggles in a dystopian future 
+> - **[Components (Core set)](/docs/components)** <span class="blue-font">></span> A breakdown of all the cards and tokens in the Core Set
+> - **[Tutorial Setup](/docs/tutorial_setup)** <span class="blue-font">></span> Setting up the first game
+> - **[Game Example](/docs/example)** <span class="blue-font">></span> A visual guide for card zones and placement
+
+<p><br></p>
+
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
 
 <div class="nav-buttons">
   <div class="nav-button no-link prev" aria-label="page disabled">
     <div class="nav-item"></div>
       </div>
-  <a href="/docs/guide" class="nav-button next" aria-label="Next page">
+  <a href="/docs/welcome" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
   </a>
 </div>

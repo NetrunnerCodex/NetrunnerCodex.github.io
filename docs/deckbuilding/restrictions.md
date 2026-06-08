@@ -41,8 +41,12 @@ of 5 (55, 60, 65, etc.).
 
 - A deck cannot contain out-of-faction cards with a total influence value that exceeds the influence limit listed on the chosen identity card, see: [Influence](/docs/deckbuilding/influence). Cards that match the faction of the identity card do not count against this limit.
 
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
+
 <div class="nav-buttons">
-  <a href="/docs/deckbuilding" class="nav-button prev" aria-label="Previous page">
+  <a href="/docs/deckbuilding/why" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
   <a href="/docs/deckbuilding/influence" class="nav-button next" aria-label="Next page">

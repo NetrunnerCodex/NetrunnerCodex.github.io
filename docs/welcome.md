@@ -28,8 +28,12 @@ Computers have continued to advance along with discoveries in the field of neuro
   
 Rogue operators: Computer specialists with the hardware, software, and raw talent to challenge the system, use the sprawl of the net to their advantage. They are runners. This is their story.
 
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
+
 <div class="nav-buttons">
-  <a href="/docs/guide" class="nav-button prev" aria-label="Previous page">
+  <a href="/../../index" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
   <a href="/docs/game_overview" class="nav-button next" aria-label="Next page">
