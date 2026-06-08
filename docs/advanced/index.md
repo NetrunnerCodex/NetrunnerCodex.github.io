@@ -6,6 +6,8 @@ slug_image: "/assets/images/slugs/adn44_preview1.jpg"
 layout: home
 has_children: true
 nav_order: 30
+has_toc: false
+search_exclude: true
 ---
 <div class="slug">
     <div class="title-container">
@@ -17,7 +19,18 @@ nav_order: 30
     </div>
 </div>
 
-{: .no_toc }
+Advanced Concepts explores the deeper mechanics of Android: Netrunner - the timing layers, interactions and rules that shape high‑level play. Once you’re comfortable with the basics, this is where the game really opens up.
+
+<br>
+
+{: .subnet }
+> - **[Effects](/docs/advanced/effects)** <span class="blue-font">></span> Transform the battle  
+> - **[Resources](/docs/advanced/resources)** <span class="blue-font">></span> Recurring, conditional and temporary resources 
+> - **[Interactions](/docs/advanced/interactions)** <span class="blue-font">></span> Calculated risks and covert tactics
+> - **[Mechanics](/docs/advanced/mechanics)** <span class="blue-font">></span> Ever-shifting tactics
+> - **[Additional Actions](/docs/advanced/additional)** <span class="blue-font">></span> Expanding actions and tactical choices
+
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/introduction/run_example" class="nav-button prev" aria-label="Previous page">

@@ -1,14 +1,14 @@
 ---
+parent: Reference
 title: Glossary
-toc: false
-toc_levels: 1..1
 slug_title: Glossary
-slug_subtitle: Core mechanics and terminolgy
-slug_image: "/assets/images/slugs/adn32_preview.jpg"
-layout: home
-has_children: true
-nav_order: 90
+slug_subtitle: Definitions of key terms used throughout the game
+slug_image: "/assets/images/slugs/blackguard-art.png"
+layout: default
+has_children: false
+nav_order: 91
 ---
+
 <div class="slug">
     <div class="title-container">
         <h1 class="page-slug_title">{{ page.slug_title }}</h1>
@@ -1687,13 +1687,15 @@ A token that is typically hosted on virus-related cards. When virus counters are
 
 **Related**: Bank, Purge.
 
+<p><br></p>
+`Source: Android Netrunner > Rules Reference 08.2018 (v.1.1)`
+<p><br></p>
+
 <div class="nav-buttons">
-  <a href="/docs/deckbuilding/influence" class="nav-button prev" aria-label="Previous page">
+  <a href="/docs/reference" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
-  <a href="/docs/glossary/actions" class="nav-button next" aria-label="Next page">
+  <a href="/docs/reference/actions" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
   </a>
 </div>
-
-{: .no_toc }

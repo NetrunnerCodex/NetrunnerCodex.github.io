@@ -1,12 +1,13 @@
 ---
-parent: Overview
-title: NR:CX Guide
-slug_title: NR:CX Guide
-slug_subtitle: How to use the Netrunner Codex
+parent: About
+title: Search
+slug_title: Search
+slug_subtitle: How to search the Netrunner Codex
 slug_image: "/assets/images/slugs/chp03-04_preview1.png"
 layout: default
 has_children: false
-nav_order: 6
+nav_order: 520
+search_exclude: true
 ---
 <div class="slug">
     <div class="title-container">
@@ -18,18 +19,19 @@ nav_order: 6
     </div>
 </div>
 
-# Search
 The Netrunner Codex user-friendly interface provides streamlined navigation and enhanced search functionality to quickly access essential rules and game information.
+
+Non-rule pages have been excluded from the search on this site.
 
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/overview/search.png" alt="Image" style="margin: 10px;" />
 </div>
 
 <div class="nav-buttons">
-  <a href="/../../index" class="nav-button prev" aria-label="Previous page">
+  <a href="/docs/about/nrcx" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
-  <a href="/docs/welcome" class="nav-button next" aria-label="Next page">
+  <a href="/docs/about/source" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
   </a>
 </div>

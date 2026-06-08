@@ -2,7 +2,7 @@
 parent: Overview
 title: Components
 slug_title: Components (Core set)
-slug_subtitle:
+slug_subtitle: A breakdown of all the cards and tokens in the Core Set
 slug_image: "/assets/images/slugs/adn29_preview5.jpg"
 layout: default
 has_children: false
@@ -116,6 +116,10 @@ The components in the game are presented here for identification purposes. A com
         <img src="/assets/images/overview/components/click.png" alt="Click Tracker Tokens">
     </div>
 </div>
+
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/game_overview" class="nav-button prev" aria-label="Previous page">

@@ -1,5 +1,5 @@
 title: Netrunner Codex
-description: TBC
+description: Unofficial rules mainframe for Android Netrunner
 theme: just-the-docs
 
 url: https://netrunnercodex.github.io
@@ -35,6 +35,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  subnet:
+    title: SUBNET
+    color: grey-lt
 
 back_to_top: true
 back_to_top_text: "Back to top"

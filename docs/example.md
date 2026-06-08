@@ -2,7 +2,7 @@
 parent: Overview
 title: Game Example
 slug_title: Game Example
-slug_subtitle:
+slug_subtitle: A visual guide for card zones and placement
 slug_image: "/assets/images/slugs/adn49_preview5.jpg"
 layout: default
 has_children: false
@@ -21,6 +21,10 @@ nav_order: 18
 <div style="text-align: center; margin-top: 0; padding-top: 0;">
     <img src="/assets/images/overview/example.jpg" alt="Image 1" style="margin: 10px;" />
 </div>
+
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/tutorial_setup" class="nav-button prev" aria-label="Previous page">

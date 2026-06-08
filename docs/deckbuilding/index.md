@@ -6,6 +6,8 @@ slug_image: "/assets/images/slugs/adn25_preview2.jpg"
 layout: home
 has_children: true
 nav_order: 40
+has_toc: false
+search_exclude: true
 ---
 <div class="slug">
     <div class="title-container">
@@ -17,30 +19,22 @@ nav_order: 40
     </div>
 </div>
 
-{: .no_toc }
-
 In Android: Netrunner, players can customize their decks by adding and removing cards, creating a unique play experience.
 
-# Why deckbuild?
+<br>
 
-Deckbuilding is a great way to experience the game in a completely new way. Instead of adapting to the game, you can force the game to adapt to you. Deckbuilding opens up new strategies, new experiences, and ultimately can lead to more exciting games where you feel more invested. When you deckbuild, you do not just participate in the game; you actively shape how the game is played.
+{: .subnet }
+> - **[Why Deckbuild](/docs/deckbuilding/why)** <span class="blue-font">></span> Exploring how players craft the game they want to play
+> - **[Restrictions](/docs/deckbuilding/restrictions)** <span class="blue-font">></span> Balancing gameplay
+> - **[Influence](/docs/deckbuilding/influence)** <span class="blue-font">></span> Unlock cross-faction strategy
 
-When first building a deck, it is usually a good idea to start with one of the starter decks for a faction rather than start from scratch. A faction’s starter deck is comprised of all cards of that faction in this core set plus all the appropriate neutral cards for that faction’s side (Corp or Runner). After playing Android: Netrunner a few times with these different decks, you should have a general idea of what the various cards do.
-
-Pick your favorite faction, and then modify that faction’s starter deck by switching out some cards for cards from other factions. In most cases you will want to build a deck close to the minimum deck size, as it makes your deck more efficient. Don’t worry about building the perfect deck–enjoy the process and try out cards that are appealing to you and seem fun to play with.
-
-Another thing the Corporation should consider is how much ice you have in your deck. You will want to make sure you put in enough to stop the Runner. We
-recommend building about 15-20 pieces of ice into a 45-49 card deck when first building new decks. Also make sure you have enough ways to generate credits
-quicker than the regular <span class="nric-grey click"></span> for <span class="grey-font-b">1</span><span class="nric-grey credit"></span>action. Having a strong economy will give you plenty of credits to spend and put a lot of pressure on your opponent.
-
-Once you’ve built your deck, it is time to play some games! This is where you will begin to understand whether or not your deck is working. Do you have
-enough resources? Is your ice too expensive? Are you drawing your icebreakers fast enough? Figure out what the weak points of your deck are, and try switching out some cards. Looking through your cards again, you may even have another idea for a different deck!
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/advanced/additional" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
-  <a href="/docs/deckbuilding/restrictions" class="nav-button next" aria-label="Next page">
+  <a href="/docs/deckbuilding/why" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
   </a>
 </div>

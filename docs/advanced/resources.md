@@ -2,7 +2,7 @@
 parent: Advanced Concepts
 title: Resources
 slug_title: Resources
-slug_subtitle: Resource management
+slug_subtitle: Recurring, conditional and temporary resources
 slug_image: "/assets/images/slugs/adn41_art_fawkes.png"
 layout: default
 has_children: false
@@ -31,6 +31,10 @@ A player can only spend recurring credits as instructed by the card that is host
 ## Credit Cost “X”
 
 Some cards have a variable credit cost of “X.” Such a card describes how a player determines its cost.
+
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>
 
 <div class="nav-buttons">
   <a href="/docs/advanced/effects" class="nav-button prev" aria-label="Previous page">

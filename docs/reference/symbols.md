@@ -1,13 +1,24 @@
 ---
-parent: Glossary
+parent: Reference
 title: Symbols
 slug_title: Symbols
-slug_subtitle:
+slug_subtitle: Visual icons used across cards and rules
 slug_image: "/assets/images/slugs/adn44_preview2.jpg"
 layout: default
 has_children: false
 nav_order: 94
 ---
+
+<style>
+.symbol-table {
+  table-layout: fixed;
+}
+
+.symbol-table td:first-child,
+.symbol-table th:first-child {
+  width: 40px !important;
+}
+</style>
 
 <div class="slug">
     <div class="title-container">
@@ -22,7 +33,7 @@ nav_order: 94
 <div class="tables-container">
   <div class="table-group">
     <h2>Corporation Symbols</h2>
-    <table class="sml-table">
+    <table class="sml-table symbol-table">
       <tr>
         <td><span class="nric-blue haas"></span></td>
         <td>Haas-Bioroid</td>
@@ -44,7 +55,7 @@ nav_order: 94
 
   <div class="table-group">
     <h2>Runner Symbols</h2>
-    <table class="sml-table">
+       <table class="sml-table symbol-table">
       <tr>
         <td><span class="nric-red anarch"></span></td>
         <td>Anarch</td>
@@ -65,7 +76,7 @@ nav_order: 94
 
 The following symbols appear on cards:
 
-<table class="sml-table">
+   <table class="sml-table symbol-table">
     <tr>
       <td><span class="nric-grey credit"></span></td>
       <td>This symbol stands for <b>CREDIT</b>. It always appears with a numeral, such as <span class="grey-font-b">1</span><span class="nric-grey credit"></span>, which means “one credit,” or <span class="grey-font-b">3</span><span class="nric-grey credit"></span>, which means “three credits.”</td>
@@ -96,11 +107,15 @@ The following symbols appear on cards:
     </tr>    
   </table>
 
+<p><br></p>
+`Source: Android Netrunner > Learn to Play 12.2017 (v.2)`
+<p><br></p>  
+
 <div class="nav-buttons">
-  <a href="/docs/glossary/actions" class="nav-button prev" aria-label="Previous page">
+  <a href="/docs/reference/actions" class="nav-button prev" aria-label="Previous page">
     <div class="nav-item"></div>
   </a>
-  <div class="nav-button no-link next" aria-label="Next page disabled">
+  <a href="/docs/futureproofing" class="nav-button next" aria-label="Next page">
     <div class="nav-item"></div>
-  </div>
+  </a>
 </div>
