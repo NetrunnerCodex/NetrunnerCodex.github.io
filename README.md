@@ -39,15 +39,12 @@ https://netrunnercodex.github.io
 <p><br></p>
 
 ## >_04_DATA_DIRECTIVE_7A-14
-<sup>The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Netrunner Codex project is an unofficial, non-profit and non-commercial fansite. This project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games or any other rights holders. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
-</sup>
-<br><br>
 <sup>
-© 2026 [Dial‑Up Mod Lab](https://linktr.ee/DialUpModLab). All original content is released as open source unless otherwise stated. This is a fanmade, unofficial and non‑commercial project shared for personal and educational use only; not for resale or commercial distribution.
-<br><br>
+© 2026 <a href="https://linktr.ee/DialUpModLab" target="_blank">Dial-Up Mod Lab</a>. All original content is released as open source unless otherwise stated. This is a fanmade, unofficial and non‑commercial project shared for personal and educational use only; not for resale or commercial distribution.
+<br>
 The Netrunner Codex project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games, Wizards of the Coast, R. Talsorian Games, or any other rights holders.
-<br><br>
+<br>
 Netrunner, Android and all related trademarks, artwork, card images and intellectual property remain the exclusive property of their respective owners. Such materials are used here for informational and educational purposes only. Their inclusion does not imply any ownership or endorsement.
-<br><br>
+<br>
 Netrunner is a trademark of R. Talsorian Games, Inc.; © Wizards of the Coast LLC. Android is a trademark and copyright of Fantasy Flight Games.
 </sup>
